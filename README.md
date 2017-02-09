@@ -5,6 +5,7 @@ deep learning.  Only books that add significant value to understanding
 the topic are listed.
 
 
+
 ## General Deep Learning 
 
   * __Deep Learning__  
@@ -13,6 +14,7 @@ the topic are listed.
   * __Pattern Recognition and Machine Learning__  
     _Christopher Bishop_ 
     
+
 
 ## Applications
 
