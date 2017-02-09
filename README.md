@@ -16,6 +16,6 @@ the topic are listed.
 
 ## Applications
 
-  * __Probabilistic Robotics__
+  * __Probabilistic Robotics__  
     _Sebastian Thrun, Wolfram Burgard and Dieter Fox_
     
