@@ -8,7 +8,7 @@ the topic are listed.
 
 ## Introductory and General Machine Learning
 
-  * __Introduction To Machine Learning__
+  * __Introduction To Machine Learning__ 
     _Ethem Alpaydin_
     
     
