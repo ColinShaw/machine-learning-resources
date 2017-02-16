@@ -31,3 +31,12 @@ the topic are listed.
   * __Probabilistic Robotics__  
     _Sebastian Thrun, Wolfram Burgard and Dieter Fox_
     
+
+
+## Relevant Articles
+
+  * End to End Learning for Self-Driving Cars](https://arxiv.org/pdf/1604.07316v1.pdf)
+
+  * [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/pdf/1505.04597.pdf)
+  
+  
