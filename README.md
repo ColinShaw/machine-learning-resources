@@ -35,7 +35,7 @@ the topic are listed.
 
 ## Relevant Articles
 
-  * End to End Learning for Self-Driving Cars](https://arxiv.org/pdf/1604.07316v1.pdf)
+  * [End to End Learning for Self-Driving Cars](https://arxiv.org/pdf/1604.07316v1.pdf)
 
   * [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/pdf/1505.04597.pdf)
   
