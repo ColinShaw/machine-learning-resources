@@ -2,7 +2,7 @@
 
 This is a curated list of books that I have found useful regarding
 deep learning.  Only books that add significant value to understanding
-the topic are listed.
+the topic are listed.  Also, a list of good articles.
 
 
 
