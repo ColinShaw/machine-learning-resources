@@ -33,8 +33,14 @@ the topic are listed.
     
 
 
-## Relevant Articles
+## Interesting and Relevant Articles
 
+  * [Neocognitron: A Self-organizing Neural Network Model for a Mechanism of Pattern Recognition Unaffected by Shift in Position](http://www.cs.princeton.edu/courses/archive/spr08/cos598B/Readings/Fukushima1980.pdf)
+
+  * [Gradient-Based Learning Applied to Document Recognition](yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
+  
+  * [Visualizing and Understanding Convolutional Networks](https://arxiv.org/pdf/1311.2901.pdf)
+  
   * [End to End Learning for Self-Driving Cars](https://arxiv.org/pdf/1604.07316v1.pdf)
 
   * [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/pdf/1505.04597.pdf)
