@@ -1,8 +1,9 @@
-# Deep Learning Books
+# Machine Learning Resources
 
-This is a curated list of books that I have found useful regarding
-deep learning.  Only books that add significant value to understanding
-the topic are listed.  Also, a list of good articles.
+This is a curated list of resources that I have found useful regarding
+machine learning, in particular deep learning.  Only books that add 
+significant value to understanding the topic are listed.  Also, a list of 
+good articles and some other resources.
 
 
 
@@ -30,8 +31,14 @@ the topic are listed.  Also, a list of good articles.
 
   * __Probabilistic Robotics__  
     _Sebastian Thrun, Wolfram Burgard and Dieter Fox_
-    
 
+
+
+## Online Resources
+
+  * [Leonardo Araujo dos Santos' Artificial Intelligence and Deep Learning GitBook](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/)
+  
+  
 
 ## Interesting and Relevant Articles
 
