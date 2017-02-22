@@ -34,12 +34,6 @@ good articles and some other resources.
 
 
 
-## Online Resources
-
-  * [Leonardo Araujo dos Santos' Artificial Intelligence and Deep Learning GitBook](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/)
-  
-  
-
 ## Interesting and Relevant Articles
 
   * [Neocognitron: A Self-organizing Neural Network Model for a Mechanism of Pattern Recognition Unaffected by Shift in Position](http://www.cs.princeton.edu/courses/archive/spr08/cos598B/Readings/Fukushima1980.pdf)
@@ -61,3 +55,22 @@ good articles and some other resources.
   * [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/pdf/1511.06434.pdf)
   
   * [Why Does Deep and Cheap Learning Work So Well?](https://arxiv.org/pdf/1608.08225.pdf)
+
+
+
+## Online Resources
+
+  * [Michael Nielsen's Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
+
+  * [Leonardo Araujo dos Santos' Artificial Intelligence and Deep Learning GitBook](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/)
+  
+  * [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
+  
+  
+
+## Cool Online Stuff
+
+  * [Floyd](https://www.floydhub.com/)
+
+  * [Image-to-image Demo](http://affinelayer.com/pixsrv/index.html)
+  
