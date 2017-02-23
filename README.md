@@ -58,7 +58,7 @@ good articles and some other resources.
 
 
 
-## Online Resources
+## Online Learning Resources
 
   * [Michael Nielsen's Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
 
@@ -68,15 +68,17 @@ good articles and some other resources.
   
   
 
-## Cool Online Stuff
+## Interesting Online Projects and Tools
 
   * [Floyd](https://www.floydhub.com/)
 
   * [Image-to-image Demo](http://affinelayer.com/pixsrv/index.html)
   
+  * [Creating Photorealistic Images with Neural Networks and a Gameboy Camera](http://www.pinchofintelligence.com/photorealistic-neural-network-gameboy/)
+  
 
 
-## Cool Data Sets
+## Data Sets
 
   * [Udacity's annotated driving dataset](https://github.com/udacity/self-driving-car/tree/master/annotations)
 
