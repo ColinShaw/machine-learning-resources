@@ -74,3 +74,11 @@ good articles and some other resources.
 
   * [Image-to-image Demo](http://affinelayer.com/pixsrv/index.html)
   
+
+
+## Cool Data Sets
+
+  * [Udacity's annotated driving dataset](https://github.com/udacity/self-driving-car/tree/master/annotations)
+
+  * [Playing for Data: Ground Truth from Computer Games](https://download.visinf.tu-darmstadt.de/data/from_games/)
+  
