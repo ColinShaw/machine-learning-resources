@@ -56,7 +56,7 @@ good articles and some other resources.
   
   * [Why Does Deep and Cheap Learning Work So Well?](https://arxiv.org/pdf/1608.08225.pdf)
   
-  * [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/pdf/1510.00149.PDF)
+  * [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/pdf/1510.00149.pdf)
 
 
 
@@ -79,6 +79,7 @@ good articles and some other resources.
   * [Creating Photorealistic Images with Neural Networks and a Gameboy Camera](http://www.pinchofintelligence.com/photorealistic-neural-network-gameboy/)
   
   * [Self-driving car in a simulator with A Tiny Neural Network](https://github.com/xslittlegrass/CarND-Behavioral-Cloning)
+
 
 
 ## Data Sets
