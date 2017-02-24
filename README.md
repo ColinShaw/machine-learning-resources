@@ -79,6 +79,10 @@ good articles and some other resources.
   * [Creating Photorealistic Images with Neural Networks and a Gameboy Camera](http://www.pinchofintelligence.com/photorealistic-neural-network-gameboy/)
   
   * [Self-driving car in a simulator with A Tiny Neural Network](https://github.com/xslittlegrass/CarND-Behavioral-Cloning)
+  
+  * [Alex Champandard's Neural Doodle](https://github.com/alexjc/neural-doodle)
+  
+  * [Alex Champandard's Neural Enhance](https://github.com/alexjc/neural-enhance)
 
 
 
