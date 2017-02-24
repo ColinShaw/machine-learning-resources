@@ -55,6 +55,8 @@ good articles and some other resources.
   * [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/pdf/1511.06434.pdf)
   
   * [Why Does Deep and Cheap Learning Work So Well?](https://arxiv.org/pdf/1608.08225.pdf)
+  
+  * [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/pdf/1510.00149.PDF)
 
 
 
@@ -76,6 +78,7 @@ good articles and some other resources.
   
   * [Creating Photorealistic Images with Neural Networks and a Gameboy Camera](http://www.pinchofintelligence.com/photorealistic-neural-network-gameboy/)
   
+  * [Self-driving car in a simulator with A Tiny Neural Network](https://github.com/xslittlegrass/CarND-Behavioral-Cloning)
 
 
 ## Data Sets
