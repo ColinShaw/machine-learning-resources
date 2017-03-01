@@ -10,7 +10,7 @@ good articles and some other resources.
 ## Background 
 
   * __Introduction to Mathematical Statistics__     
-    _Robert Hogg, Joseph McKean and Allen Craig_
+    _Robert Hogg, Joeseph McKean and Allen Craig_
     
     
 
