@@ -7,6 +7,13 @@ good articles and some other resources.
 
 
 
+## Background 
+
+  * __Introduction to Mathematical Statistics__     
+    _Robert Hogg, Joseph McKean and Allen Craig_
+    
+    
+
 ## Introductory 
 
   * __Introduction To Machine Learning__   
