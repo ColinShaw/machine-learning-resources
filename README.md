@@ -77,6 +77,8 @@ good articles and some other resources.
 ## Interesting Online Projects and Tools
 
   * [Floyd](https://www.floydhub.com/)
+  
+  * [Deep Learning Gallery](http://deeplearninggallery.com/)
 
   * [Image-to-image Demo](http://affinelayer.com/pixsrv/index.html)
   
