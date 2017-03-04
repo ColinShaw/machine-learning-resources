@@ -89,6 +89,8 @@ good articles and some other resources.
   * [Alex Champandard's Neural Doodle](https://github.com/alexjc/neural-doodle)
   
   * [Alex Champandard's Neural Enhance](https://github.com/alexjc/neural-enhance)
+  
+  * [Will Roscoe's Lane Following Autopilot with Keras & Tensorflow](https://wroscoe.github.io/keras-lane-following-autopilot.html)
 
 
 
