@@ -32,8 +32,8 @@ good articles and some other resources.
   * __Pattern Recognition and Machine Learning__     
     _Christopher Bishop_ 
     
-   * __Machine Learning: A Probabilistic Perspective__     
-     _Kevin Murphy_
+  * __Machine Learning: A Probabilistic Perspective__     
+    _Kevin Murphy_
 
 
     
