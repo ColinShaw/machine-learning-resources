@@ -46,6 +46,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Connecting Images and Natural Language (Andrej Karpathy)](http://cs.stanford.edu/people/karpathy/main.pdf)
+  
   * [Neocognitron: A Self-organizing Neural Network Model for a Mechanism of Pattern Recognition Unaffected by Shift in Position](http://www.cs.princeton.edu/courses/archive/spr08/cos598B/Readings/Fukushima1980.pdf)
 
   * [Gradient-Based Learning Applied to Document Recognition](yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
