@@ -86,6 +86,8 @@ good articles and some other resources.
 
   * [Floyd](https://www.floydhub.com/)
   
+  * [Floyd All-in-one Docker Image](https://github.com/floydhub/dl-docker)
+  
   * [Deep Learning Gallery](http://deeplearninggallery.com/)
 
   * [Image-to-image Demo](http://affinelayer.com/pixsrv/index.html)
