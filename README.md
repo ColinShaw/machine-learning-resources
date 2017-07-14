@@ -82,6 +82,12 @@ good articles and some other resources.
   
   
 
+## News 
+
+  * [AAAI's AITopics Feed](https://aitopics.org/search)
+  
+  
+
 ## Interesting Online Projects and Tools
 
   * [Floyd](https://www.floydhub.com/)
