@@ -89,6 +89,8 @@ good articles and some other resources.
   * [Floyd All-in-one Docker Image](https://github.com/floydhub/dl-docker)
   
   * [Deep Learning Gallery](http://deeplearninggallery.com/)
+  
+  * [DCGAN-tensorflow](https://github.com/carpedm20/DCGAN-tensorflow)
 
   * [Image-to-image Demo](http://affinelayer.com/pixsrv/index.html)
   
