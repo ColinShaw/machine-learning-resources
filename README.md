@@ -111,6 +111,8 @@ good articles and some other resources.
   * [Will Roscoe's Lane Following Autopilot with Keras & Tensorflow](https://wroscoe.github.io/keras-lane-following-autopilot.html)
   
   * [Julien Despois' Latent Space Visualization](https://github.com/despoisj/LatentSpaceVisualization)
+  
+  * [Alexia J-M's MEOW Generator (GAN applied to cat faces)](https://github.com/AlexiaJM/Deep-learning-with-cats)
 
 
 
