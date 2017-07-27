@@ -69,6 +69,8 @@ good articles and some other resources.
   * [Why Does Deep and Cheap Learning Work So Well?](https://arxiv.org/pdf/1608.08225.pdf)
   
   * [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/pdf/1510.00149.pdf)
+  
+  * [Kyle's article on AVO](https://arxiv.org/pdf/1707.07113.pdf)
 
 
 
@@ -79,6 +81,8 @@ good articles and some other resources.
   * [Leonardo Araujo dos Santos' Artificial Intelligence and Deep Learning GitBook](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/)
   
   * [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
+  
+  * [Deep Learning without Backpropagation (synthetic gradients)](https://iamtrask.github.io/2017/03/21/synthetic-gradients/)
   
   
 
