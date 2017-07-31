@@ -46,6 +46,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Robust Physical-World Attacks on Machine Learning Models](https://arxiv.org/pdf/1707.08945v1.pdf)
+
   * [Speeding up Semantic Segmentation for Autonomous Driving](https://openreview.net/pdf?id=S1uHiFyyg)
 
   * [Connecting Images and Natural Language (Andrej Karpathy's Dissertation)](http://cs.stanford.edu/people/karpathy/main.pdf)
