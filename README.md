@@ -46,6 +46,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Toward Geometric Deep SLAM](https://arxiv.org/pdf/1707.07410.pdf)
+
   * [Robust Physical-World Attacks on Machine Learning Models](https://arxiv.org/pdf/1707.08945v1.pdf)
 
   * [Speeding up Semantic Segmentation for Autonomous Driving](https://openreview.net/pdf?id=S1uHiFyyg)
