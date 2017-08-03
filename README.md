@@ -46,6 +46,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Audio Super Resolution using Neural Networks](https://arxiv.org/pdf/1708.00853.pdf)
+
   * [Toward Geometric Deep SLAM](https://arxiv.org/pdf/1707.07410.pdf)
 
   * [Robust Physical-World Attacks on Machine Learning Models](https://arxiv.org/pdf/1707.08945v1.pdf)
@@ -100,6 +102,8 @@ good articles and some other resources.
 
 ## Interesting Online Projects and Tools
 
+  * [Audio Super Resolution Using Neural Networks](https://github.com/kuleshov/audio-super-res)
+  
   * [Floyd](https://www.floydhub.com/)
   
   * [Floyd All-in-one Docker Image](https://github.com/floydhub/dl-docker)
