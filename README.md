@@ -46,6 +46,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/pdf/1605.06211.pdf)
+
   * [Audio Super Resolution using Neural Networks](https://arxiv.org/pdf/1708.00853.pdf)
 
   * [Toward Geometric Deep SLAM](https://arxiv.org/pdf/1707.07410.pdf)
