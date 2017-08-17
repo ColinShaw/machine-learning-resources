@@ -48,6 +48,8 @@ good articles and some other resources.
 
   * [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/pdf/1605.06211.pdf)
   
+  * [PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Kendall_PoseNet_A_Convolutional_ICCV_2015_paper.pdf)
+  
   * [Systematic Testing of Convolutional Neural Networks for Autonomous Driving](https://arxiv.org/pdf/1708.03309.pdf)
 
   * [Audio Super Resolution using Neural Networks](https://arxiv.org/pdf/1708.00853.pdf)
