@@ -98,6 +98,8 @@ good articles and some other resources.
   
   * [Deep Learning without Backpropagation (synthetic gradients)](https://iamtrask.github.io/2017/03/21/synthetic-gradients/)
   
+  * [A quick complete tutorial to save and restore Tensorflow models](http://cv-tricks.com/tensorflow-tutorial/save-restore-tensorflow-models-quick-complete-tutorial/)
+  
   
 
 ## News 
