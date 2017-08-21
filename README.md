@@ -57,6 +57,8 @@ good articles and some other resources.
   * [Audio Super Resolution using Neural Networks](https://arxiv.org/pdf/1708.00853.pdf)
   
   * [Very Deep Convolutional Networks for Large-scale Image Recognition](http://arxiv.org/pdf/1409.1556v6.pdf)
+  
+  * [Clinical Intervention Prediction and Understanding with Deep Neural Networks](http://mucmd.org/CameraReadySubmissions/65%5CCameraReadySubmission%5Cclinical-intervention-prediction%20(4).pdf)
 
   * [Toward Geometric Deep SLAM](https://arxiv.org/pdf/1707.07410.pdf)
 
