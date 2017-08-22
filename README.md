@@ -116,6 +116,8 @@ good articles and some other resources.
 
 ## Interesting Online Projects and Tools
 
+  * [Teaching a car to avoid obstacles using Reinforcement Learning](https://github.com/kargarisaac/RL/tree/master/RL_car)
+
   * [Audio Super Resolution Using Neural Networks](https://github.com/kuleshov/audio-super-res)
   
   * [Floyd](https://www.floydhub.com/)
