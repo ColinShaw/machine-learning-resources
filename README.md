@@ -46,6 +46,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Maxout Networks](https://arxiv.org/pdf/1302.4389v4.pdf)
+
   * [Training Very Deep Networks](http://papers.nips.cc/paper/5850-training-very-deep-networks.pdf)
   
   * [Adam: A Methos For Stochastic Optimization](https://arxiv.org/pdf/1412.6980.pdf)
