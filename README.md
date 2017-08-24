@@ -104,6 +104,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
   * [Michael Nielsen's Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
 
   * [Leonardo Araujo dos Santos' Artificial Intelligence and Deep Learning GitBook](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/)
