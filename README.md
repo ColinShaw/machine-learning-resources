@@ -46,6 +46,10 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Training Very Deep Networks](http://papers.nips.cc/paper/5850-training-very-deep-networks.pdf)
+  
+  * [Adam: A Methos For Stochastic Optimization](https://arxiv.org/pdf/1412.6980.pdf)
+
   * [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/pdf/1605.06211.pdf)
   
   * [PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Kendall_PoseNet_A_Convolutional_ICCV_2015_paper.pdf)
