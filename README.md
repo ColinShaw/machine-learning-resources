@@ -46,6 +46,10 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Understanding image representations by measuring their equivariance and equivalence](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Lenc_Understanding_Image_Representations_2015_CVPR_paper.pdf)
+  
+  * [Understanding Deep Image Representations by Inverting Them](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Mahendran_Understanding_Deep_Image_2015_CVPR_paper.pdf)
+
   * [YOLO9000: Better, Faster, Stronger](https://arxiv.org/pdf/1612.08242.pdf)
 
   * [Maxout Networks](https://arxiv.org/pdf/1302.4389v4.pdf)
