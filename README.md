@@ -53,6 +53,8 @@ good articles and some other resources.
   * [YOLO9000: Better, Faster, Stronger](https://arxiv.org/pdf/1612.08242.pdf)
 
   * [Maxout Networks](https://arxiv.org/pdf/1302.4389v4.pdf)
+  
+  * [Going deeper with convolutions](https://arxiv.org/pdf/1409.4842.pdf)
 
   * [Training Very Deep Networks](http://papers.nips.cc/paper/5850-training-very-deep-networks.pdf)
   
