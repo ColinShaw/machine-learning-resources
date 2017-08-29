@@ -58,7 +58,13 @@ good articles and some other resources.
 
   * [Training Very Deep Networks](http://papers.nips.cc/paper/5850-training-very-deep-networks.pdf)
   
-  * [Adam: A Methos For Stochastic Optimization](https://arxiv.org/pdf/1412.6980.pdf)
+  * [Adam: A Method For Stochastic Optimization](https://arxiv.org/pdf/1412.6980.pdf)
+  
+  * [Dropout: A simple way to prevent neural networks from overfitting](http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
+  
+  * [Delving deep into rectifiers: Surpassing human-level performance on imagenet classification](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/He_Delving_Deep_into_ICCV_2015_paper.pdf)
+  
+  * [Improving neural networks by preventing co-adaptation of feature detectors](http://arxiv.org/pdf/1207.0580.pdf)
 
   * [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/pdf/1605.06211.pdf)
   
