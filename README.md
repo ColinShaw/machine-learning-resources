@@ -46,7 +46,7 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
-  * [Understanding image representations by measuring their equivariance and equivalence](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Lenc_Understanding_Image_Representations_2015_CVPR_paper.pdf)
+   * [Understanding image representations by measuring their equivariance and equivalence](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Lenc_Understanding_Image_Representations_2015_CVPR_paper.pdf)
   
   * [Understanding Deep Image Representations by Inverting Them](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Mahendran_Understanding_Deep_Image_2015_CVPR_paper.pdf)
 
@@ -115,6 +115,8 @@ good articles and some other resources.
 
 
 ## Online Learning Resources
+
+  * [37 Reasons why your Neural Network is not working](https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607)
 
   * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
