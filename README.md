@@ -46,7 +46,9 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
-   * [Understanding image representations by measuring their equivariance and equivalence](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Lenc_Understanding_Image_Representations_2015_CVPR_paper.pdf)
+  * [SqueezeDet: Unified, Small, Low Power Fully Convolutional Neural Networks for Real-Time Object Detection for Autonomous Driving](https://arxiv.org/pdf/1612.01051.pdf)
+  
+  * [Understanding image representations by measuring their equivariance and equivalence](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Lenc_Understanding_Image_Representations_2015_CVPR_paper.pdf)
   
   * [Understanding Deep Image Representations by Inverting Them](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Mahendran_Understanding_Deep_Image_2015_CVPR_paper.pdf)
 
