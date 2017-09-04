@@ -60,6 +60,8 @@ good articles and some other resources.
 
   * [Training Very Deep Networks](http://papers.nips.cc/paper/5850-training-very-deep-networks.pdf)
   
+  * [Batch normalization: Accelerating deep network training by reducing internal covariate shift](http://arxiv.org/pdf/1502.03167.pdf)
+  
   * [Adam: A Method For Stochastic Optimization](https://arxiv.org/pdf/1412.6980.pdf)
   
   * [Dropout: A simple way to prevent neural networks from overfitting](http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
