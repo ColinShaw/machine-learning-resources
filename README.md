@@ -46,6 +46,10 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Dermatologist-level classification of skin cancer with deep neural networks](http://www.nature.com/nature/journal/v542/n7639/full/nature21056.html)
+  
+  * [Brain tumor segmentation with deep neural networks](https://arxiv.org/pdf/1505.03540.pdf)
+
   * [SqueezeDet: Unified, Small, Low Power Fully Convolutional Neural Networks for Real-Time Object Detection for Autonomous Driving](https://arxiv.org/pdf/1612.01051.pdf)
   
   * [Understanding image representations by measuring their equivariance and equivalence](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Lenc_Understanding_Image_Representations_2015_CVPR_paper.pdf)
