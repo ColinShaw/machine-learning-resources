@@ -46,6 +46,16 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Vision-Based Multi-Task Manipulation for Inexpensive Robots Using End-To-End Learning from Demonstration](https://arxiv.org/pdf/1707.02920.pdf)
+  
+  * [Vision-based Robotic Arm Imitation by Human Gesture](https://arxiv.org/pdf/1703.04906.pdf)
+  
+  * [Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection](https://arxiv.org/pdf/1603.02199.pdf)
+
+  * [Supervision via Competition: Robot Adversaries for Learning Tasks](https://arxiv.org/pdf/1610.01685.pdf)
+  
+  * [Deep Visual Foresight for Planning Robot Motion](https://arxiv.org/pdf/1610.00696.pdf)
+  
   * [Dermatologist-level classification of skin cancer with deep neural networks](http://www.nature.com/nature/journal/v542/n7639/full/nature21056.html)
   
   * [Brain tumor segmentation with deep neural networks](https://arxiv.org/pdf/1505.03540.pdf)
