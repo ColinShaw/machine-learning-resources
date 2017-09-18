@@ -46,6 +46,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Deep learning for detecting robotic grasps](http://www.cs.cornell.edu/~asaxena/papers/lenz_lee_saxena_deep_learning_grasping_ijrr2014.pdf)
+  
   * [Vision-Based Multi-Task Manipulation for Inexpensive Robots Using End-To-End Learning from Demonstration](https://arxiv.org/pdf/1707.02920.pdf)
   
   * [Vision-based Robotic Arm Imitation by Human Gesture](https://arxiv.org/pdf/1703.04906.pdf)
