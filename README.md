@@ -130,7 +130,9 @@ good articles and some other resources.
   
   * [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/pdf/1510.00149.pdf)
   
-  * [Kyle's article on AVO](https://arxiv.org/pdf/1707.07113.pdf)
+  * [Modeling Smooth Backgrounds & Generic Localized Signals with Gaussian Processes (Kyle)](https://arxiv.org/pdf/1709.05681.pdf)
+  
+  * [Adversarial Variational Optimization of Non-Differentiable Simulators (Kyle)](https://arxiv.org/pdf/1707.07113.pdf)
 
 
 
