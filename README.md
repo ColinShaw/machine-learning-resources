@@ -46,6 +46,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [3D Simulated Robot Manipulation Using Deep Reinforcement Learning](http://www.doc.ic.ac.uk/~ejohns/Documents/stephen_james_thesis.pdf)
+  
   * [Deep-learning in Mobile Robotics - from Perception to Control Systems: A Survey on Why and Why not](https://arxiv.org/pdf/1612.07139.pdf)
   
   * [3D Simulation for Robot Arm Control with Deep Q-Learning](https://arxiv.org/pdf/1609.03759.pdf)
