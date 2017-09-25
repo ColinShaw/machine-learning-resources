@@ -46,6 +46,10 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Supersizing Self-supervision: Learning to Grasp from 50K Tries and 700 Robot Hours](https://arxiv.org/pdf/1509.06825.pdf)
+  
+  * [Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection](https://arxiv.org/pdf/1603.02199.pdf)
+
   * [3D Simulated Robot Manipulation Using Deep Reinforcement Learning](http://www.doc.ic.ac.uk/~ejohns/Documents/stephen_james_thesis.pdf)
   
   * [Deep-learning in Mobile Robotics - from Perception to Control Systems: A Survey on Why and Why not](https://arxiv.org/pdf/1612.07139.pdf)
