@@ -46,6 +46,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Self-Normalizing Neural Networks](https://arxiv.org/pdf/1706.02515.pdf)
+
   * [Supersizing Self-supervision: Learning to Grasp from 50K Tries and 700 Robot Hours](https://arxiv.org/pdf/1509.06825.pdf)
   
   * [Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection](https://arxiv.org/pdf/1603.02199.pdf)
