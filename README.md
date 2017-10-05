@@ -46,6 +46,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [WaveNet: A Generative Model for Raw Audio](https://arxiv.org/pdf/1609.03499.pdf)
+
   * [Self-Normalizing Neural Networks](https://arxiv.org/pdf/1706.02515.pdf)
 
   * [Supersizing Self-supervision: Learning to Grasp from 50K Tries and 700 Robot Hours](https://arxiv.org/pdf/1509.06825.pdf)
