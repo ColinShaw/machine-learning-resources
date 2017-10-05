@@ -156,6 +156,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [GANs are Broken in More than One Way: The Numerics of GANs](http://www.inference.vc/my-notes-on-the-numerics-of-gans/)
+
   * [37 Reasons why your Neural Network is not working](https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607)
 
   * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
