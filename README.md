@@ -46,6 +46,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Deep 6-DOF Tracking](https://arxiv.org/pdf/1703.09771.pdf)
+
   * [WaveNet: A Generative Model for Raw Audio](https://arxiv.org/pdf/1609.03499.pdf)
 
   * [Self-Normalizing Neural Networks](https://arxiv.org/pdf/1706.02515.pdf)
