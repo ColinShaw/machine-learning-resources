@@ -230,3 +230,11 @@ good articles and some other resources.
 
   * [Playing for Data: Ground Truth from Computer Games](https://download.visinf.tu-darmstadt.de/data/from_games/)
   
+
+
+## Support For Ideas
+
+  * [AI Grant](https://aigrant.org/)
+  
+  * [NVIDIA Inception Program](https://www.nvidia.com/en-us/deep-learning-ai/startups/)
+  
