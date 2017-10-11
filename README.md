@@ -190,6 +190,8 @@ good articles and some other resources.
 
 ## Interesting Online Projects and Tools
 
+  * [Lyrebird](https://lyrebird.ai/)
+
   * [Background removal with deep learning](https://medium.com/towards-data-science/background-removal-with-deep-learning-c4f2104b3157)
 
   * [Teaching a car to avoid obstacles using Reinforcement Learning](https://github.com/kargarisaac/RL/tree/master/RL_car)
