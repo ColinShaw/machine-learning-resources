@@ -53,6 +53,8 @@ good articles and some other resources.
   * [Deep 6-DOF Tracking](https://arxiv.org/pdf/1703.09771.pdf)
 
   * [WaveNet: A Generative Model for Raw Audio](https://arxiv.org/pdf/1609.03499.pdf)
+  
+  * [The Microsoft 2016 Conversational Speech Recognition System](https://arxiv.org/pdf/1609.03528.pdf)
 
   * [Self-Normalizing Neural Networks](https://arxiv.org/pdf/1706.02515.pdf)
 
