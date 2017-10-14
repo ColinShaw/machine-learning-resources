@@ -69,6 +69,8 @@ good articles and some other resources.
   * [3D Simulation for Robot Arm Control with Deep Q-Learning](https://arxiv.org/pdf/1609.03759.pdf)
 
   * [End-to-End Training of Deep Visuomotor Policies](http://www.jmlr.org/papers/volume17/15-522/15-522.pdf)
+  
+    * [Leveraging Deep Reinforcement Learning for Reaching Robotic Tasks](http://juxi.net/workshop/deep-learning-robotic-vision-cvpr-2017/papers/2.pdf)
 
   * [100-epoch ImageNet Training with AlexNet in 24 Minutes](https://arxiv.org/pdf/1709.05011.pdf)
   
