@@ -46,6 +46,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [SE3-Nets: Learning Rigid Body Motion using Deep Neural Networks](https://arxiv.org/pdf/1606.02378.pdf)
+
   * [Visual Servoing from Deep Neural Networks](https://arxiv.org/pdf/1705.08940.pdf)
 
   * [UnDeepVO: Monocular Visual Odometry through Unsupervised Deep Learning](https://arxiv.org/pdf/1709.06841.pdf)
@@ -70,7 +72,7 @@ good articles and some other resources.
 
   * [End-to-End Training of Deep Visuomotor Policies](http://www.jmlr.org/papers/volume17/15-522/15-522.pdf)
   
-    * [Leveraging Deep Reinforcement Learning for Reaching Robotic Tasks](http://juxi.net/workshop/deep-learning-robotic-vision-cvpr-2017/papers/2.pdf)
+  * [Leveraging Deep Reinforcement Learning for Reaching Robotic Tasks](http://juxi.net/workshop/deep-learning-robotic-vision-cvpr-2017/papers/2.pdf)
 
   * [100-epoch ImageNet Training with AlexNet in 24 Minutes](https://arxiv.org/pdf/1709.05011.pdf)
   
