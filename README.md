@@ -46,6 +46,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Swish: a Self-Gated Activation Function](https://arxiv.org/pdf/1710.05941v1.pdf)
+
   * [SE3-Nets: Learning Rigid Body Motion using Deep Neural Networks](https://arxiv.org/pdf/1606.02378.pdf)
 
   * [Visual Servoing from Deep Neural Networks](https://arxiv.org/pdf/1705.08940.pdf)
