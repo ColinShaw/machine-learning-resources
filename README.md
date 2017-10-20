@@ -46,6 +46,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [On the difficulty of training Recurrent Neural Networks](https://arxiv.org/pdf/1211.5063.pdf)
+
   * [Learning real manipulation tasks from virtual demonstrations using LSTM](https://arxiv.org/pdf/1603.03833.pdf)
   
   * [A Neural Network-Based Approach for Trajectory Planning in Robot–Human Handover Tasks](https://www.frontiersin.org/articles/10.3389/frobt.2016.00034/full) 
