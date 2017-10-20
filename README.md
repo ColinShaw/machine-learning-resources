@@ -46,6 +46,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Learning real manipulation tasks from virtual demonstrations using LSTM](https://arxiv.org/pdf/1603.03833.pdf)
+  
   * [A Neural Network-Based Approach for Trajectory Planning in Robot–Human Handover Tasks](https://www.frontiersin.org/articles/10.3389/frobt.2016.00034/full) 
   
   * [Swish: a Self-Gated Activation Function](https://arxiv.org/pdf/1710.05941v1.pdf)
