@@ -46,6 +46,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [A Neural Network-Based Approach for Trajectory Planning in Robot–Human Handover Tasks](https://www.frontiersin.org/articles/10.3389/frobt.2016.00034/full) 
+  
   * [Swish: a Self-Gated Activation Function](https://arxiv.org/pdf/1710.05941v1.pdf)
 
   * [SE3-Nets: Learning Rigid Body Motion using Deep Neural Networks](https://arxiv.org/pdf/1606.02378.pdf)
