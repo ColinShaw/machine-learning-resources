@@ -84,6 +84,8 @@ good articles and some other resources.
 
   * [100-epoch ImageNet Training with AlexNet in 24 Minutes](https://arxiv.org/pdf/1709.05011.pdf)
   
+  * [Imagenet classification with deep convolutional neural networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+  
   * [Deep learning for detecting robotic grasps](http://www.cs.cornell.edu/~asaxena/papers/lenz_lee_saxena_deep_learning_grasping_ijrr2014.pdf)
   
   * [Vision-Based Multi-Task Manipulation for Inexpensive Robots Using End-To-End Learning from Demonstration](https://arxiv.org/pdf/1707.02920.pdf)
