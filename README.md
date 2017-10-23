@@ -202,6 +202,8 @@ good articles and some other resources.
 
 ## Interesting Online Projects and Tools
 
+  * [Colorizing B&W Photos with Neural Networks](https://blog.floydhub.com/colorizing-b&w-photos-with-neural-networks/)
+
   * [Lyrebird](https://lyrebird.ai/)
 
   * [Background removal with deep learning](https://medium.com/towards-data-science/background-removal-with-deep-learning-c4f2104b3157)
