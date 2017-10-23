@@ -92,8 +92,6 @@ good articles and some other resources.
   
   * [Vision-based Robotic Arm Imitation by Human Gesture](https://arxiv.org/pdf/1703.04906.pdf)
   
-  * [Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection](https://arxiv.org/pdf/1603.02199.pdf)
-
   * [Supervision via Competition: Robot Adversaries for Learning Tasks](https://arxiv.org/pdf/1610.01685.pdf)
   
   * [Deep Visual Foresight for Planning Robot Motion](https://arxiv.org/pdf/1610.00696.pdf)
