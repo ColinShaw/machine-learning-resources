@@ -46,6 +46,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Real-time grasp detection using convolutional neural networks](https://arxiv.org/pdf/1412.3128.pdf)
+
   * [On the difficulty of training Recurrent Neural Networks](https://arxiv.org/pdf/1211.5063.pdf)
 
   * [Learning real manipulation tasks from virtual demonstrations using LSTM](https://arxiv.org/pdf/1603.03833.pdf)
