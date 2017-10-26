@@ -46,6 +46,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [DeepXplore: Automated Whitebox Testing of Deep Learning Systems](https://arxiv.org/pdf/1705.06640.pdf)
+
   * [Orientation-boosted Voxel Nets for 3D Object Recognition](https://arxiv.org/pdf/1604.03351.pdf)
 
   * [Real-time grasp detection using convolutional neural networks](https://arxiv.org/pdf/1412.3128.pdf)
