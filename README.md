@@ -46,6 +46,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Semantic Image Segmentation with Deep Cconvolutional Nets and Fully Connected CRFS](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Chen2015ICLR.pdf)
+
   * [Hands Deep in Deep Learning for Hand Pose Estimation](https://arxiv.org/pdf/1502.06807.pdf)
   
   * [Auto-Conditioned LSTM Network for Extended Complex Human Motion Synthesis](https://arxiv.org/pdf/1707.05363.pdf)
