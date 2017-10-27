@@ -46,6 +46,10 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Hands Deep in Deep Learning for Hand Pose Estimation](https://arxiv.org/pdf/1502.06807.pdf)
+  
+  * [Auto-Conditioned LSTM Network for Extended Complex Human Motion Synthesis](https://arxiv.org/pdf/1707.05363.pdf)
+
   * [DeepXplore: Automated Whitebox Testing of Deep Learning Systems](https://arxiv.org/pdf/1705.06640.pdf)
 
   * [Orientation-boosted Voxel Nets for 3D Object Recognition](https://arxiv.org/pdf/1604.03351.pdf)
