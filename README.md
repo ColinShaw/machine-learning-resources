@@ -46,6 +46,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Badrinarayanan2015ARXIV.pdf)
+
   * [Incremental Dense Semantic Stereo Fusion for Large-Scale Semantic Scene Reconstruction](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Vineet2015ICRA.pdf)
 
   * [Dynamic Routing Between Capsules](https://arxiv.org/pdf/1710.09829.pdf)
