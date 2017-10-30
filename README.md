@@ -46,6 +46,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Incremental Dense Semantic Stereo Fusion for Large-Scale Semantic Scene Reconstruction](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/ineet2015ICRA.pdf)
+
   * [Dynamic Routing Between Capsules](https://arxiv.org/pdf/1710.09829.pdf)
 
   * [StixelNet: A Deep Convolutional Network for Obstacle Detection and Road Segmentation](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Levi2015BMVC.pdf)
