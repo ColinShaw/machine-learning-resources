@@ -46,11 +46,13 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
-  * [ Dynamic Routing Between Capsules](https://arxiv.org/pdf/1710.09829.pdf)
+  * [Dynamic Routing Between Capsules](https://arxiv.org/pdf/1710.09829.pdf)
 
   * [StixelNet: A Deep Convolutional Network for Obstacle Detection and Road Segmentation](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Levi2015BMVC.pdf)
 
   * [Semantic Image Segmentation with Deep Cconvolutional Nets and Fully Connected CRFS](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Chen2015ICLR.pdf)
+  
+  * [A New Artificial Neural Network Approach in Solving Inverse Kinematics of Robotic Arm (Denso VP6242)](http://downloads.hindawi.com/journals/cin/2016/5720163.pdf)
 
   * [Hands Deep in Deep Learning for Hand Pose Estimation](https://arxiv.org/pdf/1502.06807.pdf)
   
