@@ -46,6 +46,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [A Unified Multi-scale Deep Convolutional Neural Network for Fast Object Detection](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Cai2016ECCV.pdf)
+
   * [SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Badrinarayanan2015ARXIV.pdf)
 
   * [Incremental Dense Semantic Stereo Fusion for Large-Scale Semantic Scene Reconstruction](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Vineet2015ICRA.pdf)
