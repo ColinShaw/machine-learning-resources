@@ -46,6 +46,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Deformable Convolutional Networks](https://arxiv.org/pdf/1703.06211.pdf)
+
   * [Soft-NMS -- Improving Object Detection With One Line of Code](https://arxiv.org/pdf/1704.04503.pdf)
 
   * [A Unified Multi-scale Deep Convolutional Neural Network for Fast Object Detection](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Cai2016ECCV.pdf)
