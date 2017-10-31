@@ -46,6 +46,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Long Short-Term Memory as a Dynamically Computed Element-wise Weighted Sum](https://openreview.net/pdf?id=HJOQ7MgAW)
+
   * [Deformable Convolutional Networks](https://arxiv.org/pdf/1703.06211.pdf)
 
   * [Soft-NMS -- Improving Object Detection With One Line of Code](https://arxiv.org/pdf/1704.04503.pdf)
