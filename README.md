@@ -234,6 +234,12 @@ good articles and some other resources.
 
 ## Interesting Online Projects and Tools
 
+  * [Word2vec Tutorial](https://rare-technologies.com/word2vec-tutorial/)
+  
+  * [Python gensim Word2Vec tutorial with TensorFlow and Keras](http://adventuresinmachinelearning.com/gensim-word2vec-tutorial/)
+  
+  * [A Word2Vec Keras tutorial](http://adventuresinmachinelearning.com/word2vec-keras-tutorial/)
+
   * [Colorizing B&W Photos with Neural Networks](https://blog.floydhub.com/colorizing-b&w-photos-with-neural-networks/)
 
   * [Lyrebird](https://lyrebird.ai/)
