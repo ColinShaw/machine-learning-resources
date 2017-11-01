@@ -46,6 +46,10 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Squeeze-and-Excitation Networks](https://arxiv.org/pdf/1709.01507.pdf)
+
+  * [Improving Deep Learning by Inverse Square Root Linear Units (ISRLUs)](https://arxiv.org/pdf/1710.09967.pdf)
+
   * [Long Short-Term Memory as a Dynamically Computed Element-wise Weighted Sum](https://openreview.net/pdf?id=HJOQ7MgAW)
 
   * [Deformable Convolutional Networks](https://arxiv.org/pdf/1703.06211.pdf)
