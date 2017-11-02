@@ -238,6 +238,8 @@ good articles and some other resources.
 
 ## Interesting Online Projects and Tools
 
+  * [Mask R-CNN for Object Detection and Segmentation](https://github.com/matterport/Mask_RCNN)
+
   * [Word2vec Tutorial](https://rare-technologies.com/word2vec-tutorial/)
   
   * [Python gensim Word2Vec tutorial with TensorFlow and Keras](http://adventuresinmachinelearning.com/gensim-word2vec-tutorial/)
