@@ -286,7 +286,13 @@ good articles and some other resources.
 
 ## Data Sets
 
+  * [ADEK20K](http://groups.csail.mit.edu/vision/datasets/ADE20K/)
+
   * [Udacity's annotated driving dataset](https://github.com/udacity/self-driving-car/tree/master/annotations)
+  
+  * [Stanford Car Data Set](http://ai.stanford.edu/~jkrause/cars/car_dataset.html)
+
+  * [Comprehensive Car Data Set](http://mmlab.ie.cuhk.edu.hk/datasets/comp_cars/index.html)
 
   * [Playing for Data: Ground Truth from Computer Games](https://download.visinf.tu-darmstadt.de/data/from_games/)
   
