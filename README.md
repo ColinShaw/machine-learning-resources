@@ -46,6 +46,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Hierarchical Representations for Efficient Architecture Search](https://arxiv.org/pdf/1711.00436.pdf)
+
   * [Squeeze-and-Excitation Networks](https://arxiv.org/pdf/1709.01507.pdf)
 
   * [Improving Deep Learning by Inverse Square Root Linear Units (ISRLUs)](https://arxiv.org/pdf/1710.09967.pdf)
