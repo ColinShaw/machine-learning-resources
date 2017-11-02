@@ -210,6 +210,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [How-To: Multi-GPU training with Keras, Python, and deep learning](https://www.pyimagesearch.com/2017/10/30/how-to-multi-gpu-training-with-keras-python-and-deep-learning/)
+
   * [Best Practices for Document Classification with Deep Learning](http://abunchofdata.com/best-practices-for-document-classification-with-deep-learning/)
 
   * [GANs are Broken in More than One Way: The Numerics of GANs](http://www.inference.vc/my-notes-on-the-numerics-of-gans/)
