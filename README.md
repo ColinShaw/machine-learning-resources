@@ -46,6 +46,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [EnhanceNet: Single Image Super-Resolution Through Automated Texture Synthesis](https://arxiv.org/pdf/1612.07919.pdf)
+
   * [Hierarchical Representations for Efficient Architecture Search](https://arxiv.org/pdf/1711.00436.pdf)
 
   * [Squeeze-and-Excitation Networks](https://arxiv.org/pdf/1709.01507.pdf)
