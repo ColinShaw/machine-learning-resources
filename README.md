@@ -248,6 +248,8 @@ good articles and some other resources.
 
 ## Interesting Online Projects and Tools
 
+  * [A Tensorflow implementation of CapsNet(Capsules Net) in Hinton's paper Dynamic Routing Between Capsules](https://github.com/naturomics/CapsNet-Tensorflow)
+
   * [GAN Playground - Explore Generative Adversarial Nets in your Browser](https://reiinakano.github.io/gan-playground/)
 
   * [Mask R-CNN for Object Detection and Segmentation](https://github.com/matterport/Mask_RCNN)
