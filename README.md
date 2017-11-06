@@ -46,6 +46,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [OctNet: Learning Deep 3D Representations at High Resolutions](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Riegler2016ARXIV.pdf)
+
   * [EnhanceNet: Single Image Super-Resolution Through Automated Texture Synthesis](https://arxiv.org/pdf/1612.07919.pdf)
 
   * [Hierarchical Representations for Efficient Architecture Search](https://arxiv.org/pdf/1711.00436.pdf)
