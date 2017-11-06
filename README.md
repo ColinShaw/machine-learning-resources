@@ -46,6 +46,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Synthesizing Robust Adversarial Examples](https://arxiv.org/pdf/1707.07397.pdf)
+
   * [OctNet: Learning Deep 3D Representations at High Resolutions](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Riegler2016ARXIV.pdf)
 
   * [EnhanceNet: Single Image Super-Resolution Through Automated Texture Synthesis](https://arxiv.org/pdf/1612.07919.pdf)
