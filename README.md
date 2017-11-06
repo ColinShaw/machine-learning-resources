@@ -248,6 +248,8 @@ good articles and some other resources.
 
 ## Interesting Online Projects and Tools
 
+  * [GAN Playground - Explore Generative Adversarial Nets in your Browser](https://reiinakano.github.io/gan-playground/)
+
   * [Mask R-CNN for Object Detection and Segmentation](https://github.com/matterport/Mask_RCNN)
 
   * [Word2vec Tutorial](https://rare-technologies.com/word2vec-tutorial/)
