@@ -46,6 +46,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [The SYNTHIA Dataset: A Large Collection of Synthetic Images for Semantic Segmentation of Urban Scenes](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Ros2016CVPR.pdf)
+
   * [Synthesizing Robust Adversarial Examples](https://arxiv.org/pdf/1707.07397.pdf)
 
   * [OctNet: Learning Deep 3D Representations at High Resolutions](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Riegler2016ARXIV.pdf)
