@@ -250,6 +250,8 @@ good articles and some other resources.
 
 ## Interesting Online Projects and Tools
 
+  * [Freeze Tensorflow models and serve on web](http://cv-tricks.com/how-to/freeze-tensorflow-models/)
+
   * [A Tensorflow implementation of CapsNet(Capsules Net) in Hinton's paper Dynamic Routing Between Capsules](https://github.com/naturomics/CapsNet-Tensorflow)
 
   * [GAN Playground - Explore Generative Adversarial Nets in your Browser](https://reiinakano.github.io/gan-playground/)
