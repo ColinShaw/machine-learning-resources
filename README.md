@@ -46,6 +46,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Globally and Locally Consistent Image Completion](http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/data/completion_sig2017.pdf)
+
   * [Vehicle Detection from 3D Lidar Using Fully Convolutional Network](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Li2016RSS.pdf)
 
   * [The SYNTHIA Dataset: A Large Collection of Synthetic Images for Semantic Segmentation of Urban Scenes](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Ros2016CVPR.pdf)
