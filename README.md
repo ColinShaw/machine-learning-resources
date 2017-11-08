@@ -46,6 +46,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Vehicle Detection from 3D Lidar Using Fully Convolutional Network](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Li2016RSS.pdf)
+
   * [The SYNTHIA Dataset: A Large Collection of Synthetic Images for Semantic Segmentation of Urban Scenes](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Ros2016CVPR.pdf)
 
   * [Synthesizing Robust Adversarial Examples](https://arxiv.org/pdf/1707.07397.pdf)
@@ -219,6 +221,8 @@ good articles and some other resources.
 
 
 ## Online Learning Resources
+
+  * [How to Develop a Character-Based Neural Language Model in Keras](https://machinelearningmastery.com/develop-character-based-neural-language-model-keras/)
 
   * [How-To: Multi-GPU training with Keras, Python, and deep learning](https://www.pyimagesearch.com/2017/10/30/how-to-multi-gpu-training-with-keras-python-and-deep-learning/)
 
