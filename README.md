@@ -224,6 +224,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Feature Visualization - How neural networks build up their understanding of images](https://distill.pub/2017/feature-visualization/)
+
   * [How to Develop a Character-Based Neural Language Model in Keras](https://machinelearningmastery.com/develop-character-based-neural-language-model-keras/)
 
   * [How-To: Multi-GPU training with Keras, Python, and deep learning](https://www.pyimagesearch.com/2017/10/30/how-to-multi-gpu-training-with-keras-python-and-deep-learning/)
