@@ -46,6 +46,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Instance-aware Semantic Segmentation via Multi-task Network Cascades](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Dai2016CVPR.pdf)
+
   * [Globally and Locally Consistent Image Completion](http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/data/completion_sig2017.pdf)
 
   * [Vehicle Detection from 3D Lidar Using Fully Convolutional Network](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Li2016RSS.pdf)
