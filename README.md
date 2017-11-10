@@ -226,6 +226,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [How to Define an Encoder-Decoder Sequence-to-Sequence Model for Neural Machine Translation in Keras](https://machinelearningmastery.com/define-encoder-decoder-sequence-sequence-model-neural-machine-translation-keras/)
+
   * [Feature Visualization - How neural networks build up their understanding of images](https://distill.pub/2017/feature-visualization/)
 
   * [How to Develop a Character-Based Neural Language Model in Keras](https://machinelearningmastery.com/develop-character-based-neural-language-model-keras/)
