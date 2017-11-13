@@ -46,6 +46,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [InstanceCut: from Edges to Instances with MultiCut](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Kirillov2016ARXIV.pdf)
+
   * [End to End Learning for Self-Driving Cars](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Bojarski2016ARXIV.pdf)
 
   * [Instance-aware Semantic Segmentation via Multi-task Network Cascades](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Dai2016CVPR.pdf)
