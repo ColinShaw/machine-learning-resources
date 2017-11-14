@@ -46,6 +46,10 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Multi-View 3D Object Detection Network for Autonomous Driving](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Chen2016ARXIVa.pdf)
+
+  * [High-Resolution Semantic Labeling with Convolutional Neural Networks](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Maggiori2016ARXIV.pdf)
+
   * [InstanceCut: from Edges to Instances with MultiCut](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Kirillov2016ARXIV.pdf)
 
   * [End to End Learning for Self-Driving Cars](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Bojarski2016ARXIV.pdf)
