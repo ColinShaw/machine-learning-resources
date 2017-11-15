@@ -46,6 +46,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Aggressive Deep Driving: Combining Convolutional Neural Networks and Model Predictive Control](http://proceedings.mlr.press/v78/drews17a/drews17a.pdf)
+
   * [Multi-View 3D Object Detection Network for Autonomous Driving](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Chen2016ARXIVa.pdf)
 
   * [High-Resolution Semantic Labeling with Convolutional Neural Networks](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Maggiori2016ARXIV.pdf)
