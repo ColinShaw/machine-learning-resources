@@ -234,6 +234,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+
   * [How to Define an Encoder-Decoder Sequence-to-Sequence Model for Neural Machine Translation in Keras](https://machinelearningmastery.com/define-encoder-decoder-sequence-sequence-model-neural-machine-translation-keras/)
 
   * [Feature Visualization - How neural networks build up their understanding of images](https://distill.pub/2017/feature-visualization/)
