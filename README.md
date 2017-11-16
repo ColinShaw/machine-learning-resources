@@ -46,6 +46,14 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [3D Object Proposals using Stereo Imagery for Accurate Object Class Detection](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Chen2016ARXIV.pdf)
+
+  * [Wider or Deeper: Revisiting the ResNet Model for Visual Recognition](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Wu2016ARXIV.pdf)
+
+  * [The Cityscapes Dataset for Semantic Urban Scene Understanding](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Cordts2016CVPR.pdf)
+
+  * [Superpixel Convolutional Networks Using Bilateral Inceptions](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Gadde2016ECCV.pdf)
+
   * [Aggressive Deep Driving: Combining Convolutional Neural Networks and Model Predictive Control](http://proceedings.mlr.press/v78/drews17a/drews17a.pdf)
 
   * [Multi-View 3D Object Detection Network for Autonomous Driving](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Chen2016ARXIVa.pdf)
