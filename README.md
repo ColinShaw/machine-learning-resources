@@ -282,6 +282,10 @@ good articles and some other resources.
 
 ## Interesting Online Projects and Tools
 
+  * [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+
+  * [Demystifying Deep Reinforcement Learning](http://neuro.cs.ut.ee/demystifying-deep-reinforcement-learning/)
+
   * [Freeze Tensorflow models and serve on web](http://cv-tricks.com/how-to/freeze-tensorflow-models/)
 
   * [A Tensorflow implementation of CapsNet(Capsules Net) in Hinton's paper Dynamic Routing Between Capsules](https://github.com/naturomics/CapsNet-Tensorflow)
