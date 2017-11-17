@@ -46,6 +46,12 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Stereo Matching by Training a Convolutional Neural Network to Compare Image Patches](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Zbontar2016JMLR.pdf)
+
+  * [Exploit All the Layers: Fast and Accurate CNN Object Detector with Scale Dependent Pooling and Cascaded Rejection Classifiers](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Yang2016CVPR.pdf)
+
+  * [Semantic Segmentation of Earth Observation Data Using Multimodal and Multi-scale Deep Networks](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Audebert2016ARXIV.pdf)
+
   * [3D Object Proposals using Stereo Imagery for Accurate Object Class Detection](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Chen2016ARXIV.pdf)
 
   * [Wider or Deeper: Revisiting the ResNet Model for Visual Recognition](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Wu2016ARXIV.pdf)
