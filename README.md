@@ -46,6 +46,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/pdf/1311.2524.pdf)
+
   * [Stereo Matching by Training a Convolutional Neural Network to Compare Image Patches](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Zbontar2016JMLR.pdf)
 
   * [Exploit All the Layers: Fast and Accurate CNN Object Detector with Scale Dependent Pooling and Cascaded Rejection Classifiers](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Yang2016CVPR.pdf)
