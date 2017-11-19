@@ -46,6 +46,10 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/pdf/1506.01497.pdf)
+
+  * [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf)
+
   * [Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/pdf/1311.2524.pdf)
 
   * [Stereo Matching by Training a Convolutional Neural Network to Compare Image Patches](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Zbontar2016JMLR.pdf)
