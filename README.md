@@ -304,6 +304,8 @@ good articles and some other resources.
 
 ## Interesting Online Projects and Tools
 
+  * [GAN Playground - Explore Generative Adversarial Nets in your Browser](https://reiinakano.github.io/gan-playground/)
+
   * [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 
   * [Demystifying Deep Reinforcement Learning](http://neuro.cs.ut.ee/demystifying-deep-reinforcement-learning/)
