@@ -46,6 +46,12 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Feature Space Optimization for Semantic Video Segmentation](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Kundu2016CVPR.pdf)
+
+  * [Full-Resolution Residual Networks for Semantic Segmentation in Street Scenes](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Pohlen2016ARXIV.pdf)
+
+  * [Pyramid Scene Parsing Network](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Zhao2016ARXIV.pdf)
+
   * [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/pdf/1506.01497.pdf)
 
   * [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf)
