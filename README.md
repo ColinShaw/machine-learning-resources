@@ -262,6 +262,10 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Deep Learning Adversarial Examples – Clarifying Misconceptions](https://www.kdnuggets.com/2015/07/deep-learning-adversarial-examples-misconceptions.html)
+
+  * [Understanding Autoencoders using Tensorflow](https://www.learnopencv.com/understanding-autoencoders-using-tensorflow-python/)
+
   * [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 
   * [How to Define an Encoder-Decoder Sequence-to-Sequence Model for Neural Machine Translation in Keras](https://machinelearningmastery.com/define-encoder-decoder-sequence-sequence-model-neural-machine-translation-keras/)
