@@ -46,6 +46,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [DeepFace: Closing the Gap to Human-Level Performance in Face Verification](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf)
+
   * [Feature Space Optimization for Semantic Video Segmentation](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Kundu2016CVPR.pdf)
 
   * [Full-Resolution Residual Networks for Semantic Segmentation in Street Scenes](http://www.cvlibs.net/projects/autonomous_vision_survey/literature/Pohlen2016ARXIV.pdf)
