@@ -46,6 +46,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [A Neural Algorithm of Artistic Style](https://arxiv.org/pdf/1508.06576.pdf)
+
   * [VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection](https://arxiv.org/pdf/1711.06396.pdf)
 
   * [Generalization in Deep Learning](https://arxiv.org/pdf/1710.05468.pdf)
