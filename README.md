@@ -312,6 +312,8 @@ good articles and some other resources.
 
 ## Interesting Online Projects and Tools
 
+  * [A neural network that solves polynomials](https://taylanbil.github.io/polysolver)
+
   * [GAN Playground - Explore Generative Adversarial Nets in your Browser](https://reiinakano.github.io/gan-playground/)
 
   * [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
