@@ -46,6 +46,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Are GANs Created Equal? A Large-Scale Study](https://arxiv.org/pdf/1711.10337.pdf)
+
   * [Learning to Segment Every Thing](https://arxiv.org/pdf/1711.10370.pdf)
 
   * [A Neural Algorithm of Artistic Style](https://arxiv.org/pdf/1508.06576.pdf)
