@@ -46,6 +46,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Bayesian GAN](https://arxiv.org/pdf/1705.09558.pdf)
+
   * [Approximations by superpositions of sigmoidal functions](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.441.7873&rep=rep1&type=pdf)
 
   * [Are GANs Created Equal? A Large-Scale Study](https://arxiv.org/pdf/1711.10337.pdf)
@@ -317,6 +319,8 @@ good articles and some other resources.
   
 
 ## Interesting Online Projects and Tools
+
+  * [Bayesian Generative Adversarial Networks in Tensorflow](https://github.com/andrewgordonwilson/bayesgan/)
 
   * [A neural network that solves polynomials](https://taylanbil.github.io/polysolver)
 
