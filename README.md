@@ -46,6 +46,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Understanding deep learning requires rethinking generalization](https://arxiv.org/pdf/1611.03530.pdf)
+
   * [Bayesian GAN](https://arxiv.org/pdf/1705.09558.pdf)
 
   * [Approximations by superpositions of sigmoidal functions](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.441.7873&rep=rep1&type=pdf)
