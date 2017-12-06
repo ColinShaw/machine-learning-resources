@@ -46,6 +46,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs](https://arxiv.org/pdf/1711.11585.pdf)
+
   * [Understanding deep learning requires rethinking generalization](https://arxiv.org/pdf/1611.03530.pdf)
 
   * [Bayesian GAN](https://arxiv.org/pdf/1705.09558.pdf)
