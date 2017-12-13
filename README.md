@@ -26,6 +26,9 @@ good articles and some other resources.
     
 ## Advanced 
 
+  * __Reinforcement Learning: An Introduction__  
+    _Richard Sutton and Andrew Barto_   
+
   * __The Elements of Statistical Learning__     
     _Trevor Hastie, Robert Tibshirani and Jerome Friedman_
     
