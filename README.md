@@ -287,6 +287,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [A set of Deep Reinforcement Learning Agents implemented in Tensorflow](https://github.com/awjuliani/DeepRL-Agents)
+
   * [Deep Learning Adversarial Examples – Clarifying Misconceptions](https://www.kdnuggets.com/2015/07/deep-learning-adversarial-examples-misconceptions.html)
 
   * [Understanding Autoencoders using Tensorflow](https://www.learnopencv.com/understanding-autoencoders-using-tensorflow-python/)
