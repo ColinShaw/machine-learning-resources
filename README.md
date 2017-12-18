@@ -287,6 +287,10 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [How To Unit Test Machine Learning Code](https://www.kdnuggets.com/2017/11/unit-test-machine-learning-code.html)
+  
+  * [Neuroevolution](https://eng.uber.com/deep-neuroevolution/)
+
   * [A set of Deep Reinforcement Learning Agents implemented in Tensorflow](https://github.com/awjuliani/DeepRL-Agents)
 
   * [Deep Learning Adversarial Examples – Clarifying Misconceptions](https://www.kdnuggets.com/2015/07/deep-learning-adversarial-examples-misconceptions.html)
