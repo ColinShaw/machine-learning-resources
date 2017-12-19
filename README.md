@@ -335,6 +335,8 @@ good articles and some other resources.
 
 ## Interesting Online Projects and Tools
 
+  * [NVIDIA Researchers Showcase Major Advances in Deep Learning at NIPS](https://blogs.nvidia.com/blog/2017/12/03/nvidia-research-nips/)
+
   * [Bayesian Generative Adversarial Networks in Tensorflow](https://github.com/andrewgordonwilson/bayesgan/)
 
   * [A neural network that solves polynomials](https://taylanbil.github.io/polysolver)
