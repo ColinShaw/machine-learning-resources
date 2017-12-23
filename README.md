@@ -287,6 +287,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Geometric Deep Learning](http://geometricdeeplearning.com/)
+
   * [How To Unit Test Machine Learning Code](https://www.kdnuggets.com/2017/11/unit-test-machine-learning-code.html)
   
   * [Neuroevolution](https://eng.uber.com/deep-neuroevolution/)
