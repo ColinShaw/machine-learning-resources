@@ -49,6 +49,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Deep Multi-Camera People Detection](https://arxiv.org/pdf/1702.04593.pdf)
+
   * [Learning to Segment Every Thing](https://arxiv.org/pdf/1711.10370.pdf)
 
   * [ComboGAN: Unrestrained Scalability for Image Domain Translation](https://arxiv.org/pdf/1712.06909.pdf)
