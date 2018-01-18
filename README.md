@@ -49,6 +49,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Audio Adversarial Examples: Targeted Attacks on Speech-to-Text](https://arxiv.org/pdf/1801.01944.pdf)
+
   * [Deep Multi-Camera People Detection](https://arxiv.org/pdf/1702.04593.pdf)
 
   * [Learning to Segment Every Thing](https://arxiv.org/pdf/1711.10370.pdf)
