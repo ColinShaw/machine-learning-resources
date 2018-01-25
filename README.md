@@ -297,6 +297,10 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Inside the black box](https://www.datasciencecentral.com/profiles/blogs/inside-the-black-box)
+
+  * [Inside the black box 2](https://www.datasciencecentral.com/profiles/blogs/inside-the-balck-box-2)
+
   * [Geometric Deep Learning](http://geometricdeeplearning.com/)
 
   * [How To Unit Test Machine Learning Code](https://www.kdnuggets.com/2017/11/unit-test-machine-learning-code.html)
