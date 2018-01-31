@@ -299,6 +299,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [How Neural Networks Are Trained](https://ml4a.github.io/ml4a/how_neural_networks_are_trained/)
+
   * [Inside the black box](https://www.datasciencecentral.com/profiles/blogs/inside-the-black-box)
 
   * [Inside the black box 2](https://www.datasciencecentral.com/profiles/blogs/inside-the-balck-box-2)
@@ -352,6 +354,8 @@ good articles and some other resources.
   
 
 ## Interesting Online Projects and Tools
+
+  * [Detectron](https://github.com/facebookresearch/Detectron)
 
   * [NVIDIA Researchers Showcase Major Advances in Deep Learning at NIPS](https://blogs.nvidia.com/blog/2017/12/03/nvidia-research-nips/)
 
