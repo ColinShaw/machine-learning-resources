@@ -49,6 +49,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Nested LSTMs](https://arxiv.org/pdf/1801.10308.pdf)
+
   * [Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks](https://arxiv.org/pdf/1502.05698.pdf)
 
   * [Audio Adversarial Examples: Targeted Attacks on Speech-to-Text](https://arxiv.org/pdf/1801.01944.pdf)
