@@ -301,6 +301,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Only Numpy: Implementing GAN (General Adversarial Networks) and Adam Optimizer using Numpy with Interactive Code](https://towardsdatascience.com/only-numpy-implementing-gan-general-adversarial-networks-and-adam-optimizer-using-numpy-with-2a7e4e032021)
+
   * [How to build your own AlphaZero AI using Python and Keras](https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188)
 
   * [How Neural Networks Are Trained](https://ml4a.github.io/ml4a/how_neural_networks_are_trained/)
@@ -358,6 +360,8 @@ good articles and some other resources.
   
 
 ## Interesting Online Projects and Tools
+
+  * [Implementing GAN](https://colab.research.google.com/notebook#fileId=1D2kF1uBbJlVuglpuBSrw7A_3ws-Nvxk-)
 
   * [Detectron](https://github.com/facebookresearch/Detectron)
 
