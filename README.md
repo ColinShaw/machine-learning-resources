@@ -301,6 +301,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [SBNet: Leveraging Activation Block Sparsity for Speeding up Convolutional Neural Networks](https://eng.uber.com/sbnet/)
+
   * [Only Numpy: Implementing GAN (General Adversarial Networks) and Adam Optimizer using Numpy with Interactive Code](https://towardsdatascience.com/only-numpy-implementing-gan-general-adversarial-networks-and-adam-optimizer-using-numpy-with-2a7e4e032021)
 
   * [How to build your own AlphaZero AI using Python and Keras](https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188)
