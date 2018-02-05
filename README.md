@@ -49,6 +49,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [From Micro to Macro: Data Driven Phenotyping by Densification of Longitudinal Electronic Medical Records](http://jiayuzhou.github.io/papers/jzhouKDD14.pdf)
+
   * [Speed/accuracy trade-offs for modern convolutional object detectors](https://arxiv.org/pdf/1611.10012.pdf)
 
   * [Nested LSTMs](https://arxiv.org/pdf/1801.10308.pdf)
@@ -302,6 +304,8 @@ good articles and some other resources.
 
 
 ## Online Learning Resources
+
+  * [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 
   * [SBNet: Leveraging Activation Block Sparsity for Speeding up Convolutional Neural Networks](https://eng.uber.com/sbnet/)
 
