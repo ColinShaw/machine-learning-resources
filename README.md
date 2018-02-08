@@ -373,6 +373,8 @@ good articles and some other resources.
 
 ## Interesting Online Projects and Tools
 
+  * [tf-faster-rcnn](https://github.com/endernewton/tf-faster-rcnn)
+
   * [Thinc](https://github.com/explosion/thinc)
 
   * [Explosion.ai](https://explosion.ai/)
