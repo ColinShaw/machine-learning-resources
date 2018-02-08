@@ -373,6 +373,8 @@ good articles and some other resources.
 
 ## Interesting Online Projects and Tools
 
+  * [Explosion.ai](https://explosion.ai/)
+
   * [Deep Time-to-Failure](https://github.com/gm-spacagna/deep-ttf/)
 
   * [Implementing GAN](https://colab.research.google.com/notebook#fileId=1D2kF1uBbJlVuglpuBSrw7A_3ws-Nvxk-)
