@@ -49,6 +49,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Quasi-Recurrent Neural Networks](https://arxiv.org/pdf/1611.01576.pdf)
+
   * [From Micro to Macro: Data Driven Phenotyping by Densification of Longitudinal Electronic Medical Records](http://jiayuzhou.github.io/papers/jzhouKDD14.pdf)
 
   * [Speed/accuracy trade-offs for modern convolutional object detectors](https://arxiv.org/pdf/1611.10012.pdf)
