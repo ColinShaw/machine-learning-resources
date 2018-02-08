@@ -373,6 +373,8 @@ good articles and some other resources.
 
 ## Interesting Online Projects and Tools
 
+  * [Thinc](https://github.com/explosion/thinc)
+
   * [Explosion.ai](https://explosion.ai/)
 
   * [Deep Time-to-Failure](https://github.com/gm-spacagna/deep-ttf/)
