@@ -305,6 +305,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Fast AI](http://course.fast.ai/index.html)
+
   * [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 
   * [SBNet: Leveraging Activation Block Sparsity for Speeding up Convolutional Neural Networks](https://eng.uber.com/sbnet/)
@@ -368,6 +370,8 @@ good articles and some other resources.
   
 
 ## Interesting Online Projects and Tools
+
+  * [Deep Time-to-Failure](https://github.com/gm-spacagna/deep-ttf/)
 
   * [Implementing GAN](https://colab.research.google.com/notebook#fileId=1D2kF1uBbJlVuglpuBSrw7A_3ws-Nvxk-)
 
