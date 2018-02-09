@@ -49,6 +49,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Regularized Evolution for Image Classifier Architecture Search](https://arxiv.org/pdf/1802.01548.pdf)
+
   * [Quasi-Recurrent Neural Networks](https://arxiv.org/pdf/1611.01576.pdf)
 
   * [From Micro to Macro: Data Driven Phenotyping by Densification of Longitudinal Electronic Medical Records](http://jiayuzhou.github.io/papers/jzhouKDD14.pdf)
