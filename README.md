@@ -49,6 +49,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Deep Temporal Clustering : Fully Unsupervised Learning of Time-Domain Features](https://arxiv.org/pdf/1802.01059.pdf)
+
   * [Regularized Evolution for Image Classifier Architecture Search](https://arxiv.org/pdf/1802.01548.pdf)
 
   * [Quasi-Recurrent Neural Networks](https://arxiv.org/pdf/1611.01576.pdf)
