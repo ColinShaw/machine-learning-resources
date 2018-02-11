@@ -49,6 +49,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/pdf/1802.01528v2.pdf)
+
   * [Deep Temporal Clustering : Fully Unsupervised Learning of Time-Domain Features](https://arxiv.org/pdf/1802.01059.pdf)
 
   * [Regularized Evolution for Image Classifier Architecture Search](https://arxiv.org/pdf/1802.01548.pdf)
@@ -310,6 +312,8 @@ good articles and some other resources.
 
 
 ## Online Learning Resources
+
+  * [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/pdf/1802.01528v2.pdf)
 
   * [Fast AI](http://course.fast.ai/index.html)
 
