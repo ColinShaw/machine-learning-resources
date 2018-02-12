@@ -385,6 +385,8 @@ good articles and some other resources.
 
 ## Interesting Online Projects and Tools
 
+  * [Using OpenAI Gym with ROS](https://www.linkedin.com/pulse/using-openai-gym-ros-ricardo-tellez/)
+
   * [Countering Adversarial Images Using Input Transformations](https://github.com/facebookresearch/adversarial_image_defenses)
 
   * [tf-faster-rcnn](https://github.com/endernewton/tf-faster-rcnn)
