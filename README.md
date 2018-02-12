@@ -315,6 +315,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Deep Learning Is Not Good Enough, We Need Bayesian Deep Learning for Safe AI](https://alexgkendall.com/computer_vision/bayesian_deep_learning_for_safe_ai/)
+
   * [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/pdf/1802.01528v2.pdf)
 
   * [Fast AI](http://course.fast.ai/index.html)
