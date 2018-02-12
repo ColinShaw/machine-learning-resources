@@ -49,6 +49,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Countering Adversarial Images Using Input Transformations](https://arxiv.org/pdf/1711.00117.pdf)
+
   * [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/pdf/1802.01528v2.pdf)
 
   * [Deep Temporal Clustering : Fully Unsupervised Learning of Time-Domain Features](https://arxiv.org/pdf/1802.01059.pdf)
@@ -380,6 +382,8 @@ good articles and some other resources.
   
 
 ## Interesting Online Projects and Tools
+
+  * [Countering Adversarial Images Using Input Transformations](https://github.com/facebookresearch/adversarial_image_defenses)
 
   * [tf-faster-rcnn](https://github.com/endernewton/tf-faster-rcnn)
 
