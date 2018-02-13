@@ -315,6 +315,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Annotating Large Datasets with the TensorFlow Object Detection API](http://andrew.carterlunn.co.uk/programming/2018/01/24/annotating-large-datasets-with-tensorflow-object-detection-api.html)
+
   * [Deep Learning Is Not Good Enough, We Need Bayesian Deep Learning for Safe AI](https://alexgkendall.com/computer_vision/bayesian_deep_learning_for_safe_ai/)
 
   * [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/pdf/1802.01528v2.pdf)
