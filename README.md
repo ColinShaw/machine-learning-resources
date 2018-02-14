@@ -49,6 +49,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Classification and clustering for samples of event time data using non-homogeneous Poisson process models](https://arxiv.org/pdf/1703.02111.pdf)
+
   * [IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures](https://arxiv.org/pdf/1802.01561.pdf)
 
   * [Countering Adversarial Images Using Input Transformations](https://arxiv.org/pdf/1711.00117.pdf)
