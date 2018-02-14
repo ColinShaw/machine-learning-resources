@@ -49,6 +49,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures](https://arxiv.org/pdf/1802.01561.pdf)
+
   * [Countering Adversarial Images Using Input Transformations](https://arxiv.org/pdf/1711.00117.pdf)
 
   * [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/pdf/1802.01528v2.pdf)
@@ -314,6 +316,8 @@ good articles and some other resources.
 
 
 ## Online Learning Resources
+
+  * [Terrence Parr and Jeremy Howard's math primer](https://arxiv.org/pdf/1802.01528v2.pdf)
 
   * [Annotating Large Datasets with the TensorFlow Object Detection API](http://andrew.carterlunn.co.uk/programming/2018/01/24/annotating-large-datasets-with-tensorflow-object-detection-api.html)
 
