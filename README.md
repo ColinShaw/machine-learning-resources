@@ -319,6 +319,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [A Visual Guide to Evolution Strategies](http://blog.otoro.net/2017/10/29/visual-evolution-strategies/)
+
   * [Terrence Parr and Jeremy Howard's math primer](https://arxiv.org/pdf/1802.01528v2.pdf)
 
   * [Annotating Large Datasets with the TensorFlow Object Detection API](http://andrew.carterlunn.co.uk/programming/2018/01/24/annotating-large-datasets-with-tensorflow-object-detection-api.html)
