@@ -49,6 +49,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Faster gaze prediction with dense networks and Fisher pruning](https://arxiv.org/pdf/1801.05787.pdf)
+
   * [Classification and clustering for samples of event time data using non-homogeneous Poisson process models](https://arxiv.org/pdf/1703.02111.pdf)
 
   * [IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures](https://arxiv.org/pdf/1802.01561.pdf)
@@ -389,11 +391,17 @@ good articles and some other resources.
 
 ## News 
 
+  * [Ferenc Huszár's inFERENCe](http://www.inference.vc)
+
   * [AAAI's AITopics Feed](https://aitopics.org/search)
   
   
 
 ## Interesting Online Projects and Tools
+
+  * [A Visual Guide to Evolution Strategies](http://blog.otoro.net/2017/10/29/visual-evolution-strategies/)
+
+  * [An overview of word embeddings and their connection to distributional semantic models](http://blog.aylien.com/overview-word-embeddings-history-word2vec-cbow-glove/)
 
   * [Using OpenAI Gym with ROS](https://www.linkedin.com/pulse/using-openai-gym-ros-ricardo-tellez/)
 
