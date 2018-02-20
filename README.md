@@ -49,6 +49,10 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Tiny SSD: A Tiny Single-shot Detection Deep Convolutional Neural Network for Real-time Embedded Object Detection](https://arxiv.org/pdf/1802.06488.pdf)
+
+  * [Supervised Dimensionality Reduction via Distance Correlation Maximization](https://arxiv.org/pdf/1601.00236.pdf)
+
   * [Faster gaze prediction with dense networks and Fisher pruning](https://arxiv.org/pdf/1801.05787.pdf)
 
   * [Classification and clustering for samples of event time data using non-homogeneous Poisson process models](https://arxiv.org/pdf/1703.02111.pdf)
