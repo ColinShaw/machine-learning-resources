@@ -403,6 +403,8 @@ good articles and some other resources.
 
 ## Interesting Online Projects and Tools
 
+  * [Only Numpy: Implementing Mini VGG (VGG 7) and SoftMax Layer with Interactive Code](https://towardsdatascience.com/only-numpy-implementing-mini-vgg-vgg-7-and-softmax-layer-with-interactive-code-8994719bcca8)
+
   * [A Visual Guide to Evolution Strategies](http://blog.otoro.net/2017/10/29/visual-evolution-strategies/)
 
   * [An overview of word embeddings and their connection to distributional semantic models](http://blog.aylien.com/overview-word-embeddings-history-word2vec-cbow-glove/)
@@ -504,4 +506,12 @@ good articles and some other resources.
   * [AI Grant](https://aigrant.org/)
   
   * [NVIDIA Inception Program](https://www.nvidia.com/en-us/deep-learning-ai/startups/)
+  
+
+
+## Online Programs of Study
+
+  * [Udacity](https://www.udacity.com)
+  
+  * [Andrew Ng's deeplearning.ai](https://www.deeplearning.ai)
   
