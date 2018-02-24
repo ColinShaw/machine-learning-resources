@@ -49,6 +49,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [On Characterizing the Capacity of Neural Networks using Algebraic Topology](https://arxiv.org/pdf/1802.04443.pdf)
+
   * [Adversarial Examples that Fool both Human and Computer Vision](https://arxiv.org/pdf/1802.08195.pdf)
 
   * [Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models](https://papers.nips.cc/paper/6790-batch-renormalization-towards-reducing-minibatch-dependence-in-batch-normalized-models.pdf)
