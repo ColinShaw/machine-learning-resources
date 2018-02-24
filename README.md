@@ -49,6 +49,10 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Deep Networks with Stochastic Depth](https://arxiv.org/pdf/1603.09382.pdf)
+
+  * [Wide Residual Networks](https://arxiv.org/pdf/1605.07146.pdf)
+
   * [Tiny SSD: A Tiny Single-shot Detection Deep Convolutional Neural Network for Real-time Embedded Object Detection](https://arxiv.org/pdf/1802.06488.pdf)
 
   * [Supervised Dimensionality Reduction via Distance Correlation Maximization](https://arxiv.org/pdf/1601.00236.pdf)
@@ -402,6 +406,8 @@ good articles and some other resources.
   
 
 ## Interesting Online Projects and Tools
+
+  * [Only Numpy: Implementing Simple ResNet (Deep Networks with Stochastic Depth) for MNIST Classification with Interactive Code](https://towardsdatascience.com/only-numpy-implementing-simple-resnet-for-mnist-classification-with-interactive-code-d58c77064304)
 
   * [Only Numpy: Implementing Mini VGG (VGG 7) and SoftMax Layer with Interactive Code](https://towardsdatascience.com/only-numpy-implementing-mini-vgg-vgg-7-and-softmax-layer-with-interactive-code-8994719bcca8)
 
