@@ -49,6 +49,12 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Adversarial Examples that Fool both Human and Computer Vision](https://arxiv.org/pdf/1802.08195.pdf)
+
+  * [Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models](https://papers.nips.cc/paper/6790-batch-renormalization-towards-reducing-minibatch-dependence-in-batch-normalized-models.pdf)
+
+  * [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167.pdf)
+
   * [Deep Networks with Stochastic Depth](https://arxiv.org/pdf/1603.09382.pdf)
 
   * [Wide Residual Networks](https://arxiv.org/pdf/1605.07146.pdf)
