@@ -337,6 +337,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Deep Learning in the Physical Sciences (Kyle)](http://helper.ipam.ucla.edu/publications/dlt2018/dlt2018_14649.pdf)
+
   * [A Visual Guide to Evolution Strategies](http://blog.otoro.net/2017/10/29/visual-evolution-strategies/)
 
   * [Terrence Parr and Jeremy Howard's math primer](https://arxiv.org/pdf/1802.01528v2.pdf)
