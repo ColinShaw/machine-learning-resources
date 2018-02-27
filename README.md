@@ -49,6 +49,10 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Deep Multimodal Learning For Emotion Recognition In Spoken Language](https://arxiv.org/pdf/1802.08332.pdf)
+ 
+  * [A Neural Parametric Singing Synthesizer](https://arxiv.org/pdf/1704.03809.pdf)
+
   * [On Characterizing the Capacity of Neural Networks using Algebraic Topology](https://arxiv.org/pdf/1802.04443.pdf)
 
   * [Adversarial Examples that Fool both Human and Computer Vision](https://arxiv.org/pdf/1802.08195.pdf)
