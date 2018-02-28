@@ -345,6 +345,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Inverse Reinforcement Learning Pt. I](https://thinkingwires.com/posts/2018-02-13-irl-tutorial-1.html)
+
   * [Deep Learning in the Physical Sciences (Kyle)](http://helper.ipam.ucla.edu/publications/dlt2018/dlt2018_14649.pdf)
 
   * [A Visual Guide to Evolution Strategies](http://blog.otoro.net/2017/10/29/visual-evolution-strategies/)
