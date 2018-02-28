@@ -419,6 +419,8 @@ good articles and some other resources.
 
 ## News 
 
+  * [The Wild Week in AI](https://www.getrevue.co/profile/wildml/issues/the-wild-week-in-ai-cloud-tpus-beta-ai-s-replication-crisis-why-rl-doesn-t-work-and-more-97111)
+
   * [Ferenc Huszár's inFERENCe](http://www.inference.vc)
 
   * [AAAI's AITopics Feed](https://aitopics.org/search)
