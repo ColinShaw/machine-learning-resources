@@ -49,6 +49,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [One Big Net For Everything](https://arxiv.org/pdf/1802.08864.pdf)
+
   * [Deep Multimodal Learning For Emotion Recognition In Spoken Language](https://arxiv.org/pdf/1802.08332.pdf)
  
   * [A Neural Parametric Singing Synthesizer](https://arxiv.org/pdf/1704.03809.pdf)
