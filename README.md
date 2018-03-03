@@ -347,6 +347,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Only Numpy: NIPS 2017 - Implementing Dilated Recurrent Neural Networks with Interactive Code](https://towardsdatascience.com/only-numpy-nips-2017-implementing-dilated-recurrent-neural-networks-with-interactive-code-e83abe8c9b27)
+
   * [Inverse Reinforcement Learning Pt. I](https://thinkingwires.com/posts/2018-02-13-irl-tutorial-1.html)
 
   * [Deep Learning in the Physical Sciences (Kyle)](http://helper.ipam.ucla.edu/publications/dlt2018/dlt2018_14649.pdf)
