@@ -347,6 +347,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Only Numpy: Implementing Highway Network, OOP approach with Mini Batch with Interactive Code](https://towardsdatascience.com/only-numpy-implementing-highway-network-oop-approach-with-mini-batch-with-interactive-code-b5c2de2df842)
+
   * [Only Numpy: NIPS 2017 - Implementing Dilated Recurrent Neural Networks with Interactive Code](https://towardsdatascience.com/only-numpy-nips-2017-implementing-dilated-recurrent-neural-networks-with-interactive-code-e83abe8c9b27)
 
   * [Inverse Reinforcement Learning Pt. I](https://thinkingwires.com/posts/2018-02-13-irl-tutorial-1.html)
