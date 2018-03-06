@@ -49,6 +49,10 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [TSSD: Temporal Single-Shot Detector Based on Attention and LSTM for Robotic Intelligent Perception](https://arxiv.org/pdf/1803.00197.pdf)
+
+  * [Brain Tumor Type Classification via Capsule Networks](https://arxiv.org/pdf/1802.10200.pdf)
+
   * [Recent Advances in Recurrent Neural Networks](https://arxiv.org/pdf/1801.01078.pdf)
 
   * [Bayesian Inverse Reinforcement Learning](https://www.aaai.org/Papers/IJCAI/2007/IJCAI07-416.pdf)
