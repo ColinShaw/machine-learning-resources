@@ -49,6 +49,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Recent Advances in Recurrent Neural Networks](https://arxiv.org/pdf/1801.01078.pdf)
+
   * [Bayesian Inverse Reinforcement Learning](https://www.aaai.org/Papers/IJCAI/2007/IJCAI07-416.pdf)
 
   * [Generative Adversarial Text to Image Synthesis](https://arxiv.org/pdf/1605.05396.pdf)
