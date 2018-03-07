@@ -49,6 +49,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [End-to-end Deep Image Reconstruction From Human Brain Activity](https://www.biorxiv.org/content/biorxiv/early/2018/02/27/272518.full.pdf)
+
   * [TSSD: Temporal Single-Shot Detector Based on Attention and LSTM for Robotic Intelligent Perception](https://arxiv.org/pdf/1803.00197.pdf)
 
   * [Brain Tumor Type Classification via Capsule Networks](https://arxiv.org/pdf/1802.10200.pdf)
