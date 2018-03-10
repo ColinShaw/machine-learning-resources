@@ -49,6 +49,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Evolutionary Generative Adversarial Networks](https://arxiv.org/pdf/1803.00657.pdf)
+
   * [Tensor Comprehensions: Framework-Agnostic High-Performance Machine Learning Abstractions](https://arxiv.org/pdf/1802.04730.pdf)
 
   * [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/)
