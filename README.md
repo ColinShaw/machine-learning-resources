@@ -49,6 +49,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Learning a Parametric Embedding by Preserving Local Structure](https://lvdmaaten.github.io/publications/papers/AISTATS_2009.pdf)
+
   * [Unsupervised Document Embedding With CNNs](https://arxiv.org/pdf/1711.04168.pdf)
 
   * [Explanations based on the Missing: Towards Contrastive Explanations with Pertinent Negatives](https://arxiv.org/pdf/1802.07623.pdf)
@@ -366,6 +368,8 @@ good articles and some other resources.
 
 
 ## Online Learning Resources
+
+  * [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/)
 
   * [Understanding Learning Rates and How It Improves Performance in Deep Learning](https://towardsdatascience.com/understanding-learning-rates-and-how-it-improves-performance-in-deep-learning-d0d4059c1c10)
 
