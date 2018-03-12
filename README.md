@@ -49,6 +49,10 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Unsupervised Document Embedding With CNNs](https://arxiv.org/pdf/1711.04168.pdf)
+
+  * [Explanations based on the Missing: Towards Contrastive Explanations with Pertinent Negatives](https://arxiv.org/pdf/1802.07623.pdf)
+
   * [Advances in Variational Inference](https://arxiv.org/pdf/1711.05597.pdf)
 
   * [Evolutionary Generative Adversarial Networks](https://arxiv.org/pdf/1803.00657.pdf)
