@@ -369,6 +369,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Neural Artistic Style Transfer: A Comprehensive Look](https://medium.com/artists-and-machine-intelligence/neural-artistic-style-transfer-a-comprehensive-look-f54d8649c199)
+
   * [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/)
 
   * [Understanding Learning Rates and How It Improves Performance in Deep Learning](https://towardsdatascience.com/understanding-learning-rates-and-how-it-improves-performance-in-deep-learning-d0d4059c1c10)
