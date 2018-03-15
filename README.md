@@ -49,6 +49,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Kickstarting Deep Reinforcement Learning](https://arxiv.org/pdf/1803.03835.pdf)
+
   * [Learning a Parametric Embedding by Preserving Local Structure](https://lvdmaaten.github.io/publications/papers/AISTATS_2009.pdf)
 
   * [Unsupervised Document Embedding With CNNs](https://arxiv.org/pdf/1711.04168.pdf)
