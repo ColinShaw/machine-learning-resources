@@ -371,6 +371,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Understanding and optimizing GANs (Going back to first principles)](https://towardsdatascience.com/understanding-and-optimizing-gans-going-back-to-first-principles-e5df8835ae18)
+
   * [Neural Artistic Style Transfer: A Comprehensive Look](https://medium.com/artists-and-machine-intelligence/neural-artistic-style-transfer-a-comprehensive-look-f54d8649c199)
 
   * [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/)
