@@ -49,6 +49,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://arxiv.org/pdf/1607.06520.pdf)
+
   * [Extracting Domain Invariant Features By Unsupervised Learning For Robust Automatic Speech Recognition](https://arxiv.org/pdf/1803.02551.pdf)
 
   * [Compositional Attention Networks For Machine Reasoning](https://arxiv.org/pdf/1803.03067.pdf)
