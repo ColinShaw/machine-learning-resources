@@ -49,6 +49,10 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://arxiv.org/pdf/1406.1078.pdf)
+
+  * [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/pdf/1409.3215.pdf)
+
   * [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://arxiv.org/pdf/1607.06520.pdf)
 
   * [Extracting Domain Invariant Features By Unsupervised Learning For Robust Automatic Speech Recognition](https://arxiv.org/pdf/1803.02551.pdf)
