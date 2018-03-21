@@ -49,6 +49,18 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Deep Metric Learning with Angular Loss](https://arxiv.org/pdf/1708.01682.pdf)
+
+  * [Deep Metric Learning via Lifted Structured Feature Embedding](https://arxiv.org/pdf/1511.06452.pdf)
+
+  * [Hard Negative Mining for Metric Learning Based Zero-Shot Classification](http://adas.cvc.uab.es/task-cv2016/papers/0023.pdf)
+
+  * [Triplet-based Deep Similarity Learning for Person Re-Identification](https://arxiv.org/pdf/1802.03254.pdf)
+
+  * [How to Train Triplet Networks with 100K Identities?](https://arxiv.org/pdf/1709.02940.pdf)
+
+  * [Deep Metric Learning Using Triplet Network](https://arxiv.org/pdf/1412.6622.pdf)
+
   * [Robust Monitoring of Time Series with Application to Fraud Detection](https://arxiv.org/pdf/1708.08268.pdf)
 
   * [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473.pdf)
