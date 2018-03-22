@@ -49,6 +49,10 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Deep Binaries: Encoding Semantic-Rich Cues for Efficient Textual-Visual Cross Retrieval](https://arxiv.org/pdf/1708.02531.pdf)
+
+  * [Deep k-Nearest Neighbors: Towards Confident, Interpretable and Robust Deep Learning](https://arxiv.org/pdf/1803.04765.pdf)
+
   * [Simple random search provides a competitive approach to reinforcement learning](https://arxiv.org/pdf/1803.07055.pdf)
 
   * [ChatPainter: Improving Text to Image Generation using Dialogue](https://arxiv.org/pdf/1802.08216.pdf)
