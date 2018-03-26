@@ -505,6 +505,8 @@ good articles and some other resources.
 
 ## Interesting Online Projects and Tools
 
+  * [Releasing “Supervisely Person” dataset for teaching machines to segment humans](https://hackernoon.com/releasing-supervisely-person-dataset-for-teaching-machines-to-segment-humans-1f1fc1f28469)
+
   * [Only Numpy: Implementing Simple ResNet (Deep Networks with Stochastic Depth) for MNIST Classification with Interactive Code](https://towardsdatascience.com/only-numpy-implementing-simple-resnet-for-mnist-classification-with-interactive-code-d58c77064304)
 
   * [Only Numpy: Implementing Mini VGG (VGG 7) and SoftMax Layer with Interactive Code](https://towardsdatascience.com/only-numpy-implementing-mini-vgg-vgg-7-and-softmax-layer-with-interactive-code-8994719bcca8)
