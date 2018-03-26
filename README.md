@@ -49,6 +49,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Text2Shape: Generating Shapes from Natural Language by Learning Joint Embeddings](https://arxiv.org/pdf/1803.08495v1.pdf)
+
   * [Deep Spatial Pyramid for Person Re-identification](https://s3-us-west-1.amazonaws.com/disneyresearch/wp-content/uploads/20170814145721/Deep-Spatial-Pyramid-for-Person-Re-identification-Paper.pdf)
   
   * [Deep Binaries: Encoding Semantic-Rich Cues for Efficient Textual-Visual Cross Retrieval](https://arxiv.org/pdf/1708.02531.pdf)
