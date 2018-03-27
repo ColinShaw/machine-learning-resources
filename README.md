@@ -49,6 +49,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Some Theoretical Properties of GANs](https://arxiv.org/pdf/1803.07819.pdf)
+
   * [Text2Shape: Generating Shapes from Natural Language by Learning Joint Embeddings](https://arxiv.org/pdf/1803.08495v1.pdf)
 
   * [Deep Spatial Pyramid for Person Re-identification](https://s3-us-west-1.amazonaws.com/disneyresearch/wp-content/uploads/20170814145721/Deep-Spatial-Pyramid-for-Person-Re-identification-Paper.pdf)
