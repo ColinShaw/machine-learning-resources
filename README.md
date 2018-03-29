@@ -44,6 +44,9 @@ good articles and some other resources.
 
   * __Deep Learning__    
     _Ian Goodfellow, Yoshua Bengio and Aaron Courville_  
+    
+  * __Deep Learning with Python__   
+    _François Chollet_   
  
 
 
