@@ -49,6 +49,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Group Normalization](https://arxiv.org/pdf/1803.08494.pdf)
+
   * [Some Theoretical Properties of GANs](https://arxiv.org/pdf/1803.07819.pdf)
 
   * [Text2Shape: Generating Shapes from Natural Language by Learning Joint Embeddings](https://arxiv.org/pdf/1803.08495v1.pdf)
