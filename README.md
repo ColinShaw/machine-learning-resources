@@ -416,8 +416,6 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
-  * [“Cracking” Morse code with RNNs](https://towardsdatascience.com/cracking-morse-code-with-rnns-e5883355a6f3)
-
   * [Understanding and optimizing GANs (Going back to first principles)](https://towardsdatascience.com/understanding-and-optimizing-gans-going-back-to-first-principles-e5df8835ae18)
 
   * [Neural Artistic Style Transfer: A Comprehensive Look](https://medium.com/artists-and-machine-intelligence/neural-artistic-style-transfer-a-comprehensive-look-f54d8649c199)
@@ -513,6 +511,10 @@ good articles and some other resources.
   
 
 ## Interesting Online Projects and Tools
+
+  * [Engineering Extreme Event Forecasting at Uber with Recurrent Neural Networks](https://eng.uber.com/neural-networks/)
+
+  * [“Cracking” Morse code with RNNs](https://towardsdatascience.com/cracking-morse-code-with-rnns-e5883355a6f3)
 
   * [Releasing “Supervisely Person” dataset for teaching machines to segment humans](https://hackernoon.com/releasing-supervisely-person-dataset-for-teaching-machines-to-segment-humans-1f1fc1f28469)
 
