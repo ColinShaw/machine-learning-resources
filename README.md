@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Human Semantic Parsing for Person Re-identification](https://arxiv.org/pdf/1804.00216.pdf)
+
   * [Group Normalization](https://arxiv.org/pdf/1803.08494.pdf)
 
   * [Some Theoretical Properties of GANs](https://arxiv.org/pdf/1803.07819.pdf)
