@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Complex-YOLO: An Euler-Region-Proposal for Real-time 3D Object Detection on Point Clouds](https://arxiv.org/pdf/1803.06199.pdf)
+
   * [code2vec: Learning Distributed Representations of Code](https://arxiv.org/pdf/1803.09473.pdf)
 
   * [Human Semantic Parsing for Person Re-identification](https://arxiv.org/pdf/1804.00216.pdf)
