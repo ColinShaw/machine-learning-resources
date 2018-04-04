@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks](https://arxiv.org/pdf/1312.6229.pdf)
+
   * [Complex-YOLO: An Euler-Region-Proposal for Real-time 3D Object Detection on Point Clouds](https://arxiv.org/pdf/1803.06199.pdf)
 
   * [code2vec: Learning Distributed Representations of Code](https://arxiv.org/pdf/1803.09473.pdf)
