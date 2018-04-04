@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [code2vec: Learning Distributed Representations of Code](https://arxiv.org/pdf/1803.09473.pdf)
+
   * [Human Semantic Parsing for Person Re-identification](https://arxiv.org/pdf/1804.00216.pdf)
 
   * [Group Normalization](https://arxiv.org/pdf/1803.08494.pdf)
