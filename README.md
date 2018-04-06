@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Neural Voice Cloning with a Few Samples](https://arxiv.org/pdf/1802.06006.pdf)
+
   * [L4: Practical loss-based stepsize adaptation for deep learning](https://arxiv.org/pdf/1802.05074.pdf)
 
   * [OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks](https://arxiv.org/pdf/1312.6229.pdf)
