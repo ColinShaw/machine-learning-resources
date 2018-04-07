@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Network In Network](https://arxiv.org/pdf/1312.4400.pdf)
+
   * [Neural Voice Cloning with a Few Samples](https://arxiv.org/pdf/1802.06006.pdf)
 
   * [L4: Practical loss-based stepsize adaptation for deep learning](https://arxiv.org/pdf/1802.05074.pdf)
