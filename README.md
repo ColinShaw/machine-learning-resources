@@ -528,6 +528,8 @@ good articles and some other resources.
 
 ## Interesting Online Projects and Tools
 
+  * [Machine Learning is Fun Part 6: How to do Speech Recognition with Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a)
+
   * [Engineering Extreme Event Forecasting at Uber with Recurrent Neural Networks](https://eng.uber.com/neural-networks/)
 
   * [“Cracking” Morse code with RNNs](https://towardsdatascience.com/cracking-morse-code-with-rnns-e5883355a6f3)
