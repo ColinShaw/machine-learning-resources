@@ -436,6 +436,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Character-Level Language Model](https://towardsdatascience.com/character-level-language-model-1439f5dd87fe)
+
   * [Understanding GANs through a statistical divergence perspective](https://alexiajm.github.io/GANs/)
 
   * [Deep Learning Book Series](https://hadrienj.github.io/posts/Deep-Learning-Book-Series-Introduction/)
