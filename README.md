@@ -436,6 +436,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Understanding GANs through a statistical divergence perspective](https://alexiajm.github.io/GANs/)
+
   * [Deep Learning Book Series](https://hadrienj.github.io/posts/Deep-Learning-Book-Series-Introduction/)
 
   * [Understanding and optimizing GANs (Going back to first principles)](https://towardsdatascience.com/understanding-and-optimizing-gans-going-back-to-first-principles-e5df8835ae18)
