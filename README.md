@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Algebraic Machine Learning](https://arxiv.org/pdf/1803.05252.pdf)
+
   * [Network In Network](https://arxiv.org/pdf/1312.4400.pdf)
 
   * [Neural Voice Cloning with a Few Samples](https://arxiv.org/pdf/1802.06006.pdf)
