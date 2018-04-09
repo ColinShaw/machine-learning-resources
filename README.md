@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Spatial Graph Convolutions for Drug Discovery](https://arxiv.org/pdf/1803.04465.pdf)
+
   * [sense2vec - A Fast and Accurate Method for Word Sense Disambiguation In Neural Word Embeddings](https://arxiv.org/pdf/1511.06388.pdf)
 
   * [Algebraic Machine Learning](https://arxiv.org/pdf/1803.05252.pdf)
