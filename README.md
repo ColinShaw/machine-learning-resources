@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Manifold Alignment](https://people.cs.umass.edu/~mahadeva/papers/bookchapter.pdf)
+
   * [A General Framework for Manifold Alignment](http://www-anw.cs.umass.edu/legacy/pubs/2009/wang_m_09d.pdf)
 
   * [Differentiable plasticity: training plastic neural networks with backpropagation](https://arxiv.org/pdf/1804.02464.pdf)
