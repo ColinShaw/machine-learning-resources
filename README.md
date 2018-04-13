@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Neural Aesthetic Image Reviewer](https://arxiv.org/pdf/1802.10240.pdf)
+
   * [Manifold Alignment](https://people.cs.umass.edu/~mahadeva/papers/bookchapter.pdf)
 
   * [A General Framework for Manifold Alignment](http://www-anw.cs.umass.edu/legacy/pubs/2009/wang_m_09d.pdf)
