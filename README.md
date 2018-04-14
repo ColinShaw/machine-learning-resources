@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Concept2vec: Metrics for Evaluating Quality of Embeddings for Ontological Concepts](https://arxiv.org/pdf/1803.04488.pdf)
+
   * [Neural Aesthetic Image Reviewer](https://arxiv.org/pdf/1802.10240.pdf)
 
   * [Manifold Alignment](https://people.cs.umass.edu/~mahadeva/papers/bookchapter.pdf)
