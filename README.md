@@ -450,6 +450,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Using Tensorflow Object Detection to do Pixel Wise Classification](https://towardsdatascience.com/using-tensorflow-object-detection-to-do-pixel-wise-classification-702bf2605182)
+
   * [Character-Level Language Model](https://towardsdatascience.com/character-level-language-model-1439f5dd87fe)
 
   * [Understanding GANs through a statistical divergence perspective](https://alexiajm.github.io/GANs/)
