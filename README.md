@@ -452,6 +452,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Using Evolutionary AutoML to Discover Neural Network Architectures](https://research.googleblog.com/2018/03/using-evolutionary-automl-to-discover.html)
+
   * [How to use Dataset in TensorFlow](https://towardsdatascience.com/how-to-use-dataset-in-tensorflow-c758ef9e4428)
 
   * [Using Tensorflow Object Detection to do Pixel Wise Classification](https://towardsdatascience.com/using-tensorflow-object-detection-to-do-pixel-wise-classification-702bf2605182)
