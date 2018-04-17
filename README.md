@@ -452,6 +452,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [wav2letter: A Facebook AI Research(FAIR) Automatic Speech Recognition Toolkit](https://www.techleer.com/articles/455-wav2letter-a-facebook-ai-researchfair-automatic-speech-recognition-toolkit/)
+
   * [Using Evolutionary AutoML to Discover Neural Network Architectures](https://research.googleblog.com/2018/03/using-evolutionary-automl-to-discover.html)
 
   * [How to use Dataset in TensorFlow](https://towardsdatascience.com/how-to-use-dataset-in-tensorflow-c758ef9e4428)
@@ -559,6 +561,8 @@ good articles and some other resources.
   
 
 ## Interesting Online Projects and Tools
+
+  * [wav2letter](https://github.com/facebookresearch/wav2letter)
 
   * [Generative Adversarial Networks for Extreme Learned Image Compression](https://data.vision.ee.ethz.ch/aeirikur/extremecompression/)
 
