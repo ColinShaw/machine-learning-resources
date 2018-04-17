@@ -452,6 +452,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [The fall of RNN / LSTM](https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0)
+
   * [wav2letter: A Facebook AI Research(FAIR) Automatic Speech Recognition Toolkit](https://www.techleer.com/articles/455-wav2letter-a-facebook-ai-researchfair-automatic-speech-recognition-toolkit/)
 
   * [Using Evolutionary AutoML to Discover Neural Network Architectures](https://research.googleblog.com/2018/03/using-evolutionary-automl-to-discover.html)
