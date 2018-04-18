@@ -564,6 +564,8 @@ good articles and some other resources.
 
 ## Interesting Online Projects and Tools
 
+  * [MUNIT: Multimodal UNsupervised Image-to-image Translation](https://github.com/nvlabs/munit)
+
   * [wav2letter](https://github.com/facebookresearch/wav2letter)
 
   * [Generative Adversarial Networks for Extreme Learned Image Compression](https://data.vision.ee.ethz.ch/aeirikur/extremecompression/)
