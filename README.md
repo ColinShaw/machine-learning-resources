@@ -564,6 +564,8 @@ good articles and some other resources.
 
 ## Interesting Online Projects and Tools
 
+  * [Text Classification with TensorFlow Estimators](http://ruder.io/text-classification-tensorflow-estimators/)
+
   * [MUNIT: Multimodal UNsupervised Image-to-image Translation](https://github.com/nvlabs/munit)
 
   * [wav2letter](https://github.com/facebookresearch/wav2letter)
