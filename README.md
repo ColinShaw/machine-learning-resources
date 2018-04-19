@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Multimodal Unsupervised Image-to-Image Translation](https://arxiv.org/pdf/1804.04732.pdf)
+
   * [Regularizing Deep Networks by Modeling and Predicting Label Structure](https://arxiv.org/pdf/1804.02009.pdf)
 
   * [Recurrent Recommender Networks](http://alexbeutel.com/papers/rrn_wsdm2017.pdf)
