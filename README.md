@@ -564,6 +564,8 @@ good articles and some other resources.
 
 ## Interesting Online Projects and Tools
 
+  * [Army develops face recognition technology that works in the dark](https://www.arl.army.mil/www/default.cfm?article=3199)
+
   * [Text Classification with TensorFlow Estimators](http://ruder.io/text-classification-tensorflow-estimators/)
 
   * [MUNIT: Multimodal UNsupervised Image-to-image Translation](https://github.com/nvlabs/munit)
