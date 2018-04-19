@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Detecting Malicious PowerShell Commands using Deep Neural Networks](https://arxiv.org/pdf/1804.04177.pdf)
+
   * [Multimodal Unsupervised Image-to-Image Translation](https://arxiv.org/pdf/1804.04732.pdf)
 
   * [Regularizing Deep Networks by Modeling and Predicting Label Structure](https://arxiv.org/pdf/1804.02009.pdf)
