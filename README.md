@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Deep Object Co-Segmentation](https://arxiv.org/pdf/1804.06423.pdf)
+
   * [Detecting Malicious PowerShell Commands using Deep Neural Networks](https://arxiv.org/pdf/1804.04177.pdf)
 
   * [Multimodal Unsupervised Image-to-Image Translation](https://arxiv.org/pdf/1804.04732.pdf)
