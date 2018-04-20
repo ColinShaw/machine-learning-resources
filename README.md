@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Looking to Listen at the Cocktail Party: A Speaker-Independent Audio-Visual Model for Speech Separation](https://arxiv.org/pdf/1804.03619.pdf)
+
   * [MergeNet: A Deep Net Architecture for Small Obstacle Discovery](https://arxiv.org/pdf/1803.06508.pdf)
 
   * [Harmonic Networks: Deep Translation and Rotation Equivariance](http://visual.cs.ucl.ac.uk/pubs/harmonicNets/)
