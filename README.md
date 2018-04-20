@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Harmonic Networks: Deep Translation and Rotation Equivariance](http://visual.cs.ucl.ac.uk/pubs/harmonicNets/)
+
   * [ST-GAN: Spatial Transformer Generative Adversarial Networks for Image Compositing](https://arxiv.org/pdf/1803.01837.pdf)
 
   * [Deep Object Co-Segmentation](https://arxiv.org/pdf/1804.06423.pdf)
