@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [MergeNet: A Deep Net Architecture for Small Obstacle Discovery](https://arxiv.org/pdf/1803.06508.pdf)
+
   * [Harmonic Networks: Deep Translation and Rotation Equivariance](http://visual.cs.ucl.ac.uk/pubs/harmonicNets/)
 
   * [ST-GAN: Spatial Transformer Generative Adversarial Networks for Image Compositing](https://arxiv.org/pdf/1803.01837.pdf)
