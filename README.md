@@ -578,6 +578,8 @@ good articles and some other resources.
 
 ## Interesting Online Projects and Tools
 
+  * [Embed, encode, attend, predict: The new deep learning formula for state-of-the-art NLP models](https://explosion.ai/blog/deep-learning-formula-nlp)
+
   * [Army develops face recognition technology that works in the dark](https://www.arl.army.mil/www/default.cfm?article=3199)
 
   * [Text Classification with TensorFlow Estimators](http://ruder.io/text-classification-tensorflow-estimators/)
