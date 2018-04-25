@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Activity Detection with Latent Sub-event Hierarchy Learning](https://arxiv.org/pdf/1803.06316.pdf)
+
   * [Variational Knowledge Graph Reasoning](https://arxiv.org/pdf/1803.06581.pdf)
 
   * [Looking to Listen at the Cocktail Party: A Speaker-Independent Audio-Visual Model for Speech Separation](https://arxiv.org/pdf/1804.03619.pdf)
