@@ -474,6 +474,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [node2vec: Embeddings for Graph Data](https://towardsdatascience.com/node2vec-embeddings-for-graph-data-32a866340fef)
+
   * [The fall of RNN / LSTM](https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0)
 
   * [wav2letter: A Facebook AI Research(FAIR) Automatic Speech Recognition Toolkit](https://www.techleer.com/articles/455-wav2letter-a-facebook-ai-researchfair-automatic-speech-recognition-toolkit/)
