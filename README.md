@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [node2vec: Scalable Feature Learning for Networks](https://arxiv.org/pdf/1607.00653.pdf)
+
   * [Realistic Evaluation of Deep Semi-Supervised Learning Algorithms](https://arxiv.org/pdf/1804.09170.pdf)
 
   * [Activity Detection with Latent Sub-event Hierarchy Learning](https://arxiv.org/pdf/1803.06316.pdf)
