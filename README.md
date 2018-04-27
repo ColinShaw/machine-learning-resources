@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Multiagent Soft Q-Learning](https://arxiv.org/pdf/1804.09817.pdf)
+
   * [Convergence of Value Aggregation for Imitation Learning](https://arxiv.org/pdf/1801.07292.pdf)
 
   * [Why does deep and cheap learning work so well?](https://arxiv.org/pdf/1608.08225.pdf)
