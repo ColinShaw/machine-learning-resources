@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling](https://arxiv.org/pdf/1803.01271.pdf)
+
   * [Multiagent Soft Q-Learning](https://arxiv.org/pdf/1804.09817.pdf)
 
   * [Convergence of Value Aggregation for Imitation Learning](https://arxiv.org/pdf/1801.07292.pdf)
