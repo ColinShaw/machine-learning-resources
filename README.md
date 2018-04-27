@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Compositional Attention Networks for Machine Reasoning](https://arxiv.org/pdf/1803.03067.pdf)
+
   * [An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling](https://arxiv.org/pdf/1803.01271.pdf)
 
   * [Multiagent Soft Q-Learning](https://arxiv.org/pdf/1804.09817.pdf)
