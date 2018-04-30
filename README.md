@@ -734,6 +734,8 @@ good articles and some other resources.
 
 ## Online Programs of Study
 
+  * [Some Thoughts on Mid-Career Switching Into Data Science](https://www.datasciencecentral.com/profiles/blogs/some-thoughts-on-mid-career-switching-into-data-science)
+
   * [Udacity](https://www.udacity.com)
   
   * [Andrew Ng's deeplearning.ai](https://www.deeplearning.ai)
