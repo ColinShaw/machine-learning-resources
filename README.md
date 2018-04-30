@@ -600,6 +600,8 @@ good articles and some other resources.
 
 ## Interesting Online Projects and Tools
 
+  * [The Mathematics of 2048: Optimal Play with Markov Decision Processes](http://jdlm.info/articles/2018/03/18/markov-decision-process-2048.html)
+
   * [Embed, encode, attend, predict: The new deep learning formula for state-of-the-art NLP models](https://explosion.ai/blog/deep-learning-formula-nlp)
 
   * [Army develops face recognition technology that works in the dark](https://www.arl.army.mil/www/default.cfm?article=3199)
