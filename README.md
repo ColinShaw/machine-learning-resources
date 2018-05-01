@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Capsule networks for low-data transfer learning](https://arxiv.org/pdf/1804.10172.pdf)
+
   * [Zero-shot Recognition via Semantic Embeddings and Knowledge Graphs](https://arxiv.org/pdf/1803.08035.pdf)
 
   * [Towards Symbolic Reinforcement Learning with Common Sense](https://arxiv.org/pdf/1804.08597.pdf)
