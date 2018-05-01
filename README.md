@@ -712,6 +712,8 @@ good articles and some other resources.
 
 ## Data Sets
 
+  * [Open Images Dataset V4](https://storage.googleapis.com/openimages/web/index.html)
+
   * [ADEK20K](http://groups.csail.mit.edu/vision/datasets/ADE20K/)
 
   * [Udacity's annotated driving dataset](https://github.com/udacity/self-driving-car/tree/master/annotations)
