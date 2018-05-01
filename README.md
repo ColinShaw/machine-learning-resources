@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Zero-shot Recognition via Semantic Embeddings and Knowledge Graphs](https://arxiv.org/pdf/1803.08035.pdf)
+
   * [Towards Symbolic Reinforcement Learning with Common Sense](https://arxiv.org/pdf/1804.08597.pdf)
 
   * [Compositional Attention Networks for Machine Reasoning](https://arxiv.org/pdf/1803.03067.pdf)
