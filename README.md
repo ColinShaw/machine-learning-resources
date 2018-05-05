@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Real-time Semantic Segmentation of Crop and Weed for Precision Agriculture Robots Leveraging Background Knowledge in CNNs](https://arxiv.org/pdf/1709.06764.pdf)
+
   * [Sim-to-Real: Learning Agile Locomotion For Quadruped Robots](https://arxiv.org/pdf/1804.10332.pdf)
 
   * [Capsule networks for low-data transfer learning](https://arxiv.org/pdf/1804.10172.pdf)
