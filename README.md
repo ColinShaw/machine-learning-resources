@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Quantization Mimic: Towards Very Tiny CNN for Object Detection](https://arxiv.org/pdf/1805.02152.pdf)
+
   * [Efficient Convolutional Network Learning using Parametric Log based Dual-Tree Wavelet ScatterNet](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w18/Singh_Efficient_Convolutional_Network_ICCV_2017_paper.pdf)
 
   * [Real-time Semantic Segmentation of Crop and Weed for Precision Agriculture Robots Leveraging Background Knowledge in CNNs](https://arxiv.org/pdf/1709.06764.pdf)
