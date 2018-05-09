@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Bayesian Robust Tensor Factorization for Incomplete Multiway Data](https://pdfs.semanticscholar.org/3561/09332b6247d6dc94d785d0487ff2e0819747.pdf)
+
   * [Quantization Mimic: Towards Very Tiny CNN for Object Detection](https://arxiv.org/pdf/1805.02152.pdf)
 
   * [Efficient Convolutional Network Learning using Parametric Log based Dual-Tree Wavelet ScatterNet](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w18/Singh_Efficient_Convolutional_Network_ICCV_2017_paper.pdf)
