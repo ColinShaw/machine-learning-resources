@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Learning to Separate Object Sounds by Watching Unlabeled Video](https://arxiv.org/pdf/1804.01665.pdf)
+
   * [Bayesian Robust Tensor Factorization for Incomplete Multiway Data](https://pdfs.semanticscholar.org/3561/09332b6247d6dc94d785d0487ff2e0819747.pdf)
 
   * [Quantization Mimic: Towards Very Tiny CNN for Object Detection](https://arxiv.org/pdf/1805.02152.pdf)
