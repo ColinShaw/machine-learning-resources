@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Graph2Seq: Graph to Sequence Learning with Attention-based Neural Networks](https://arxiv.org/pdf/1804.00823.pdf)
+
   * [A Unified Framework of Deep Neural Networks by Capsules](https://arxiv.org/pdf/1805.03551.pdf)
 
   * [Learning to Separate Object Sounds by Watching Unlabeled Video](https://arxiv.org/pdf/1804.01665.pdf)
