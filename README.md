@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Realistic Evaluation of Semi-Supervised Learning Algorithms](https://arxiv.org/pdf/1804.09170.pdf)
+
   * [Multiclass Transfer Learning from Unconstrained Priors](http://docs.wixstatic.com/ugd/29230c_5a230d4809d2460985f6c5871a2d4f05.pdf)
 
   * [Multi-column Deep Neural Networks for Image Classification](https://arxiv.org/pdf/1202.2745.pdf)
