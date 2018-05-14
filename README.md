@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Pedestrian-Synthesis-GAN: Generating Pedestrian Data in Real Scene and Beyond](https://arxiv.org/pdf/1804.02047.pdf)
+
   * [Learning Intrinsic Image Decomposition from Watching the World](https://arxiv.org/pdf/1804.00582.pdf)
 
   * [Time Series Epenthesis: Clustering Time Series Streams Requires Ignoring Some Data](http://alumni.cs.ucr.edu/~rakthant/TSEpenthesis/papers/ICDM11_TSEpenthesis.pdf)
