@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Learning Intrinsic Image Decomposition from Watching the World](https://arxiv.org/pdf/1804.00582.pdf)
+
   * [Pixel2Mesh: Generating 3D Mesh Models from Single RGB Images](https://arxiv.org/pdf/1804.01654.pdf)
 
   * [Pedestrian-Synthesis-GAN: Generating Pedestrian Data in Real Scene and Beyond](https://arxiv.org/pdf/1804.02047.pdf)
