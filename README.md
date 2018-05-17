@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Regularization Learning Networks](https://arxiv.org/pdf/1805.06440.pdf)
+
   * [On the Practical Computational Power of Finite Precision RNNs for Language Recognition](https://arxiv.org/pdf/1805.04908.pdf)
 
   * [Learning Intrinsic Image Decomposition from Watching the World](https://arxiv.org/pdf/1804.00582.pdf)
