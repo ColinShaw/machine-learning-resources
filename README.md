@@ -530,6 +530,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Advances in Semantic Textual Similarity](https://ai.googleblog.com/2018/05/advances-in-semantic-textual-similarity.html)
+
   * [Privacy and machine learning: two unexpected allies?](http://www.cleverhans.io/privacy/2018/04/29/privacy-and-machine-learning.html)
 
   * [Information Theory of Neural Networks](https://towardsdatascience.com/information-theory-of-neural-networks-ad4053f8e177)
