@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Depth-Limited Solving for Imperfect-Information Games](https://arxiv.org/pdf/1805.08195.pdf)
+
   * [AlphaX: eXploring Neural Architectures with Deep Neural Networks and Monte Carlo Tree Search](https://arxiv.org/pdf/1805.07440.pdf)
 
   * [Semantic Autoencoder for Zero-shot Learning](http://openaccess.thecvf.com/content_cvpr_2017/papers/Kodirov_Semantic_Autoencoder_for_CVPR_2017_paper.pdf)
