@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Synthesizing Images of Humans in Unseen Poses](https://arxiv.org/pdf/1804.07739.pdf)
+
   * [Depth-Limited Solving for Imperfect-Information Games](https://arxiv.org/pdf/1805.08195.pdf)
 
   * [AlphaX: eXploring Neural Architectures with Deep Neural Networks and Monte Carlo Tree Search](https://arxiv.org/pdf/1805.07440.pdf)
