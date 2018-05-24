@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Adding One Neuron Can Eliminate All Bad Local Minima](https://arxiv.org/pdf/1805.08671.pdf)
+
   * [Synthesizing Images of Humans in Unseen Poses](https://arxiv.org/pdf/1804.07739.pdf)
 
   * [Depth-Limited Solving for Imperfect-Information Games](https://arxiv.org/pdf/1805.08195.pdf)
