@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [DOOM Level Generation using Generative Adversarial Networks](https://arxiv.org/pdf/1804.09154.pdf)
+
   * [Pixel Recurrent Neural Networks](https://arxiv.org/pdf/1601.06759.pdf)
 
   * [Solving the Rubik’s Cube Without Human Knowledge](https://arxiv.org/pdf/1805.07470.pdf)
