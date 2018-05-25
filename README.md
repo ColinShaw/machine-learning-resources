@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Pixel Recurrent Neural Networks](https://arxiv.org/pdf/1601.06759.pdf)
+
   * [Solving the Rubik’s Cube Without Human Knowledge](https://arxiv.org/pdf/1805.07470.pdf)
 
   * [Adding One Neuron Can Eliminate All Bad Local Minima](https://arxiv.org/pdf/1805.08671.pdf)
