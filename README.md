@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Altered Fingerprints: Detection and Localization](https://arxiv.org/pdf/1805.00911.pdf)
+
   * [Fast animal pose estimation using deep neural networks](https://www.biorxiv.org/content/early/2018/05/25/331181.full.pdf)
 
   * [DOOM Level Generation using Generative Adversarial Networks](https://arxiv.org/pdf/1804.09154.pdf)
