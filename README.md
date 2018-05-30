@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Learning to Transduce with Unbounded Memory](https://arxiv.org/pdf/1506.02516.pdf)
+
   * [Visceral Machines: Reinforcement Learning with Intrinsic Rewards that Mimic the Human Nervous System](https://arxiv.org/pdf/1805.09975.pdf)
 
   * [Neural Collaborative Filtering](https://arxiv.org/pdf/1708.05031.pdf)
