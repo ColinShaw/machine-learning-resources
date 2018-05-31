@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Playing hard exploration games by watching YouTube](https://arxiv.org/pdf/1805.11592.pdf)
+
   * [Capsules for Object Segmentation](https://arxiv.org/pdf/1804.04241.pdf)
 
   * [Learning to Transduce with Unbounded Memory](https://arxiv.org/pdf/1506.02516.pdf)
