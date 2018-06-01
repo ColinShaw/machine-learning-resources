@@ -562,6 +562,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Using Word2Vec for Better Embeddings of Categorical Features](https://towardsdatascience.com/using-word2vec-for-better-embeddings-of-categorical-features-de75020e1233)
+
   * [Advances in Semantic Textual Similarity](https://ai.googleblog.com/2018/05/advances-in-semantic-textual-similarity.html)
 
   * [Privacy and machine learning: two unexpected allies?](http://www.cleverhans.io/privacy/2018/04/29/privacy-and-machine-learning.html)
