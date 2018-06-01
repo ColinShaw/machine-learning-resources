@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Approximate Random Dropout](https://arxiv.org/pdf/1805.08939.pdf)
+
   * [Variational Inference for Data-Efficient Model Learning in POMDPs](https://arxiv.org/pdf/1805.09281.pdf)
 
   * [Learning a Prior over Intent via Meta-Inverse Reinforcement Learning](https://arxiv.org/pdf/1805.12573.pdf)
