@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [MolGAN: An implicit generative model for small molecular graphs](https://arxiv.org/pdf/1805.11973.pdf)
+
   * [Approximate Random Dropout](https://arxiv.org/pdf/1805.08939.pdf)
 
   * [Variational Inference for Data-Efficient Model Learning in POMDPs](https://arxiv.org/pdf/1805.09281.pdf)
