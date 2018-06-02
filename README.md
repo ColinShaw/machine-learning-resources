@@ -836,3 +836,5 @@ good articles and some other resources.
   
   * [Andrew Ng's deeplearning.ai](https://www.deeplearning.ai)
   
+  * [Data School](http://www.dataschool.io/start/)
+  
