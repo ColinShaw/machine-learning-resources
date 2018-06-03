@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Learning to Extract Coherent Summary via Deep Reinforcement Learning](https://arxiv.org/pdf/1804.07036.pdf)
+
   * [MolGAN: An implicit generative model for small molecular graphs](https://arxiv.org/pdf/1805.11973.pdf)
 
   * [Approximate Random Dropout](https://arxiv.org/pdf/1805.08939.pdf)
