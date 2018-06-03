@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Structure from noise: Mental errors yield abstract represen- tations of events](https://arxiv.org/pdf/1805.12491.pdf)
+
   * [Learning to Extract Coherent Summary via Deep Reinforcement Learning](https://arxiv.org/pdf/1804.07036.pdf)
 
   * [MolGAN: An implicit generative model for small molecular graphs](https://arxiv.org/pdf/1805.11973.pdf)
