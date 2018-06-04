@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Supervised Open Information Extraction](http://www.aclweb.org/anthology/N18-1081)
+
   * [Learning a Latent Space of Multitrack Measures](https://arxiv.org/pdf/1806.00195.pdf)
 
   * [Structure from noise: Mental errors yield abstract represen- tations of events](https://arxiv.org/pdf/1805.12491.pdf)
