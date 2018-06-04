@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Do CIFAR-10 Classifiers Generalize to CIFAR-10?](https://arxiv.org/pdf/1806.00451.pdf)
+
   * [Supervised Open Information Extraction](http://www.aclweb.org/anthology/N18-1081)
 
   * [Learning a Latent Space of Multitrack Measures](https://arxiv.org/pdf/1806.00195.pdf)
