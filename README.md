@@ -580,6 +580,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Loc2Vec: Learning location embeddings with triplet-loss networks](http://www.sentiance.com/2018/05/03/loc2vec-learning-location-embeddings-w-triplet-loss-networks/)
+
   * [Using Word2Vec for Better Embeddings of Categorical Features](https://towardsdatascience.com/using-word2vec-for-better-embeddings-of-categorical-features-de75020e1233)
 
   * [Advances in Semantic Textual Similarity](https://ai.googleblog.com/2018/05/advances-in-semantic-textual-similarity.html)
