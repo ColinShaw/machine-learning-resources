@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Learning a Latent Space of Multitrack Measures](https://arxiv.org/pdf/1806.00195.pdf)
+
   * [Structure from noise: Mental errors yield abstract represen- tations of events](https://arxiv.org/pdf/1805.12491.pdf)
 
   * [Learning to Extract Coherent Summary via Deep Reinforcement Learning](https://arxiv.org/pdf/1804.07036.pdf)
