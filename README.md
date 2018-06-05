@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Multi-Resolution 3D Convolutional Neural Networks for Object Recognition](https://arxiv.org/pdf/1805.12254.pdf)
+
   * [Do CIFAR-10 Classifiers Generalize to CIFAR-10?](https://arxiv.org/pdf/1806.00451.pdf)
 
   * [Supervised Open Information Extraction](http://www.aclweb.org/anthology/N18-1081)
