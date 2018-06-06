@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [DetNet: A Backbone network for Object Detection](https://arxiv.org/pdf/1804.06215.pdf)
+
   * [Playing Atari with Six Neurons](https://arxiv.org/pdf/1806.01363.pdf)
 
   * [Multi-Resolution 3D Convolutional Neural Networks for Object Recognition](https://arxiv.org/pdf/1805.12254.pdf)
