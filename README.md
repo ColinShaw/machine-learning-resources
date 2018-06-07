@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/pdf/1806.01261.pdf)
+
   * [DetNet: A Backbone network for Object Detection](https://arxiv.org/pdf/1804.06215.pdf)
 
   * [Playing Atari with Six Neurons](https://arxiv.org/pdf/1806.01363.pdf)
