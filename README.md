@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Granger-causal Attentive Mixtures of Experts: Learning Important Features with Neural Networks](https://arxiv.org/pdf/1802.02195.pdf)
+
   * [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/pdf/1806.01261.pdf)
 
   * [DetNet: A Backbone network for Object Detection](https://arxiv.org/pdf/1804.06215.pdf)
