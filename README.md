@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Learning New Physics from a Machine](https://arxiv.org/pdf/1806.02350.pdf)
+
   * [Spectral Inference Networks: Unifying Spectral Methods With Deep Learning](https://arxiv.org/pdf/1806.02215.pdf)
 
   * [Probabilistic Model-Agnostic Meta-Learning](https://arxiv.org/pdf/1806.02817.pdf)
