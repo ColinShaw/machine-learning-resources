@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Semi-supervised Sequence Learning](https://arxiv.org/pdf/1511.01432.pdf)
+
   * [Deep learning models reveal internal structure and diverse computations in the retina under natural scenes](https://www.biorxiv.org/content/biorxiv/early/2018/06/08/340943.full.pdf)
 
   * [Learning New Physics from a Machine](https://arxiv.org/pdf/1806.02350.pdf)
