@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [GAN Q-learning](https://arxiv.org/pdf/1805.04874.pdf)
+
   * [A Simple Method for Commonsense Reasoning](https://arxiv.org/pdf/1806.02847.pdf)
 
   * [Semi-supervised Sequence Learning](https://arxiv.org/pdf/1511.01432.pdf)
