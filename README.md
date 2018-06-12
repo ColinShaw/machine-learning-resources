@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [A Simple Method for Commonsense Reasoning](https://arxiv.org/pdf/1806.02847.pdf)
+
   * [Semi-supervised Sequence Learning](https://arxiv.org/pdf/1511.01432.pdf)
 
   * [Deep learning models reveal internal structure and diverse computations in the retina under natural scenes](https://www.biorxiv.org/content/biorxiv/early/2018/06/08/340943.full.pdf)
