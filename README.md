@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Adversarial Meta-Learning](https://arxiv.org/pdf/1806.03316.pdf)
+
   * [Fighting Fake News: Image Splice Detection via Learned Self-Consistency](https://arxiv.org/pdf/1805.04096.pdf)
 
   * [GAN Q-learning](https://arxiv.org/pdf/1805.04874.pdf)
