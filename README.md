@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Fighting Fake News: Image Splice Detection via Learned Self-Consistency](https://arxiv.org/pdf/1805.04096.pdf)
+
   * [GAN Q-learning](https://arxiv.org/pdf/1805.04874.pdf)
 
   * [A Simple Method for Commonsense Reasoning](https://arxiv.org/pdf/1806.02847.pdf)
