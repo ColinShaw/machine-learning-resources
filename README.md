@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [A Probabilistic U-Net for Segmentation of Ambiguous Images](https://arxiv.org/pdf/1806.05034.pdf)
+
   * [DeViSE: A Deep Visual-Semantic Embedding Model](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41869.pdf)
 
   * [Through-Wall Human Pose Estimation Using Radio Signals](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhao_Through-Wall_Human_Pose_CVPR_2018_paper.pdf)
