@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Multimodal Unsupervised Image-to-Image Translation](https://arxiv.org/pdf/1804.04732.pdf)
+
   * [Deep Painterly Harmonization](https://arxiv.org/pdf/1804.03189.pdf)
 
   * [A Probabilistic U-Net for Segmentation of Ambiguous Images](https://arxiv.org/pdf/1806.05034.pdf)
