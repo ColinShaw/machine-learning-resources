@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Deep Painterly Harmonization](https://arxiv.org/pdf/1804.03189.pdf)
+
   * [A Probabilistic U-Net for Segmentation of Ambiguous Images](https://arxiv.org/pdf/1806.05034.pdf)
 
   * [DeViSE: A Deep Visual-Semantic Embedding Model](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41869.pdf)
