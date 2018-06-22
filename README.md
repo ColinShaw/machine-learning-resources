@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [SparseMAP: Differentiable Sparse Structured Inference](https://arxiv.org/pdf/1802.04223.pdf)
+
   * [Neural Ordinary Differential Equations](https://arxiv.org/pdf/1806.07366.pdf)
 
   * [Zero-Shot Visual Imitation](https://pathak22.github.io/zeroshot-imitation/resources/iclr18.pdf)
