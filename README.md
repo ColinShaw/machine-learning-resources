@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Neural Ordinary Differential Equations](https://arxiv.org/pdf/1806.07366.pdf)
+
   * [Zero-Shot Visual Imitation](https://pathak22.github.io/zeroshot-imitation/resources/iclr18.pdf)
 
   * [Multimodal Unsupervised Image-to-Image Translation](https://arxiv.org/pdf/1804.04732.pdf)
