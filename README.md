@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Probabilistic FastText for Multi-Sense Word Embeddings](https://arxiv.org/pdf/1806.02901.pdf)
+
   * [Differentiable Compositional Kernel Learning for Gaussian Processes](https://arxiv.org/pdf/1806.04326.pdf)
 
   * [Learning Dynamics of Linear Denoising Autoencoders](https://arxiv.org/pdf/1806.05413.pdf)
