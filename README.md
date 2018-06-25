@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Learning Dynamics of Linear Denoising Autoencoders](https://arxiv.org/pdf/1806.05413.pdf)
+
   * [Dynamical Isometry and a Mean Field Theory of CNNs: How to Train 10,000-Layer Vanilla Convolutional Neural Networks](https://arxiv.org/pdf/1806.05393.pdf)
 
   * [Bilinear Attention Networks](https://arxiv.org/pdf/1805.07932.pdf)
