@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Bilinear Attention Networks](https://arxiv.org/pdf/1805.07932.pdf)
+
   * [Global Pose Estimation with an Attention-based Recurrent Network](https://arxiv.org/pdf/1802.06857.pdf)
 
   * [SparseMAP: Differentiable Sparse Structured Inference](https://arxiv.org/pdf/1802.04223.pdf)
