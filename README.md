@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Dynamical Isometry and a Mean Field Theory of CNNs: How to Train 10,000-Layer Vanilla Convolutional Neural Networks](https://arxiv.org/pdf/1806.05393.pdf)
+
   * [Bilinear Attention Networks](https://arxiv.org/pdf/1805.07932.pdf)
 
   * [Global Pose Estimation with an Attention-based Recurrent Network](https://arxiv.org/pdf/1802.06857.pdf)
