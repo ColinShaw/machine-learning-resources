@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Every Pixel Counts: Unsupervised Geometry Learning with Holistic 3D Motion Understanding](https://arxiv.org/pdf/1806.10556.pdf)
+
   * [Tracking Emerges by Colorizing Videos](https://arxiv.org/pdf/1806.09594.pdf)
 
   * [Probabilistic FastText for Multi-Sense Word Embeddings](https://arxiv.org/pdf/1806.02901.pdf)
