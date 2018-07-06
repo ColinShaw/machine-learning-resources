@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [The relativistic discriminator: a key element missing from standard GAN](https://arxiv.org/pdf/1807.00734.pdf)
+
   * [Accurate Uncertainties for Deep Learning Using Calibrated Regression](https://arxiv.org/pdf/1807.00263.pdf)
 
   * [ModaNet: A Large-Scale Street Fashion Dataset with Polygon Annotations](https://arxiv.org/pdf/1807.01394.pdf)
