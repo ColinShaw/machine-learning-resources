@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Dynamic Integration of Background Knowledge in Neural NLU Systems](https://arxiv.org/pdf/1706.02596.pdf)
+
   * [The relativistic discriminator: a key element missing from standard GAN](https://arxiv.org/pdf/1807.00734.pdf)
 
   * [Accurate Uncertainties for Deep Learning Using Calibrated Regression](https://arxiv.org/pdf/1807.00263.pdf)
