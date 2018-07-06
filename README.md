@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [ModaNet: A Large-Scale Street Fashion Dataset with Polygon Annotations](https://arxiv.org/pdf/1807.01394.pdf)
+
   * [The challenge of realistic music generation: modelling raw audio at scale](https://arxiv.org/pdf/1806.10474.pdf)
 
   * [Every Pixel Counts: Unsupervised Geometry Learning with Holistic 3D Motion Understanding](https://arxiv.org/pdf/1806.10556.pdf)
