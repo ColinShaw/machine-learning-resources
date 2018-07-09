@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Variance Networks: When Expectation Does Not Meet Your Expectations](https://arxiv.org/pdf/1803.03764.pdf)
+
   * [Task-Driven Convolutional Recurrent Models of the Visual System](https://arxiv.org/pdf/1807.00053.pdf)
 
   * [Beyond Winning and Losing: Modeling Human Motivations and Behaviors Using Inverse Reinforcement Learning](https://arxiv.org/pdf/1807.00366.pdf)
