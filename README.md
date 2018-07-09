@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Beyond Winning and Losing: Modeling Human Motivations and Behaviors Using Inverse Reinforcement Learning](https://arxiv.org/pdf/1807.00366.pdf)
+
   * [Deep Neural Networks as Gaussian Processes](https://arxiv.org/pdf/1806.10342.pdf)
 
   * [Co-Training of Audio and Video Representations from Self-Supervised Temporal Synchronization](https://arxiv.org/pdf/1807.00230.pdf)
