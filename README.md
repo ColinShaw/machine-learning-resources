@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [TherML: Thermodynamics of Machine Learning](https://arxiv.org/pdf/1807.04162.pdf)
+
   * [Variance Networks: When Expectation Does Not Meet Your Expectations](https://arxiv.org/pdf/1803.03764.pdf)
 
   * [Task-Driven Convolutional Recurrent Models of the Visual System](https://arxiv.org/pdf/1807.00053.pdf)
