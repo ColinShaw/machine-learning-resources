@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [The Singular Values of Convolutional Layers](https://arxiv.org/pdf/1805.10408.pdf)
+
   * [TherML: Thermodynamics of Machine Learning](https://arxiv.org/pdf/1807.04162.pdf)
 
   * [Variance Networks: When Expectation Does Not Meet Your Expectations](https://arxiv.org/pdf/1803.03764.pdf)
