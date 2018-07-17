@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Meta-Learning With Latent Embedding Optimization](https://arxiv.org/pdf/1807.05960.pdf)
+
   * [TequilaGAN: How to easily identify GAN samples](https://arxiv.org/pdf/1807.04919.pdf)
 
   * [The Singular Values of Convolutional Layers](https://arxiv.org/pdf/1805.10408.pdf)
