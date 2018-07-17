@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [TequilaGAN: How to easily identify GAN samples](https://arxiv.org/pdf/1807.04919.pdf)
+
   * [The Singular Values of Convolutional Layers](https://arxiv.org/pdf/1805.10408.pdf)
 
   * [TherML: Thermodynamics of Machine Learning](https://arxiv.org/pdf/1807.04162.pdf)
