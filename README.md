@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/pdf/1807.03748.pdf)
+
   * [An Opinionated Introduction to AutoML and Neural Architecture Search](http://www.fast.ai/2018/07/16/auto-ml2/)
 
   * [ActiveStereoNet: End-to-End Self-Supervised Learning for Active Stereo Systems](https://arxiv.org/pdf/1807.06009.pdf)
