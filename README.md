@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [An Opinionated Introduction to AutoML and Neural Architecture Search](http://www.fast.ai/2018/07/16/auto-ml2/)
+
   * [ActiveStereoNet: End-to-End Self-Supervised Learning for Active Stereo Systems](https://arxiv.org/pdf/1807.06009.pdf)
 
   * [IntroVAE: Introspective Variational Autoencoders for Photographic Image Synthesis](https://arxiv.org/pdf/1807.06358.pdf)
