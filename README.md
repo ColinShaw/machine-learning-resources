@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Multitask Reinforcement Learning for Zero-shot Generalization with Subtask Dependencies](https://arxiv.org/pdf/1807.07665.pdf)
+
   * [Glow: Generative Flow with Invertible 1×1 Convolutions](https://d4mucfpksywv.cloudfront.net/research-covers/glow/paper/glow.pdf)
 
   * [Noise2Noise: Learning Image Restoration without Clean Data](https://arxiv.org/pdf/1803.04189.pdf)
