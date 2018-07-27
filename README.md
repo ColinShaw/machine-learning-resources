@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Compositional GAN: Learning Conditional Image Composition](https://arxiv.org/pdf/1807.07560.pdf)
+
   * [Adversarial Reprogramming of Neural Networks](https://arxiv.org/pdf/1806.11146.pdf)
 
   * [CNN Features off-the-shelf: an Astounding Baseline for Recognition](https://arxiv.org/pdf/1403.6382.pdf)
