@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [DARTS: Differentiable Architecture Search](https://arxiv.org/pdf/1806.09055.pdf)
+
   * [Variational Bayesian Reinforcement Learning with Regret Bounds](https://arxiv.org/pdf/1807.09647.pdf)
 
   * [Backprop-Q: Generalized Backpropagation for Stochastic Computation Graphs](https://arxiv.org/pdf/1807.09511.pdf)
