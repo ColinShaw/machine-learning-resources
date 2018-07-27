@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Variational Memory Encoder-Decoder](https://arxiv.org/pdf/1807.09950.pdf)
+
   * [The Variational Homoencoder: Learning to learn high capacity generative models from few examples](https://arxiv.org/pdf/1807.08919.pdf)
 
   * [Implementing Neural Turing Machines](https://arxiv.org/pdf/1807.08518.pdf)
