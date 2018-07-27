@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Efficient Probabilistic Inference in the Quest for Physics Beyond the Standard Model](https://arxiv.org/pdf/1807.07706.pdf)
+
   * [Compositional GAN: Learning Conditional Image Composition](https://arxiv.org/pdf/1807.07560.pdf)
 
   * [Adversarial Reprogramming of Neural Networks](https://arxiv.org/pdf/1806.11146.pdf)
