@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Backprop-Q: Generalized Backpropagation for Stochastic Computation Graphs](https://arxiv.org/pdf/1807.09511.pdf)
+
   * [Efficient Probabilistic Inference in the Quest for Physics Beyond the Standard Model](https://arxiv.org/pdf/1807.07706.pdf)
 
   * [Compositional GAN: Learning Conditional Image Composition](https://arxiv.org/pdf/1807.07560.pdf)
