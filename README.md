@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [CNN Features off-the-shelf: an Astounding Baseline for Recognition](https://arxiv.org/pdf/1403.6382.pdf)
+
   * [Neural Motifs: Scene Graph Parsing with Global Context](https://arxiv.org/pdf/1711.06640v2.pdf)
 
   * [Multitask Reinforcement Learning for Zero-shot Generalization with Subtask Dependencies](https://arxiv.org/pdf/1807.07665.pdf)
