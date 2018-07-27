@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Adversarial Reprogramming of Neural Networks](https://arxiv.org/pdf/1806.11146.pdf)
+
   * [CNN Features off-the-shelf: an Astounding Baseline for Recognition](https://arxiv.org/pdf/1403.6382.pdf)
 
   * [Neural Motifs: Scene Graph Parsing with Global Context](https://arxiv.org/pdf/1711.06640v2.pdf)
