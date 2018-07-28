@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/pdf/1807.03748.pdf)
+
   * [Variational Memory Encoder-Decoder](https://arxiv.org/pdf/1807.09950.pdf)
 
   * [The Variational Homoencoder: Learning to learn high capacity generative models from few examples](https://arxiv.org/pdf/1807.08919.pdf)
