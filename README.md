@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Discovering physical concepts with neural networks](https://arxiv.org/pdf/1807.10300.pdf)
+
   * [Painting Outside the Box: Image Outpainting with GANs](https://cs230.stanford.edu/projects_spring_2018/posters/8265861.pdf)
 
   * [Understanding and Improving Interpolation in Autoencoders via an Adversarial Regularizer](https://arxiv.org/pdf/1807.07543.pdf)
