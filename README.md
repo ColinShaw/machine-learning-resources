@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Meta-learning autoencoders for few-shot prediction](https://arxiv.org/pdf/1807.09912.pdf)
+
   * [Highly Scalable Deep Learning Training System with Mixed-Precision: Training ImageNet in Four Minutes](https://arxiv.org/pdf/1807.11205.pdf)
 
   * [Discovering physical concepts with neural networks](https://arxiv.org/pdf/1807.10300.pdf)
