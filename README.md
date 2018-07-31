@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Highly Scalable Deep Learning Training System with Mixed-Precision: Training ImageNet in Four Minutes](https://arxiv.org/pdf/1807.11205.pdf)
+
   * [Discovering physical concepts with neural networks](https://arxiv.org/pdf/1807.10300.pdf)
 
   * [Painting Outside the Box: Image Outpainting with GANs](https://cs230.stanford.edu/projects_spring_2018/posters/8265861.pdf)
