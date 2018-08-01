@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [TensorFuzz: Debugging Neural Networks with Coverage-Guided Fuzzing](https://arxiv.org/pdf/1807.10875.pdf)
+
   * [The challenge of realistic music generation: modelling raw audio at scale](https://arxiv.org/pdf/1806.10474.pdf)
 
   * [Meta-learning autoencoders for few-shot prediction](https://arxiv.org/pdf/1807.09912.pdf)
