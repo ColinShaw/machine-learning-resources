@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Rank and Rate: Multi-task Learning for Recommender Systems](https://arxiv.org/pdf/1807.11698v1.pdf)
+
   * [DeepProbLog: Neural Probabilistic Logic Programming](https://arxiv.org/pdf/1805.10872.pdf)
 
   * [YOLO Net on iOS](http://cs231n.stanford.edu/reports/2017/pdfs/135.pdf)
