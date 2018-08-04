@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Speaker Recognition from Raw Waveform with Sincnet](https://arxiv.org/pdf/1808.00158.pdf)
+
   * [Blind Justice: Fairness with Encrypted Sensitive Attributes](https://arxiv.org/pdf/1806.03281.pdf)
 
   * [Neural Joking Machine: Humorous image captioning](https://arxiv.org/pdf/1805.11850.pdf)
