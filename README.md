@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Neural Joking Machine: Humorous image captioning](https://arxiv.org/pdf/1805.11850.pdf)
+
   * [Neural Arithmetic Logic Units](https://arxiv.org/pdf/1808.00508.pdf)
 
   * [Rank and Rate: Multi-task Learning for Recommender Systems](https://arxiv.org/pdf/1807.11698v1.pdf)
