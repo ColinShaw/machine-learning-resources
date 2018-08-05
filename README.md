@@ -868,6 +868,8 @@ good articles and some other resources.
 
 ## Interesting Online Projects and Tools
 
+  * [GuiTeNet](https://guitenet.github.io)
+
   * [The Mathematics of 2048: Optimal Play with Markov Decision Processes](http://jdlm.info/articles/2018/03/18/markov-decision-process-2048.html)
 
   * [Embed, encode, attend, predict: The new deep learning formula for state-of-the-art NLP models](https://explosion.ai/blog/deep-learning-formula-nlp)
