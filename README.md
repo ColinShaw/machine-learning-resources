@@ -52,6 +52,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [GuiTeNet: A graphical user interface for tensor networks](https://arxiv.org/pdf/1808.00532.pdf)
+
   * [Speaker Recognition from Raw Waveform with Sincnet](https://arxiv.org/pdf/1808.00158.pdf)
 
   * [Blind Justice: Fairness with Encrypted Sensitive Attributes](https://arxiv.org/pdf/1806.03281.pdf)
