@@ -874,6 +874,8 @@ good articles and some other resources.
 
 ## Interesting Online Projects and Tools
 
+  * [Neural BeatBox](https://codepen.io/naotokui/pen/NBzJMW)
+
   * [GuiTeNet](https://guitenet.github.io)
 
   * [The Mathematics of 2048: Optimal Play with Markov Decision Processes](http://jdlm.info/articles/2018/03/18/markov-decision-process-2048.html)
