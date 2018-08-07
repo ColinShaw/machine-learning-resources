@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Predicting Acute Kidney Injury at Hospital Re-entry Using High-dimensional Electronic Health Record Data](https://arxiv.org/pdf/1807.09865.pdf)
+
   * [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
 
   * [Online Adaptative Curriculum Learning for GANs](https://arxiv.org/pdf/1808.00020.pdf)
