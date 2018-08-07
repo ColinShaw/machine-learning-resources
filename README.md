@@ -49,6 +49,11 @@ good articles and some other resources.
     _François Chollet_   
  
 
+## Background Literature
+
+  * [Variational Inference: A Review for Statisticians](https://arxiv.org/pdf/1601.00670.pdf)
+
+
 
 ## Interesting and Relevant Articles
 
