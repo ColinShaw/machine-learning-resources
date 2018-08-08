@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [HELIX: Accelerating Human-in-the-loop Machine Learning](https://arxiv.org/pdf/1808.01095.pdf)
+
   * [Distributional Multivariate Policy Evaluation and Exploration with the Bellman GAN](https://arxiv.org/pdf/1808.01960.pdf)
 
   * [Predicting Acute Kidney Injury at Hospital Re-entry Using High-dimensional Electronic Health Record Data](https://arxiv.org/pdf/1807.09865.pdf)
