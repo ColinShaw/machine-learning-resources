@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Backprop Evolution](https://arxiv.org/pdf/1808.02822.pdf)
+
   * [HELIX: Accelerating Human-in-the-loop Machine Learning](https://arxiv.org/pdf/1808.01095.pdf)
 
   * [Distributional Multivariate Policy Evaluation and Exploration with the Bellman GAN](https://arxiv.org/pdf/1808.01960.pdf)
