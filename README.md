@@ -1037,3 +1037,8 @@ good articles and some other resources.
   
   * [Data School](http://www.dataschool.io/start/)
   
+
+
+## Process
+
+  * [Rules of Machine Learning: Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml/)
