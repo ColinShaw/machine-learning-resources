@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Rethinking Numerical Representations for Deep Neural Networks](https://arxiv.org/pdf/1808.02513.pdf)
+
   * [Backprop Evolution](https://arxiv.org/pdf/1808.02822.pdf)
 
   * [HELIX: Accelerating Human-in-the-loop Machine Learning](https://arxiv.org/pdf/1808.01095.pdf)
