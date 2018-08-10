@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Policy Optimization as Wasserstein Gradient Flows](https://arxiv.org/pdf/1808.03030.pdf)
+
   * [DeepTAM: Deep Tracking and Mapping](https://arxiv.org/pdf/1808.01900.pdf)
 
   * [A Survey on Deep Transfer Learning](https://arxiv.org/pdf/1808.01974v1.pdf)
