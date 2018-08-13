@@ -765,6 +765,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml/)
+
   * [On Chomsky and the Two Cultures of Statistical Learning](http://norvig.com/chomsky.html)
 
   * [Automated Machine Learning Hyperparameter Tuning in Python](https://towardsdatascience.com/automated-machine-learning-hyperparameter-tuning-in-python-dfda59b72f8a)
