@@ -765,6 +765,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Neural Processes as distributions over functions](http://kasparmartens.rbind.io/post/np/)
+
   * [Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml/)
 
   * [On Chomsky and the Two Cultures of Statistical Learning](http://norvig.com/chomsky.html)
