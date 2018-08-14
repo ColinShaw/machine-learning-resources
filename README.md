@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Holistic 3D Scene Parsing and Reconstruction from a Single RGB Image](https://arxiv.org/pdf/1808.02201.pdf)
+  
   * [Policy Optimization as Wasserstein Gradient Flows](https://arxiv.org/pdf/1808.03030.pdf)
 
   * [DeepTAM: Deep Tracking and Mapping](https://arxiv.org/pdf/1808.01900.pdf)
