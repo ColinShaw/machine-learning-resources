@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Toward Scale-Invariance and Position-Sensitive Region Proposal Networks](https://arxiv.org/pdf/1807.09528.pdf)
+
   * [How Complex is your classification problem? A survey on measuring classification complexity](https://arxiv.org/pdf/1808.03591.pdf)
 
   * [Holistic 3D Scene Parsing and Reconstruction from a Single RGB Image](https://arxiv.org/pdf/1808.02201.pdf)
