@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [How Complex is your classification problem? A survey on measuring classification complexity](https://arxiv.org/pdf/1808.03591.pdf)
+
   * [Holistic 3D Scene Parsing and Reconstruction from a Single RGB Image](https://arxiv.org/pdf/1808.02201.pdf)
   
   * [Policy Optimization as Wasserstein Gradient Flows](https://arxiv.org/pdf/1808.03030.pdf)
