@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [CosmoFlow: Using Deep Learning to Learn the Universe at Scale](https://arxiv.org/pdf/1808.04728.pdf)
+
   * [Toward Scale-Invariance and Position-Sensitive Region Proposal Networks](https://arxiv.org/pdf/1807.09528.pdf)
 
   * [How Complex is your classification problem? A survey on measuring classification complexity](https://arxiv.org/pdf/1808.03591.pdf)
