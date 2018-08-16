@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Item Recommendation with Variational Autoencoders and Heterogeneous Priors](https://arxiv.org/pdf/1807.06651.pdf)
+
   * [CosmoFlow: Using Deep Learning to Learn the Universe at Scale](https://arxiv.org/pdf/1808.04728.pdf)
 
   * [Toward Scale-Invariance and Position-Sensitive Region Proposal Networks](https://arxiv.org/pdf/1807.09528.pdf)
