@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Recurrent computations for visual pattern completion](http://www.pnas.org/content/early/2018/08/07/1719397115)
+
   * [Item Recommendation with Variational Autoencoders and Heterogeneous Priors](https://arxiv.org/pdf/1807.06651.pdf)
 
   * [CosmoFlow: Using Deep Learning to Learn the Universe at Scale](https://arxiv.org/pdf/1808.04728.pdf)
