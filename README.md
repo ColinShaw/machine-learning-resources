@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Classification and Geometry of General Perceptual Manifolds](https://arxiv.org/pdf/1710.06487.pdf)
+
   * [Skill Rating for Generative Models](https://arxiv.org/pdf/1808.04888.pdf)
 
   * [Recurrent computations for visual pattern completion](http://www.pnas.org/content/early/2018/08/07/1719397115)
