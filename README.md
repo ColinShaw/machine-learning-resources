@@ -777,6 +777,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch)](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f)
+
   * [Neural Processes as distributions over functions](http://kasparmartens.rbind.io/post/np/)
 
   * [Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml/)
