@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Deep EHR: Chronic Disease Prediction Using Medical Notes](https://arxiv.org/pdf/1808.04928.pdf)
+
   * [Classification and Geometry of General Perceptual Manifolds](https://arxiv.org/pdf/1710.06487.pdf)
 
   * [Skill Rating for Generative Models](https://arxiv.org/pdf/1808.04888.pdf)
