@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Time Perception Machine: Temporal Point Processes for the When, Where and What of Activity Prediction](https://arxiv.org/pdf/1808.04063.pdf)
+
   * [Anatomy Of High-Performance Deep Learning Convolutions On SIMD Architectures](https://arxiv.org/pdf/1808.05567.pdf)
 
   * [Deep EHR: Chronic Disease Prediction Using Medical Notes](https://arxiv.org/pdf/1808.04928.pdf)
