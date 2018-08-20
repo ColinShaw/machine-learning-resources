@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [3D Shape Perception from Monocular Vision, Touch, and Shape Priors](https://arxiv.org/pdf/1808.03247.pdf)
+
   * [On the Decision Boundary of Deep Neural Networks](https://arxiv.org/pdf/1808.05385.pdf)
 
   * [Time Perception Machine: Temporal Point Processes for the When, Where and What of Activity Prediction](https://arxiv.org/pdf/1808.04063.pdf)
