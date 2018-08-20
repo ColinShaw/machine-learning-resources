@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Joint Training of Low-Precision Neural Network with Quantization Interval Parameters](https://arxiv.org/pdf/1808.05779.pdf)
+
   * [An Auto-tuning Framework for Autonomous Vehicles](https://arxiv.org/pdf/1808.04913.pdf)
 
   * [3D Shape Perception from Monocular Vision, Touch, and Shape Priors](https://arxiv.org/pdf/1808.03247.pdf)
