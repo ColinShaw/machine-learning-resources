@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [An Auto-tuning Framework for Autonomous Vehicles](https://arxiv.org/pdf/1808.04913.pdf)
+
   * [3D Shape Perception from Monocular Vision, Touch, and Shape Priors](https://arxiv.org/pdf/1808.03247.pdf)
 
   * [On the Decision Boundary of Deep Neural Networks](https://arxiv.org/pdf/1808.05385.pdf)
