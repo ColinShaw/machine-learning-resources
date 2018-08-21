@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Analyzing Inverse Problems with Invertible Neural Networks](https://arxiv.org/pdf/1808.04730.pdf)
+
   * [Joint Training of Low-Precision Neural Network with Quantization Interval Parameters](https://arxiv.org/pdf/1808.05779.pdf)
 
   * [An Auto-tuning Framework for Autonomous Vehicles](https://arxiv.org/pdf/1808.04913.pdf)
