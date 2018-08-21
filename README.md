@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Toward Domain-Invariant Speech Recognition Via Large Scale Training](https://arxiv.org/pdf/1808.05312.pdf)
+
   * [Analyzing Inverse Problems with Invertible Neural Networks](https://arxiv.org/pdf/1808.04730.pdf)
 
   * [Joint Training of Low-Precision Neural Network with Quantization Interval Parameters](https://arxiv.org/pdf/1808.05779.pdf)
