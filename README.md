@@ -56,6 +56,8 @@ good articles and some other resources.
 
 
 ## Interesting and Relevant Articles
+ 
+  * [Neural Body Fitting: Unifying Deep Learning and Model-Based Human Pose and Shape Estimation](https://arxiv.org/pdf/1808.05942.pdf)
 
   * [Deep Binaries: Encoding Semantic-Rich Cues for Efficient Textual-Visual Cross Retrieval](https://arxiv.org/pdf/1708.02531.pdf)
 
