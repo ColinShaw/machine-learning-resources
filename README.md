@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Deep Binaries: Encoding Semantic-Rich Cues for Efficient Textual-Visual Cross Retrieval](https://arxiv.org/pdf/1708.02531.pdf)
+
   * [Toward Domain-Invariant Speech Recognition Via Large Scale Training](https://arxiv.org/pdf/1808.05312.pdf)
 
   * [Analyzing Inverse Problems with Invertible Neural Networks](https://arxiv.org/pdf/1808.04730.pdf)
