@@ -56,6 +56,8 @@ good articles and some other resources.
 
 
 ## Interesting and Relevant Articles
+
+  * [SeVeN: Augmenting Word Embeddings with Unsupervised Relation Vectors](https://arxiv.org/pdf/1808.06068.pdf)
  
   * [Neural Body Fitting: Unifying Deep Learning and Model-Based Human Pose and Shape Estimation](https://arxiv.org/pdf/1808.05942.pdf)
 
