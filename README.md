@@ -807,6 +807,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml/)
+
   * [Deep Learning for Recommender Systems](https://ebaytech.berlin/deep-learning-for-recommender-systems-48c786a20e1a)
 
   * [A (Long) Peek into Reinforcement Learning](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html)
