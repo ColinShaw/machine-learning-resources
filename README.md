@@ -951,6 +951,8 @@ good articles and some other resources.
 
 ## Interesting Online Projects and Tools
 
+  * [pytorch-Deep-Learning-Minicourse](https://github.com/Atcold/pytorch-Deep-Learning-Minicourse)
+
   * [Neural BeatBox](https://codepen.io/naotokui/pen/NBzJMW)
 
   * [GuiTeNet](https://guitenet.github.io)
