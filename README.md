@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [The relativistic discriminator: a key element missing from standard GAN](https://arxiv.org/pdf/1807.00734.pdf)
+
   * [Transfer Learning for Estimating Causal Effects using Neural Networks](https://arxiv.org/pdf/1808.07804.pdf)
 
   * [Deep Convolutional Networks as shallow Gaussian Processes](https://arxiv.org/pdf/1808.05587.pdf)
