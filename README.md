@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Transfer Learning for Estimating Causal Effects using Neural Networks](https://arxiv.org/pdf/1808.07804.pdf)
+
   * [Deep Convolutional Networks as shallow Gaussian Processes](https://arxiv.org/pdf/1808.05587.pdf)
 
   * [Everybody Dance Now](https://arxiv.org/pdf/1808.07371.pdf)
