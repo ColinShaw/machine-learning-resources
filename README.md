@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Deep Convolutional Networks as shallow Gaussian Processes](https://arxiv.org/pdf/1808.05587.pdf)
+
   * [Everybody Dance Now](https://arxiv.org/pdf/1808.07371.pdf)
 
   * [Can 3D Pose be Learned from 2D Projections Alone?](https://arxiv.org/pdf/1808.07182.pdf)
