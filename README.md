@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Sleep-Wake Classification Via Quantifying Heart Rate Variability By Convolutional Neural Network](https://arxiv.org/pdf/1808.00142.pdf)
+
   * [TreeGAN: Syntax-Aware Sequence Generation with Generative Adversarial Networks](https://arxiv.org/pdf/1808.07582.pdf)
 
   * [The relativistic discriminator: a key element missing from standard GAN](https://arxiv.org/pdf/1807.00734.pdf)
