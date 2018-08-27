@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [TreeGAN: Syntax-Aware Sequence Generation with Generative Adversarial Networks](https://arxiv.org/pdf/1808.07582.pdf)
+
   * [The relativistic discriminator: a key element missing from standard GAN](https://arxiv.org/pdf/1807.00734.pdf)
 
   * [Transfer Learning for Estimating Causal Effects using Neural Networks](https://arxiv.org/pdf/1808.07804.pdf)
