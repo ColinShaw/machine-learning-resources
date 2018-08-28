@@ -977,6 +977,8 @@ good articles and some other resources.
 
 ## Interesting Online Projects and Tools
 
+  * [Pix2Pix: An example with tf.keras and eager](https://colab.research.google.com/github/tensorflow/tensorflow/blob/master/tensorflow/contrib/eager/python/examples/pix2pix/pix2pix_eager.ipynb)
+
   * [pytorch-Deep-Learning-Minicourse](https://github.com/Atcold/pytorch-Deep-Learning-Minicourse)
 
   * [Neural BeatBox](https://codepen.io/naotokui/pen/NBzJMW)
