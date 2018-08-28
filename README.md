@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Style Transfer as Unsupervised Machine Translation](https://arxiv.org/pdf/1808.07894.pdf)
+
   * [LIFT: Reinforcement Learning in Computer Systems by Learning From Demonstrations](https://arxiv.org/pdf/1808.07903.pdf)
 
   * [Sleep-Wake Classification Via Quantifying Heart Rate Variability By Convolutional Neural Network](https://arxiv.org/pdf/1808.00142.pdf)
