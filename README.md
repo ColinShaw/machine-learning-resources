@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Hybrid optical-electronic convolutional neural networks with optimized dffractive optics for image classification](https://www.nature.com/articles/s41598-018-30619-y.pdf)
+
   * [Style Transfer as Unsupervised Machine Translation](https://arxiv.org/pdf/1808.07894.pdf)
 
   * [LIFT: Reinforcement Learning in Computer Systems by Learning From Demonstrations](https://arxiv.org/pdf/1808.07903.pdf)
