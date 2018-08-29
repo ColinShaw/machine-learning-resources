@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Improving Abstraction in Text Summarization](https://arxiv.org/pdf/1808.07913.pdf)
+
   * [Contextual Parameter Generation for Universal Neural Machine Translation](https://arxiv.org/pdf/1808.08493.pdf)
 
   * [Hybrid optical-electronic convolutional neural networks with optimized dffractive optics for image classification](https://www.nature.com/articles/s41598-018-30619-y.pdf)
