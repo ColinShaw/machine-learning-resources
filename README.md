@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [NetScore: Towards Universal Metrics for Large-scale Performance Analysis of Deep Neural Networks for Practical On-Device Edge Usage](https://arxiv.org/pdf/1806.05512.pdf)
+
   * [An elementary introduction to information geometry](https://arxiv.org/pdf/1808.08271.pdf)
 
   * [Improving Abstraction in Text Summarization](https://arxiv.org/pdf/1808.07913.pdf)
