@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [An elementary introduction to information geometry](https://arxiv.org/pdf/1808.08271.pdf)
+
   * [Improving Abstraction in Text Summarization](https://arxiv.org/pdf/1808.07913.pdf)
 
   * [Contextual Parameter Generation for Universal Neural Machine Translation](https://arxiv.org/pdf/1808.08493.pdf)
