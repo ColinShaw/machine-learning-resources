@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Unsupervised Learning of Syntactic Structure with Invertible Neural Projections](https://arxiv.org/pdf/1808.09111.pdf)
+
   * [NetScore: Towards Universal Metrics for Large-scale Performance Analysis of Deep Neural Networks for Practical On-Device Edge Usage](https://arxiv.org/pdf/1806.05512.pdf)
 
   * [An elementary introduction to information geometry](https://arxiv.org/pdf/1808.08271.pdf)
