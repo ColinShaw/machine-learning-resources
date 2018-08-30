@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Norm matters: efficient and accurate normalization schemes in deep networks](https://arxiv.org/pdf/1803.01814.pdf)
+
   * [Unsupervised Learning of Syntactic Structure with Invertible Neural Projections](https://arxiv.org/pdf/1808.09111.pdf)
 
   * [NetScore: Towards Universal Metrics for Large-scale Performance Analysis of Deep Neural Networks for Practical On-Device Edge Usage](https://arxiv.org/pdf/1806.05512.pdf)
