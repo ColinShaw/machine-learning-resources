@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Wasserstein is all you need](https://arxiv.org/pdf/1808.09663.pdf)
+
   * [robot gym: accelerated robot training through simulation in the cloud with ROS and Gazebo](https://arxiv.org/pdf/1808.10369.pdf)
 
   * [Norm matters: efficient and accurate normalization schemes in deep networks](https://arxiv.org/pdf/1803.01814.pdf)
