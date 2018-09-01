@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Implicit Regularization in Deep Learning](https://arxiv.org/pdf/1709.01953.pdf)
+
   * [Wasserstein is all you need](https://arxiv.org/pdf/1808.09663.pdf)
 
   * [robot gym: accelerated robot training through simulation in the cloud with ROS and Gazebo](https://arxiv.org/pdf/1808.10369.pdf)
