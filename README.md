@@ -843,6 +843,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * ["Dance with Ensemble" Sharing Thread](https://www.kaggle.com/c/avito-demand-prediction/discussion/59880)
+
   * [Neural Nets for Generating Music](https://medium.com/artists-and-machine-intelligence/neural-nets-for-generating-music-f46dffac21c0)
 
   * [Collaborative Filtering: From Shallow to Deep Learning](https://towardsdatascience.com/collaborative-filtering-from-shallow-to-deep-learning-680926d5d844)
