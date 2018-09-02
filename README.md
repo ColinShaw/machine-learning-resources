@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Manipulating A ributes of Natural Scenes via Hallucination](https://arxiv.org/pdf/1808.07413.pdf)
+
   * [Implicit Regularization in Deep Learning](https://arxiv.org/pdf/1709.01953.pdf)
 
   * [Wasserstein is all you need](https://arxiv.org/pdf/1808.09663.pdf)
