@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Towards Neural Theorem Proving at Scale](https://arxiv.org/pdf/1807.08204.pdf)
+
   * [Supervised Deep Sparse Coding Networks](https://arxiv.org/pdf/1701.08349.pdf)
 
   * [Manipulating A ributes of Natural Scenes via Hallucination](https://arxiv.org/pdf/1808.07413.pdf)
