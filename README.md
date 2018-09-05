@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Twin-GAN – Unpaired Cross-Domain Image Translation with Weight-Sharing GANs](https://arxiv.org/pdf/1809.00946.pdf)
+
   * [Time-Agnostic Prediction: Predicting Predictable Video Frames](https://arxiv.org/pdf/1808.07784.pdf)
 
   * [A Tree-based Decoder for Neural Machine Translation](https://arxiv.org/pdf/1808.09374.pdf)
