@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Application of Self-Play Reinforcement Learning to a Four-Player Game of Imperfect Information](https://arxiv.org/pdf/1808.10442.pdf)
+
   * [A Neural Model of Adaptation in Reading](https://arxiv.org/pdf/1808.09930.pdf)
 
   * [Twin-GAN – Unpaired Cross-Domain Image Translation with Weight-Sharing GANs](https://arxiv.org/pdf/1809.00946.pdf)
