@@ -1019,6 +1019,8 @@ good articles and some other resources.
 
 ## Interesting Online Projects and Tools
 
+  * [Demystifying Convolutional Neural Networks](https://medium.com/@eternalzer0dayx/demystifying-convolutional-neural-networks-ca17bdc75559)
+
   * [GAN Lab](https://poloclub.github.io/ganlab/)
 
   * [Raincloud plots: a multi-platform tool for robust data visualization](https://peerj.com/preprints/27137v1/)
