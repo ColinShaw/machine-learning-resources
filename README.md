@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [How to Combine Tree-Search Methods in Reinforcement Learning](https://arxiv.org/pdf/1809.01843.pdf)
+
   * [Dendritic error backpropagation in deep cortical microcircuits](https://arxiv.org/pdf/1801.00062.pdf)
 
   * [Application of Self-Play Reinforcement Learning to a Four-Player Game of Imperfect Information](https://arxiv.org/pdf/1808.10442.pdf)
