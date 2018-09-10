@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Entropy and Graph Energy of Complex Networks](https://arxiv.org/pdf/1809.00094.pdf)
+
   * [Dual Ask-Answer Network for Machine Reading Comprehension](https://arxiv.org/abs/1807.04742)
 
   * [How to Combine Tree-Search Methods in Reinforcement Learning](https://arxiv.org/pdf/1809.01843.pdf)
