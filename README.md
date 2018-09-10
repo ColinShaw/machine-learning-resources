@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Dual Ask-Answer Network for Machine Reading Comprehension](https://arxiv.org/abs/1807.04742)
+
   * [How to Combine Tree-Search Methods in Reinforcement Learning](https://arxiv.org/pdf/1809.01843.pdf)
 
   * [Dendritic error backpropagation in deep cortical microcircuits](https://arxiv.org/pdf/1801.00062.pdf)
