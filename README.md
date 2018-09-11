@@ -871,6 +871,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [We trained an algorithm to detect cancer in just two hours](https://qz.com/1377825/we-trained-an-algorithm-to-detect-cancer-in-just-two-hours/)
+
   * ["Dance with Ensemble" Sharing Thread](https://www.kaggle.com/c/avito-demand-prediction/discussion/59880)
 
   * [Neural Nets for Generating Music](https://medium.com/artists-and-machine-intelligence/neural-nets-for-generating-music-f46dffac21c0)
