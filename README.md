@@ -871,6 +871,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Learning where you are looking at (in the browser)](https://cpury.github.io/learning-where-you-are-looking-at/)
+
   * [We trained an algorithm to detect cancer in just two hours](https://qz.com/1377825/we-trained-an-algorithm-to-detect-cancer-in-just-two-hours/)
 
   * ["Dance with Ensemble" Sharing Thread](https://www.kaggle.com/c/avito-demand-prediction/discussion/59880)
