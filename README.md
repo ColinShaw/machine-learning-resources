@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Weisfeiler-Lehman Neural Machine for Link Prediction](https://www.cse.wustl.edu/~muhan/papers/KDD_2017.pdf)
+
   * [Modeling Empathy and Distress in Reaction to News Stories](https://arxiv.org/pdf/1808.10399v1.pdf)
 
   * [Reinforcement Learning under Threats](https://arxiv.org/pdf/1809.01560.pdf)
