@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Reinforcement Learning under Threats](https://arxiv.org/pdf/1809.01560.pdf)
+
   * [Interpretation of Natural Language Rules in Conversational Machine Reading](https://arxiv.org/pdf/1809.01494.pdf)
 
   * [Entropy and Graph Energy of Complex Networks](https://arxiv.org/pdf/1809.00094.pdf)
