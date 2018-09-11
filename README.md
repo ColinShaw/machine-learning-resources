@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Modeling Empathy and Distress in Reaction to News Stories](https://arxiv.org/pdf/1808.10399v1.pdf)
+
   * [Reinforcement Learning under Threats](https://arxiv.org/pdf/1809.01560.pdf)
 
   * [Interpretation of Natural Language Rules in Conversational Machine Reading](https://arxiv.org/pdf/1809.01494.pdf)
