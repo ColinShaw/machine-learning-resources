@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Question Answering by Reasoning Across Documents with Graph Convolutional Networks](https://arxiv.org/pdf/1808.09920.pdf)
+
   * [Use of Deep Learning to Examine the Association of the Built Environment With Prevalence of Neighborhood Adult Obesity](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2698635)
 
   * [Noise2Noise: Learning Image Restoration without Clean Data](https://arxiv.org/pdf/1803.04189.pdf)
