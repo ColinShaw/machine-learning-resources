@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Use of Deep Learning to Examine the Association of the Built Environment With Prevalence of Neighborhood Adult Obesity](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2698635)
+
   * [Noise2Noise: Learning Image Restoration without Clean Data](https://arxiv.org/pdf/1803.04189.pdf)
 
   * [Towards Asynchronous Motor Imagery-Based Brain-Computer Interfaces: a joint training scheme using deep learning](https://arxiv.org/pdf/1808.10852.pdf)
