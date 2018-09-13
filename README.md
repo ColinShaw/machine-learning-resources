@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Neural Body Fitting: Unifying Deep Learning and Model-Based Human Pose and Shape Estimation](https://arxiv.org/pdf/1808.05942.pdf)
+
   * [Learning Category-Specific Mesh Reconstruction from Image Collections](https://arxiv.org/pdf/1803.07549.pdf)
 
   * [Question Answering by Reasoning Across Documents with Graph Convolutional Networks](https://arxiv.org/pdf/1808.09920.pdf)
