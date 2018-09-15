@@ -893,6 +893,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
+
   * [Building a text classification model with TensorFlow Hub and Estimators](https://medium.com/tensorflow/building-a-text-classification-model-with-tensorflow-hub-and-estimators-3169e7aa568)
 
   * [Learning where you are looking at (in the browser)](https://cpury.github.io/learning-where-you-are-looking-at/)
