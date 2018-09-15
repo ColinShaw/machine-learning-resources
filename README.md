@@ -891,6 +891,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Building a text classification model with TensorFlow Hub and Estimators](https://medium.com/tensorflow/building-a-text-classification-model-with-tensorflow-hub-and-estimators-3169e7aa568)
+
   * [Learning where you are looking at (in the browser)](https://cpury.github.io/learning-where-you-are-looking-at/)
 
   * [We trained an algorithm to detect cancer in just two hours](https://qz.com/1377825/we-trained-an-algorithm-to-detect-cancer-in-just-two-hours/)
