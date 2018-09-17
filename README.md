@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Model-Based Reinforcement Learning via Meta-Policy Optimization](https://arxiv.org/pdf/1809.05214.pdf)
+
   * [SOLAR: Deep Structured Latent Representations for Model-Based Reinforcement Learning](https://arxiv.org/pdf/1808.09105.pdf)
 
   * [Revisiting Character-Based Neural Machine Translation with Capacity and Compression](https://arxiv.org/pdf/1808.09943.pdf)
