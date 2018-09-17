@@ -895,6 +895,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Different ways of using MCMC algorithms](https://statisfaction.wordpress.com/2018/07/19/different-ways-of-using-mcmc-algorithms/)
+
   * [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 
   * [Building a text classification model with TensorFlow Hub and Estimators](https://medium.com/tensorflow/building-a-text-classification-model-with-tensorflow-hub-and-estimators-3169e7aa568)
