@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [CM3: Cooperative Multi-goal Multi-stage Multi-agent Reinforcement Learning](https://arxiv.org/pdf/1809.05188.pdf)
+
   * [Model-Based Reinforcement Learning via Meta-Policy Optimization](https://arxiv.org/pdf/1809.05214.pdf)
 
   * [SOLAR: Deep Structured Latent Representations for Model-Based Reinforcement Learning](https://arxiv.org/pdf/1808.09105.pdf)
