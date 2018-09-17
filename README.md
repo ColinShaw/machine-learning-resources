@@ -897,6 +897,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Neural Processes in PyTorch](https://chrisorm.github.io/NGP.html)
+
   * [A (Long) Peek into Reinforcement Learning](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html?utm_campaign=Data%20Machina&utm_medium=email&utm_source=Revue%20newsletter)
 
   * [Different ways of using MCMC algorithms](https://statisfaction.wordpress.com/2018/07/19/different-ways-of-using-mcmc-algorithms/)
