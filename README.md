@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Deep Learning for Generic Object Detection: A Survey](https://arxiv.org/pdf/1809.02165v1.pdf)
+
   * [CM3: Cooperative Multi-goal Multi-stage Multi-agent Reinforcement Learning](https://arxiv.org/pdf/1809.05188.pdf)
 
   * [Model-Based Reinforcement Learning via Meta-Policy Optimization](https://arxiv.org/pdf/1809.05214.pdf)
