@@ -1059,6 +1059,8 @@ good articles and some other resources.
 
 ## Interesting Online Projects and Tools
 
+  * [Research2Vec](https://github.com/Santosh-Gupta/Research2Vec)
+
   * [Demystifying Convolutional Neural Networks](https://medium.com/@eternalzer0dayx/demystifying-convolutional-neural-networks-ca17bdc75559)
 
   * [GAN Lab](https://poloclub.github.io/ganlab/)
