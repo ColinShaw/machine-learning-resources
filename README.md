@@ -1081,6 +1081,8 @@ good articles and some other resources.
 
 ## Interesting Online Projects and Tools
 
+  * [Semantic Soft Segmentation, ACM SIGGRAPH 2018](https://github.com/iyah4888/SIGGRAPH18SSS)
+
   * [Research2Vec](https://github.com/Santosh-Gupta/Research2Vec)
 
   * [Demystifying Convolutional Neural Networks](https://medium.com/@eternalzer0dayx/demystifying-convolutional-neural-networks-ca17bdc75559)
