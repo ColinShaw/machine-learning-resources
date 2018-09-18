@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [NiftyNet: a deep-learning platform for medical imaging](https://arxiv.org/pdf/1709.03485.pdf)
+
   * [Towards Better Interpretability in Deep Q-Networks](https://arxiv.org/pdf/1809.05630.pdf)
 
   * [Textual Analogy Parsing: What’s Shared and What’s Compared among Analogous Facts](https://nlp.stanford.edu/pubs/lamm2018analogies.pdf)
