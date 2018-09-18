@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [The Seven Tools of Causal Inference with Reflections on Machine Learning](http://ftp.cs.ucla.edu/pub/stat_ser/r481.pdf)
+
   * [Transparency and Explanation in Deep Reinforcement Learning Neural Networks](https://arxiv.org/pdf/1809.06061.pdf)
 
   * [Deep Learning for Generic Object Detection: A Survey](https://arxiv.org/pdf/1809.02165v1.pdf)
