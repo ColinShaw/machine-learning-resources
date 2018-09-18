@@ -903,6 +903,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Efficient tuning of online systems using Bayesian optimization](https://research.fb.com/efficient-tuning-of-online-systems-using-bayesian-optimization/)
+
   * [Neural Processes in PyTorch](https://chrisorm.github.io/NGP.html)
 
   * [A (Long) Peek into Reinforcement Learning](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html?utm_campaign=Data%20Machina&utm_medium=email&utm_source=Revue%20newsletter)
