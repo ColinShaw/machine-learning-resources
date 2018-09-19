@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Moments in Time Dataset: one million videos for event understanding](https://arxiv.org/pdf/1801.03150.pdf)
+
   * [Visual Diagnostics for Deep Reinforcement Learning Policy Development](https://arxiv.org/pdf/1809.06781.pdf)
 
   * [NiftyNet: a deep-learning platform for medical imaging](https://arxiv.org/pdf/1709.03485.pdf)
