@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Visual Diagnostics for Deep Reinforcement Learning Policy Development](https://arxiv.org/pdf/1809.06781.pdf)
+
   * [NiftyNet: a deep-learning platform for medical imaging](https://arxiv.org/pdf/1709.03485.pdf)
 
   * [Towards Better Interpretability in Deep Q-Networks](https://arxiv.org/pdf/1809.05630.pdf)
