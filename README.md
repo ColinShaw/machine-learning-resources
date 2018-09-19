@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Quantum Statistics-Inspired Neural Attention](https://arxiv.org/pdf/1809.06205.pdf)
+
   * [The No-U-Turn Sampler: Adaptively Setting Path Lengths in Hamiltonian Monte Carlo](https://arxiv.org/pdf/1111.4246.pdf)
 
   * [Moments in Time Dataset: one million videos for event understanding](https://arxiv.org/pdf/1801.03150.pdf)
