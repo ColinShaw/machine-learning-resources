@@ -1085,6 +1085,8 @@ good articles and some other resources.
 
 ## Interesting Online Projects and Tools
 
+  * [PaintsTransfer-Euclid](https://github.com/lllyasviel/style2paints)
+
   * [Semantic Soft Segmentation, ACM SIGGRAPH 2018](https://github.com/iyah4888/SIGGRAPH18SSS)
 
   * [Research2Vec](https://github.com/Santosh-Gupta/Research2Vec)
