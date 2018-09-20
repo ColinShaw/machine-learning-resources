@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Towards Better Interpretability in Deep Q-Networks](https://arxiv.org/pdf/1809.05630.pdf)
+
   * [Automatic Judgment Prediction via Legal Reading Comprehension](https://arxiv.org/pdf/1809.06537.pdf)
 
   * [Audio Adversarial Examples: Targeted Attacks on Speech-to-Text](https://arxiv.org/pdf/1801.01944.pdf)
