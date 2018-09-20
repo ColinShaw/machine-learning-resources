@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [TStarBots: Defeating the Cheating Level Builtin AI in StarCraft II in the Full Game](https://arxiv.org/pdf/1809.07193.pdf)
+
   * [Quantum Statistics-Inspired Neural Attention](https://arxiv.org/pdf/1809.06205.pdf)
 
   * [The No-U-Turn Sampler: Adaptively Setting Path Lengths in Hamiltonian Monte Carlo](https://arxiv.org/pdf/1111.4246.pdf)
