@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Multi-Task Learning for Email Search Ranking with Auxiliary Query Clustering](https://arxiv.org/pdf/1809.05618.pdf)
+
   * [Towards Better Interpretability in Deep Q-Networks](https://arxiv.org/pdf/1809.05630.pdf)
 
   * [Automatic Judgment Prediction via Legal Reading Comprehension](https://arxiv.org/pdf/1809.06537.pdf)
