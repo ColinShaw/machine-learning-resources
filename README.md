@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Computational Theories of Curiosity-Driven Learning](https://arxiv.org/pdf/1802.10546.pdf)
+
   * [Long short-term memory and learning-to-learn in networks of spiking neurons](https://arxiv.org/pdf/1803.09574.pdf)
 
   * [Multi-Task Learning for Email Search Ranking with Auxiliary Query Clustering](https://arxiv.org/pdf/1809.05618.pdf)
