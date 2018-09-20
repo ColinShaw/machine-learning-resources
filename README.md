@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Audio Adversarial Examples: Targeted Attacks on Speech-to-Text](https://arxiv.org/pdf/1801.01944.pdf)
+
   * [Transparency by Design: Closing the Gap Between Performance and Interpretability in Visual Reasoning](https://arxiv.org/pdf/1803.05268.pdf)
 
   * [TStarBots: Defeating the Cheating Level Builtin AI in StarCraft II in the Full Game](https://arxiv.org/pdf/1809.07193.pdf)
