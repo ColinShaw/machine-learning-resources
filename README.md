@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [A Connectome Based Hexagonal Lattice Convolutional Network Model of the Drosophila Visual System](https://arxiv.org/pdf/1806.04793.pdf)
+
   * [Phrase-Based & Neural Unsupervised Machine Translation](https://arxiv.org/pdf/1804.07755.pdf)
 
   * [Computational Theories of Curiosity-Driven Learning](https://arxiv.org/pdf/1802.10546.pdf)
