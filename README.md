@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Causal inference and the data-fusion problem](http://ftp.cs.ucla.edu/pub/stat_ser/r450-reprint.pdf)
+
   * [A Connectome Based Hexagonal Lattice Convolutional Network Model of the Drosophila Visual System](https://arxiv.org/pdf/1806.04793.pdf)
 
   * [Phrase-Based & Neural Unsupervised Machine Translation](https://arxiv.org/pdf/1804.07755.pdf)
