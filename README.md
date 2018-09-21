@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Phrase-Based & Neural Unsupervised Machine Translation](https://arxiv.org/pdf/1804.07755.pdf)
+
   * [Computational Theories of Curiosity-Driven Learning](https://arxiv.org/pdf/1802.10546.pdf)
 
   * [Long short-term memory and learning-to-learn in networks of spiking neurons](https://arxiv.org/pdf/1803.09574.pdf)
