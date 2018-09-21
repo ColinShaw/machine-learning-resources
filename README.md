@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [NLP's ImageNet moment has arrived](https://thegradient.pub/nlp-imagenet/)
+
   * [Freezing Subnetworks to Analyze Domain Adaptation in Neural Machine Translation](https://arxiv.org/pdf/1809.05218.pdf)
 
   * [Causal inference and the data-fusion problem](http://ftp.cs.ucla.edu/pub/stat_ser/r450-reprint.pdf)
