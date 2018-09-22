@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [CosmoFlow: Using Deep Learning to Learn the Universe at Scale](https://arxiv.org/pdf/1808.04728.pdf)
+
   * [Representation Learning: A Review and New Perspectives](https://arxiv.org/pdf/1206.5538.pdf)
 
   * [NLP's ImageNet moment has arrived](https://thegradient.pub/nlp-imagenet/)
