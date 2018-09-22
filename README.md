@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Representation Learning: A Review and New Perspectives](https://arxiv.org/pdf/1206.5538.pdf)
+
   * [NLP's ImageNet moment has arrived](https://thegradient.pub/nlp-imagenet/)
 
   * [Freezing Subnetworks to Analyze Domain Adaptation in Neural Machine Translation](https://arxiv.org/pdf/1809.05218.pdf)
