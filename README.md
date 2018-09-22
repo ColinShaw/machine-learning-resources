@@ -947,6 +947,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [AUTOML: METHODS, SYSTEMS, CHALLENGES (NEW BOOK)](https://www.automl.org/book/)
+
   * [r/MachinesLearn](https://www.reddit.com/r/MachinesLearn)
 
   * [Efficient tuning of online systems using Bayesian optimization](https://research.fb.com/efficient-tuning-of-online-systems-using-bayesian-optimization/)
