@@ -1135,6 +1135,8 @@ good articles and some other resources.
 
 ## Interesting Online Projects and Tools
 
+  * [Real-time pix2pix implementation with Unity](https://github.com/keijiro/Pix2Pix)
+
   * [PaintsTransfer-Euclid](https://github.com/lllyasviel/style2paints)
 
   * [Semantic Soft Segmentation, ACM SIGGRAPH 2018](https://github.com/iyah4888/SIGGRAPH18SSS)
