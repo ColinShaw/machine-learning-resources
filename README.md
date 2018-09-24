@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Solving Large Extensive-Form Games with Strategy Constraints](https://arxiv.org/pdf/1809.07893.pdf)
+
   * [A Practical Guide to Training Restricted Boltzmann Machines](https://www.cs.toronto.edu/~hinton/absps/guideTR.pdf)
 
   * [Introduction to astroML: Machine Learning for Astrophysics](https://arxiv.org/pdf/1411.5039.pdf)
