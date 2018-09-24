@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Introduction to astroML: Machine Learning for Astrophysics](https://arxiv.org/pdf/1411.5039.pdf)
+
   * [Why does deep and cheap learning work so well?](https://arxiv.org/pdf/1608.08225.pdf)
 
   * [CosmoFlow: Using Deep Learning to Learn the Universe at Scale](https://arxiv.org/pdf/1808.04728.pdf)
