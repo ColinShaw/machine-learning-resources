@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Learning Quickly to Plan Quickly Using Modular Meta-Learning](https://arxiv.org/pdf/1809.07878.pdf)
+
   * [Solving Large Extensive-Form Games with Strategy Constraints](https://arxiv.org/pdf/1809.07893.pdf)
 
   * [A Practical Guide to Training Restricted Boltzmann Machines](https://www.cs.toronto.edu/~hinton/absps/guideTR.pdf)
