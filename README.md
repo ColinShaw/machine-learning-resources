@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [A Practical Guide to Training Restricted Boltzmann Machines](https://www.cs.toronto.edu/~hinton/absps/guideTR.pdf)
+
   * [Introduction to astroML: Machine Learning for Astrophysics](https://arxiv.org/pdf/1411.5039.pdf)
 
   * [Why does deep and cheap learning work so well?](https://arxiv.org/pdf/1608.08225.pdf)
