@@ -953,6 +953,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Gradient Boosting and XGBoost](https://opendatascience.com/gradient-boosting-and-xgboost/)
+
   * [AUTOML: METHODS, SYSTEMS, CHALLENGES (NEW BOOK)](https://www.automl.org/book/)
 
   * [r/MachinesLearn](https://www.reddit.com/r/MachinesLearn)
