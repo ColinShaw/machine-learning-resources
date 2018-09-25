@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Understanding Convolutional Neural Networks for Text Classification](https://arxiv.org/pdf/1809.08037.pdf)
+
   * [HashTran-DNN: A Framework for Enhancing Robustness of Deep Neural Networks against Adversarial Malware Samples](https://arxiv.org/pdf/1809.06498.pdf)
 
   * [Learning Quickly to Plan Quickly Using Modular Meta-Learning](https://arxiv.org/pdf/1809.07878.pdf)
