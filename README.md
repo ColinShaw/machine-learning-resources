@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Ghost imaging with the human eye](https://arxiv.org/pdf/1808.05137.pdf)
+
   * [Understanding Convolutional Neural Networks for Text Classification](https://arxiv.org/pdf/1809.08037.pdf)
 
   * [HashTran-DNN: A Framework for Enhancing Robustness of Deep Neural Networks against Adversarial Malware Samples](https://arxiv.org/pdf/1809.06498.pdf)
