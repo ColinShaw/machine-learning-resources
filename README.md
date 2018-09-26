@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Graph Convolution over Pruned Dependency Trees Improves Relation Extraction](https://nlp.stanford.edu/pubs/zhang2018graph.pdf)
+
   * [COMPUTATIONAL POWER AND THE SOCIAL IMPACT OF ARTIFICIAL INTELLIGENCE](https://arxiv.org/pdf/1803.08971.pdf)
 
   * [The Mechanics of n-Player Differentiable Games](http://proceedings.mlr.press/v80/balduzzi18a/balduzzi18a.pdf)
