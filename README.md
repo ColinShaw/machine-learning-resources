@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [The Mechanics of n-Player Differentiable Games](http://proceedings.mlr.press/v80/balduzzi18a/balduzzi18a.pdf)
+
   * [Low Precision Policy Distillation with Application to Low-Power, Real-time Sensation-Cognition-Action Loop with Neuromorphic Computing](https://arxiv.org/pdf/1809.09260.pdf)
 
   * [A Survey of Learning Causality with Data: Problems and Methods](https://arxiv.org/pdf/1809.09337.pdf)
