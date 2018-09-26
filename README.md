@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Low Precision Policy Distillation with Application to Low-Power, Real-time Sensation-Cognition-Action Loop with Neuromorphic Computing](https://arxiv.org/pdf/1809.09260.pdf)
+
   * [A Survey of Learning Causality with Data: Problems and Methods](https://arxiv.org/pdf/1809.09337.pdf)
 
   * [Ghost imaging with the human eye](https://arxiv.org/pdf/1808.05137.pdf)
