@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Explainable PCGML via Game Design Patterns](https://arxiv.org/pdf/1809.09419.pdf)
+
   * [Graph Convolution over Pruned Dependency Trees Improves Relation Extraction](https://nlp.stanford.edu/pubs/zhang2018graph.pdf)
 
   * [COMPUTATIONAL POWER AND THE SOCIAL IMPACT OF ARTIFICIAL INTELLIGENCE](https://arxiv.org/pdf/1803.08971.pdf)
