@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Floyd-Warshall Reinforcement Learning: Learning from Past Experiences to Reach New Goals](https://arxiv.org/pdf/1809.09318.pdf)
+
   * [Explainable PCGML via Game Design Patterns](https://arxiv.org/pdf/1809.09419.pdf)
 
   * [Graph Convolution over Pruned Dependency Trees Improves Relation Extraction](https://nlp.stanford.edu/pubs/zhang2018graph.pdf)
