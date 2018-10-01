@@ -59,6 +59,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Open Domain Question Answering Using Early Fusion of Knowledge Bases and Text](https://arxiv.org/pdf/1809.00782.pdf)
+
   * [DEEP GRAPH INFOMAX](https://arxiv.org/pdf/1809.10341.pdf)
 
   * [Net2Vec: Quantifying and Explaining how Concepts are Encoded by Filters in Deep Neural Networks](http://openaccess.thecvf.com/content_cvpr_2018/papers/Fong_Net2Vec_Quantifying_and_CVPR_2018_paper.pdf)
