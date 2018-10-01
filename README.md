@@ -57,6 +57,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [DEEP GRAPH INFOMAX](https://arxiv.org/pdf/1809.10341.pdf)
+
   * [Net2Vec: Quantifying and Explaining how Concepts are Encoded by Filters in Deep Neural Networks](http://openaccess.thecvf.com/content_cvpr_2018/papers/Fong_Net2Vec_Quantifying_and_CVPR_2018_paper.pdf)
   
   * [Floyd-Warshall Reinforcement Learning: Learning from Past Experiences to Reach New Goals](https://arxiv.org/pdf/1809.09318.pdf)
