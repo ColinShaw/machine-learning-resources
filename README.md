@@ -991,6 +991,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [How to code The Transformer in Pytorch](https://towardsdatascience.com/how-to-code-the-transformer-in-pytorch-24db27c8f9ec)
+
   * [Why Momentum Really Works](https://distill.pub/2017/momentum/)
 
   * [CLARA: A NEURAL NET MUSIC GENERATOR](http://christinemcleavey.com/clara-a-neural-net-music-generator/)
