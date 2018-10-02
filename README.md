@@ -59,6 +59,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Few-Shot Goal Inference for Visuomotor Learning and Planning](https://arxiv.org/pdf/1810.00482.pdf)
+
   * [Accurate and Transferable Multitask Prediction of Chemical Properties with an Atoms-in-Molecule Neural Network](https://chemrxiv.org/articles/Accurate_and_Transferable_Multitask_Prediction_of_Chemical_Properties_with_an_Atoms-in-Molecule_Neural_Network/7151435)
   
   * [Cellular automata as convolutional neural networks](https://arxiv.org/pdf/1809.02942.pdf)
