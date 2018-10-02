@@ -59,6 +59,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Cellular automata as convolutional neural networks](https://arxiv.org/pdf/1809.02942.pdf)
+
   * [Open Domain Question Answering Using Early Fusion of Knowledge Bases and Text](https://arxiv.org/pdf/1809.00782.pdf)
 
   * [DEEP GRAPH INFOMAX](https://arxiv.org/pdf/1809.10341.pdf)
