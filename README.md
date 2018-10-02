@@ -991,6 +991,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Why Momentum Really Works](https://distill.pub/2017/momentum/)
+
   * [CLARA: A NEURAL NET MUSIC GENERATOR](http://christinemcleavey.com/clara-a-neural-net-music-generator/)
 
   * [Gradient Boosting and XGBoost](https://opendatascience.com/gradient-boosting-and-xgboost/)
