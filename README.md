@@ -995,6 +995,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Simple Beginner’s guide to Reinforcement Learning & its implementation](https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learning-implementation/)
+
   * [How to code The Transformer in Pytorch](https://towardsdatascience.com/how-to-code-the-transformer-in-pytorch-24db27c8f9ec)
 
   * [Why Momentum Really Works](https://distill.pub/2017/momentum/)
