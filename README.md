@@ -59,6 +59,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour](https://arxiv.org/pdf/1706.02677.pdf)
+
   * [VARIATIONAL DISCRIMINATOR BOTTLENECK: IMPROVING IMITATION LEARNING, INVERSE RL, AND GANS BY CONSTRAINING INFORMATION FLOW](https://arxiv.org/pdf/1810.00821.pdf)
 
   * [Few-Shot Goal Inference for Visuomotor Learning and Planning](https://arxiv.org/pdf/1810.00482.pdf)
