@@ -59,6 +59,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [GENERATIVE ENSEMBLES FOR ROBUST ANOMALY DETECTION](https://arxiv.org/pdf/1810.01392.pdf)
+
   * [AlphaSeq: Sequence Discovery with Deep Reinforcement Learning](https://arxiv.org/pdf/1810.01218.pdf)
 
   * [Taming VAEs](https://arxiv.org/pdf/1810.00597.pdf)
