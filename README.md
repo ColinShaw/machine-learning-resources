@@ -1191,6 +1191,8 @@ good articles and some other resources.
 
 ## Interesting Online Projects and Tools
 
+  * [Awesome Human Pose Estimation](https://github.com/cbsudux/awesome-human-pose-estimation)
+
   * [Real-time pix2pix implementation with Unity](https://github.com/keijiro/Pix2Pix)
 
   * [PaintsTransfer-Euclid](https://github.com/lllyasviel/style2paints)
