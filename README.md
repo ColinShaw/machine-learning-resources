@@ -59,6 +59,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [ADVERSARIAL AUDIO SYNTHESIS](https://openreview.net/pdf?id=ByMVTsR5KQ)
+
   * [SET TRANSFORMER](https://arxiv.org/pdf/1810.00825.pdf)
 
   * [A deep learning pipeline for product recognition in store shelves](https://arxiv.org/pdf/1810.01733.pdf)
