@@ -59,6 +59,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [MODULATED VARIATIONAL AUTO-ENCODERS FOR MANY-TO-MANY MUSICAL TIMBRE TRANSFER](https://openreview.net/pdf?id=HJgOl3AqY7)
+
   * [Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding](https://arxiv.org/pdf/1810.02338.pdf)
 
   * [Learning to Remember, Forget, and Ignore using Attention Control in Memory](https://arxiv.org/pdf/1809.11087.pdf)
