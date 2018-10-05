@@ -59,6 +59,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding](https://arxiv.org/pdf/1810.02338.pdf)
+
   * [Learning to Remember, Forget, and Ignore using Attention Control in Memory](https://arxiv.org/pdf/1809.11087.pdf)
 
   * [GENERATIVE ENSEMBLES FOR ROBUST ANOMALY DETECTION](https://arxiv.org/pdf/1810.01392.pdf)
