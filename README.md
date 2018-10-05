@@ -59,6 +59,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [OPTIMAL COMPLETION DISTILLATION FOR SEQUENCE LEARNING](https://arxiv.org/pdf/1810.01398.pdf)
+
   * [Verification for Machine Learning, Autonomy, and Neural Networks Survey](https://arxiv.org/pdf/1810.01989.pdf)
 
   * [UNSUPERVISED LEARNING VIA META-LEARNING](https://arxiv.org/pdf/1810.02334.pdf)
