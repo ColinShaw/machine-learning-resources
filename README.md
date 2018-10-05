@@ -59,6 +59,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Verification for Machine Learning, Autonomy, and Neural Networks Survey](https://arxiv.org/pdf/1810.01989.pdf)
+
   * [UNSUPERVISED LEARNING VIA META-LEARNING](https://arxiv.org/pdf/1810.02334.pdf)
 
   * [MODULATED VARIATIONAL AUTO-ENCODERS FOR MANY-TO-MANY MUSICAL TIMBRE TRANSFER](https://openreview.net/pdf?id=HJgOl3AqY7)
