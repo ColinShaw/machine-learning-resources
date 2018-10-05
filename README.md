@@ -59,6 +59,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [UNSUPERVISED LEARNING VIA META-LEARNING](https://arxiv.org/pdf/1810.02334.pdf)
+
   * [MODULATED VARIATIONAL AUTO-ENCODERS FOR MANY-TO-MANY MUSICAL TIMBRE TRANSFER](https://openreview.net/pdf?id=HJgOl3AqY7)
 
   * [Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding](https://arxiv.org/pdf/1810.02338.pdf)
