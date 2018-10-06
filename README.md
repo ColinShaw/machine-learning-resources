@@ -59,6 +59,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [MODELING UNCERTAINTY WITH HEDGED INSTANCE EMBEDDING](https://arxiv.org/pdf/1810.00319.pdf)
+
   * [ADVERSARIAL AUDIO SYNTHESIS](https://openreview.net/pdf?id=ByMVTsR5KQ)
 
   * [SET TRANSFORMER](https://arxiv.org/pdf/1810.00825.pdf)
