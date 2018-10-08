@@ -59,6 +59,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Probabilistic Meta-Representations Of Neural Networks](http://www.gatsby.ucl.ac.uk/~balaji/udl-camera-ready/UDL-13.pdf)
+
   * [POSEidon: Face-from-Depth for Driver Pose Estimation](http://imagelab.ing.unimore.it/pandora/poseidon.html)
   
   * [Design Inspiration from Generative Networks](https://arxiv.org/pdf/1804.00921v2.pdf)
