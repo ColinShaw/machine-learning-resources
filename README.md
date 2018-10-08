@@ -1225,6 +1225,8 @@ good articles and some other resources.
 
 ## Interesting Online Projects and Tools
 
+  * [GPyTorch](https://github.com/cornellius-gp/gpytorch)
+
   * [arviz](https://github.com/arviz-devs/arviz)
 
   * [torchgeometry](https://arraiy.github.io/torchgeometry/build/html/index.html)
