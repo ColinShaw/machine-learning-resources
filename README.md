@@ -59,6 +59,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Inertial-aided Motion Deblurring with Deep Networks](https://arxiv.org/pdf/1810.00986.pdf)
+
   * [Probabilistic Meta-Representations Of Neural Networks](http://www.gatsby.ucl.ac.uk/~balaji/udl-camera-ready/UDL-13.pdf)
 
   * [POSEidon: Face-from-Depth for Driver Pose Estimation](http://imagelab.ing.unimore.it/pandora/poseidon.html)
