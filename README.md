@@ -59,6 +59,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [MyCaffe: A Complete C# Re-Write of Caffe with Reinforcement Learning](https://arxiv.org/pdf/1810.02272.pdf)
+
   * [Gradient Descent Provably Optimizes Over-parameterized Neural Networks](https://arxiv.org/pdf/1810.02054.pdf)
 
   * [MODELING UNCERTAINTY WITH HEDGED INSTANCE EMBEDDING](https://arxiv.org/pdf/1810.00319.pdf)
