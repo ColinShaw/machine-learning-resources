@@ -1027,6 +1027,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Automatic Kernel Optimization for Deep Learning on All Hardware Platforms](https://tvm.ai/2018/10/03/auto-opt-all.html)
+
   * [TensorFlow in Anaconda](https://www.anaconda.com/blog/developer-blog/tensorflow-in-anaconda/)
 
   * [Simple Beginner’s guide to Reinforcement Learning & its implementation](https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learning-implementation/)
