@@ -1225,6 +1225,8 @@ good articles and some other resources.
 
 ## Interesting Online Projects and Tools
 
+  * [Talos: Hyperparameter Optimization for Keras Models](https://github.com/autonomio/talos)
+
   * [GPyTorch](https://github.com/cornellius-gp/gpytorch)
 
   * [arviz](https://github.com/arviz-devs/arviz)
