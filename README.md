@@ -59,6 +59,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Design Inspiration from Generative Networks](https://arxiv.org/pdf/1804.00921v2.pdf)
+
   * [MyCaffe: A Complete C# Re-Write of Caffe with Reinforcement Learning](https://arxiv.org/pdf/1810.02272.pdf)
 
   * [Gradient Descent Provably Optimizes Over-parameterized Neural Networks](https://arxiv.org/pdf/1810.02054.pdf)
