@@ -1217,6 +1217,8 @@ good articles and some other resources.
 
 ## Interesting Online Projects and Tools
 
+  * [arviz](https://github.com/arviz-devs/arviz)
+
   * [torchgeometry](https://arraiy.github.io/torchgeometry/build/html/index.html)
 
   * [Awesome Human Pose Estimation](https://github.com/cbsudux/awesome-human-pose-estimation)
