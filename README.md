@@ -59,6 +59,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [POSEidon: Face-from-Depth for Driver Pose Estimation](http://imagelab.ing.unimore.it/pandora/poseidon.html)
+  
   * [Design Inspiration from Generative Networks](https://arxiv.org/pdf/1804.00921v2.pdf)
 
   * [MyCaffe: A Complete C# Re-Write of Caffe with Reinforcement Learning](https://arxiv.org/pdf/1810.02272.pdf)
