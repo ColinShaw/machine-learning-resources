@@ -1037,6 +1037,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [PhD Thesis: Geometry and Uncertainty in Deep Learning for Computer Vision](https://alexgkendall.com/computer_vision/phd_thesis/)
+
   * [Generative Neural Machine Translation](https://davidbarber.github.io/blog/2018/09/12/Generative-Neural-Machine-Translation/)
 
   * [UNDERSTANDING FORMULAS FOR COMMON STATISTICS](https://www.dummies.com/education/math/statistics/statistics-for-dummies-cheat-sheet/)
