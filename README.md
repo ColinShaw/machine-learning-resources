@@ -1037,6 +1037,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Generative Neural Machine Translation](https://davidbarber.github.io/blog/2018/09/12/Generative-Neural-Machine-Translation/)
+
   * [UNDERSTANDING FORMULAS FOR COMMON STATISTICS](https://www.dummies.com/education/math/statistics/statistics-for-dummies-cheat-sheet/)
 
   * [Automatic Kernel Optimization for Deep Learning on All Hardware Platforms](https://tvm.ai/2018/10/03/auto-opt-all.html)
