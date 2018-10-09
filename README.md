@@ -59,6 +59,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [h-DETACH: MODIFYING THE LSTM GRADIENT TO- WARDS BETTER OPTIMIZATION](https://arxiv.org/pdf/1810.03023.pdf)
+
   * [Inertial-aided Motion Deblurring with Deep Networks](https://arxiv.org/pdf/1810.00986.pdf)
 
   * [Probabilistic Meta-Representations Of Neural Networks](http://www.gatsby.ucl.ac.uk/~balaji/udl-camera-ready/UDL-13.pdf)
