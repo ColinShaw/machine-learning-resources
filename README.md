@@ -59,6 +59,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [AutoLoss: Learning Discrete Schedules for Alternate Optimization](https://arxiv.org/pdf/1810.02442.pdf)
+
   * [h-DETACH: MODIFYING THE LSTM GRADIENT TO- WARDS BETTER OPTIMIZATION](https://arxiv.org/pdf/1810.03023.pdf)
 
   * [Inertial-aided Motion Deblurring with Deep Networks](https://arxiv.org/pdf/1810.00986.pdf)
