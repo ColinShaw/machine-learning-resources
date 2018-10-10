@@ -59,6 +59,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Reinforcement Learning for Improving Agent Design](https://arxiv.org/pdf/1810.03779.pdf)
+
   * [AutoLoss: Learning Discrete Schedules for Alternate Optimization](https://arxiv.org/pdf/1810.02442.pdf)
 
   * [h-DETACH: MODIFYING THE LSTM GRADIENT TO- WARDS BETTER OPTIMIZATION](https://arxiv.org/pdf/1810.03023.pdf)
