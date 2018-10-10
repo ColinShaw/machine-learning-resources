@@ -1043,6 +1043,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Machine Learning for Visualization](https://medium.com/@enjalot/machine-learning-for-visualization-927a9dff1cab)
+
   * [PhD Thesis: Geometry and Uncertainty in Deep Learning for Computer Vision](https://alexgkendall.com/computer_vision/phd_thesis/)
 
   * [Generative Neural Machine Translation](https://davidbarber.github.io/blog/2018/09/12/Generative-Neural-Machine-Translation/)
