@@ -59,6 +59,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Knowing Where to Look? Analysis on Attention of Visual Question Answering System](https://arxiv.org/pdf/1810.03821.pdf)
+
   * [DOUBLY REPARAMETERIZED GRADIENT ESTIMATORS FOR MONTE CARLO OBJECTIVES](https://arxiv.org/pdf/1810.04152.pdf)
 
   * [Multi-Task Learning as Multi-Objective Optimization](https://arxiv.org/pdf/1810.04650.pdf)
