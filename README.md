@@ -59,6 +59,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [LARGE SCALE GAN TRAINING FOR HIGH FIDELITY NATURAL IMAGE SYNTHESIS](https://arxiv.org/pdf/1809.11096.pdf)
+
   * [Knowing Where to Look? Analysis on Attention of Visual Question Answering System](https://arxiv.org/pdf/1810.03821.pdf)
 
   * [DOUBLY REPARAMETERIZED GRADIENT ESTIMATORS FOR MONTE CARLO OBJECTIVES](https://arxiv.org/pdf/1810.04152.pdf)
