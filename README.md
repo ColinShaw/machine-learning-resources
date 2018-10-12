@@ -59,6 +59,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Self-Attention Generative Adversarial Networks](https://arxiv.org/pdf/1805.08318.pdf)
+
   * [Pruning neural networks: is it time to nip it in the bud?](https://arxiv.org/pdf/1810.04622.pdf)
 
   * [LARGE SCALE GAN TRAINING FOR HIGH FIDELITY NATURAL IMAGE SYNTHESIS](https://arxiv.org/pdf/1809.11096.pdf)
