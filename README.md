@@ -59,6 +59,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [3D Hair Synthesis Using Volumetric Variational Autoencoders](http://linjieluo.com/files/18-SIGA-3DHairSynthesisUsingVolumetricVAEs.pdf)
+
   * [Recycle-GAN: Unsupervised Video Retargeting](http://www.cs.cmu.edu/~aayushb/Recycle-GAN/recycle_gan.pdf)
 
   * [Self-Attention Generative Adversarial Networks](https://arxiv.org/pdf/1805.08318.pdf)
