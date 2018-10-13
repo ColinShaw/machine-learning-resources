@@ -59,6 +59,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
+
   * [3D Hair Synthesis Using Volumetric Variational Autoencoders](http://linjieluo.com/files/18-SIGA-3DHairSynthesisUsingVolumetricVAEs.pdf)
 
   * [Recycle-GAN: Unsupervised Video Retargeting](http://www.cs.cmu.edu/~aayushb/Recycle-GAN/recycle_gan.pdf)
