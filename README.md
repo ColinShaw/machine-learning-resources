@@ -1063,6 +1063,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Flow-based Deep Generative Models](https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models.html)
+
   * [Industrial AI: BHGE’s Physics-based, Probabilistic Deep Learning Using TensorFlow Probability — Part 1](https://medium.com/tensorflow/industrial-ai-bhges-physics-based-probabilistic-deep-learning-using-tensorflow-probability-5f215c791863)
 
   * [Machine Learning for Visualization](https://medium.com/@enjalot/machine-learning-for-visualization-927a9dff1cab)
