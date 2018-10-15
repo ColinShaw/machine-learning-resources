@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Person-Job Fit: Adapting the Right Talent for the Right Job with Joint Representation Learning](https://arxiv.org/pdf/1810.04040.pdf)
+
   * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
 
   * [3D Hair Synthesis Using Volumetric Variational Autoencoders](http://linjieluo.com/files/18-SIGA-3DHairSynthesisUsingVolumetricVAEs.pdf)
