@@ -51,6 +51,8 @@ good articles and some other resources.
 
 ## Background Literature
 
+  * [Reinforcement Learning: Second Edition](https://drive.google.com/file/d/1opPSz5AZ_kVa1uWOdOiveNiBFiEOHjkG/view)
+
   * [An Introduction to Probabilistic Programming](https://arxiv.org/pdf/1809.10756.pdf)
 
   * [Variational Inference: A Review for Statisticians](https://arxiv.org/pdf/1601.00670.pdf)
