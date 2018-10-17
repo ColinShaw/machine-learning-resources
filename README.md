@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [GPU-Accelerated Robotic Simulation for Distributed Reinforcement Learning](https://arxiv.org/pdf/1810.05762.pdf)
+
   * [CURIOUS: Intrinsically Motivated Multi-Task, Multi-Goal Reinforcement Learning](https://arxiv.org/pdf/1810.06284.pdf)
 
   * [Approximate Fisher Information Matrix to Characterise the Training of Deep Neural Networks](https://arxiv.org/pdf/1810.06767.pdf)
