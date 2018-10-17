@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Approximate Fisher Information Matrix to Characterise the Training of Deep Neural Networks](https://arxiv.org/pdf/1810.06767.pdf)
+
   * [Arguing Machines: Human Supervision of Black Box AI Systems That Make Life-Critical Decisions](https://arxiv.org/pdf/1710.04459.pdf)
 
   * [Person-Job Fit: Adapting the Right Talent for the Right Job with Joint Representation Learning](https://arxiv.org/pdf/1810.04040.pdf)
