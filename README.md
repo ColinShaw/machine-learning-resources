@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [At Human Speed: Deep Reinforcement Learning with Action Delay](https://arxiv.org/pdf/1810.07286.pdf)
+
   * [GPU-Accelerated Robotic Simulation for Distributed Reinforcement Learning](https://arxiv.org/pdf/1810.05762.pdf)
 
   * [CURIOUS: Intrinsically Motivated Multi-Task, Multi-Goal Reinforcement Learning](https://arxiv.org/pdf/1810.06284.pdf)
