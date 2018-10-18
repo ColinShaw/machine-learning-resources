@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [DISCRIMINATOR REJECTION SAMPLING](https://arxiv.org/pdf/1810.06758.pdf)
+
   * [At Human Speed: Deep Reinforcement Learning with Action Delay](https://arxiv.org/pdf/1810.07286.pdf)
 
   * [GPU-Accelerated Robotic Simulation for Distributed Reinforcement Learning](https://arxiv.org/pdf/1810.05762.pdf)
