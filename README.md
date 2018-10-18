@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [UNSUPERVISED NEURAL MULTI-DOCUMENT ABSTRACTIVE SUMMARIZATION](https://arxiv.org/pdf/1810.05739.pdf)
+
   * [DISCRIMINATOR REJECTION SAMPLING](https://arxiv.org/pdf/1810.06758.pdf)
 
   * [At Human Speed: Deep Reinforcement Learning with Action Delay](https://arxiv.org/pdf/1810.07286.pdf)
