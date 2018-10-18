@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Structural Sparsity of Complex Networks: Bounded Expansion in Random Models and Real-World Graphs](https://arxiv.org/pdf/1406.2587v6.pdf)
+
   * [UNSUPERVISED NEURAL MULTI-DOCUMENT ABSTRACTIVE SUMMARIZATION](https://arxiv.org/pdf/1810.05739.pdf)
 
   * [DISCRIMINATOR REJECTION SAMPLING](https://arxiv.org/pdf/1810.06758.pdf)
