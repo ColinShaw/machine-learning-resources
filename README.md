@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Deep neural network based i-vector mapping for speaker verification using short utterances](https://arxiv.org/pdf/1810.07309.pdf)
+
   * [TRELLIS NETWORKS FOR SEQUENCE MODELING](https://arxiv.org/pdf/1810.06682.pdf)
 
   * [Variational Bayesian Monte Carlo](https://arxiv.org/pdf/1810.05558.pdf)
