@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [TRELLIS NETWORKS FOR SEQUENCE MODELING](https://arxiv.org/pdf/1810.06682.pdf)
+
   * [Variational Bayesian Monte Carlo](https://arxiv.org/pdf/1810.05558.pdf)
 
   * [Private Machine Learning in TensorFlow using Secure Computation](https://arxiv.org/pdf/1810.08130.pdf)
