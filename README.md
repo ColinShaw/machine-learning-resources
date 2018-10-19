@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Variational Bayesian Monte Carlo](https://arxiv.org/pdf/1810.05558.pdf)
+
   * [Private Machine Learning in TensorFlow using Secure Computation](https://arxiv.org/pdf/1810.08130.pdf)
 
   * [Structural Sparsity of Complex Networks: Bounded Expansion in Random Models and Real-World Graphs](https://arxiv.org/pdf/1406.2587v6.pdf)
