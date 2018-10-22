@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Trust Region Policy Optimization of POMDPs](https://arxiv.org/pdf/1810.07900.pdf)
+
   * [Gradient Agreement as an Optimization Objective for Meta-Learning](https://arxiv.org/pdf/1810.08178.pdf)
 
   * [Low-Shot Learning with Imprinted Weights](https://arxiv.org/pdf/1712.07136.pdf)
