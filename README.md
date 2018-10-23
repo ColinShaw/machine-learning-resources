@@ -1469,6 +1469,8 @@ good articles and some other resources.
 
 ## Online Programs of Study
 
+  * [A high bias low-variance introduction to Machine Learning for physicists](https://physics.bu.edu/~pankajm/MLnotebooks.html)
+
   * [Some Thoughts on Mid-Career Switching Into Data Science](https://www.datasciencecentral.com/profiles/blogs/some-thoughts-on-mid-career-switching-into-data-science)
 
   * [Udacity](https://www.udacity.com)
