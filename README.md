@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [BrainNet: A Multi-Person Brain-to-Brain Interface for Direct Collaboration Between Brains](https://arxiv.org/pdf/1809.08632.pdf)
+
   * [Recent Advances in Object Detection in the Age of Deep Convolutional Neural Networks](https://arxiv.org/pdf/1809.03193.pdf)
 
   * [DGC-Net: Dense Geometric Correspondence Network](https://arxiv.org/pdf/1810.08393.pdf)
