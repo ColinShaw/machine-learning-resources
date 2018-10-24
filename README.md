@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Recent Advances in Object Detection in the Age of Deep Convolutional Neural Networks](https://arxiv.org/pdf/1809.03193.pdf)
+
   * [DGC-Net: Dense Geometric Correspondence Network](https://arxiv.org/pdf/1810.08393.pdf)
 
   * [A Brief Survey of Deep Reinforcement Learning](https://arxiv.org/pdf/1708.05866.pdf)
