@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Autowarp: Learning a Warping Distance from Unlabeled Time Series Using Sequence Autoencoders](https://arxiv.org/pdf/1810.10107.pdf)
+
   * [Actor-Critic Policy Optimization in Partially Observable Multiagent Environments](https://arxiv.org/pdf/1810.09026.pdf)
 
   * [BrainNet: A Multi-Person Brain-to-Brain Interface for Direct Collaboration Between Brains](https://arxiv.org/pdf/1809.08632.pdf)
