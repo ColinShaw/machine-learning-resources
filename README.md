@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [LEARNED OPTIMIZERS THAT OUTPERFORM SGD ON WALL-CLOCK AND VALIDATION LOSS](https://arxiv.org/pdf/1810.10180.pdf)
+
   * [Neighbourhood Consensus Networks](https://arxiv.org/pdf/1810.10510.pdf)
 
   * [Autowarp: Learning a Warping Distance from Unlabeled Time Series Using Sequence Autoencoders](https://arxiv.org/pdf/1810.10107.pdf)
