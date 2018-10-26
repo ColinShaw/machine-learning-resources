@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Mask Propagation Network for Video Object Segmentation](https://arxiv.org/pdf/1810.10289.pdf)
+
   * [Unsupervised Statistical Machine Translation](https://arxiv.org/pdf/1809.01272.pdf)
 
   * [LEARNED OPTIMIZERS THAT OUTPERFORM SGD ON WALL-CLOCK AND VALIDATION LOSS](https://arxiv.org/pdf/1810.10180.pdf)
