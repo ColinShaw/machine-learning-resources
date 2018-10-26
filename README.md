@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Deep Graph Convolutional Encoders for Structured Data to Text Generation](https://arxiv.org/pdf/1810.09995.pdf)
+
   * [Mask Propagation Network for Video Object Segmentation](https://arxiv.org/pdf/1810.10289.pdf)
 
   * [Unsupervised Statistical Machine Translation](https://arxiv.org/pdf/1809.01272.pdf)
