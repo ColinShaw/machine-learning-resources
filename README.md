@@ -1119,6 +1119,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Drilling Down on Depth Sensing and Deep Learning](https://bair.berkeley.edu/blog/2018/10/23/depth-sensing/)
+
   * [Practical Text Classification With Python and Keras](https://realpython.com/python-keras-text-classification/)
 
   * [Monte Carlo Tree Search – beginners guide](https://int8.io/monte-carlo-tree-search-beginners-guide/)
