@@ -1119,6 +1119,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Practical Text Classification With Python and Keras](https://realpython.com/python-keras-text-classification/)
+
   * [Monte Carlo Tree Search – beginners guide](https://int8.io/monte-carlo-tree-search-beginners-guide/)
 
   * [Deep learning based Object Detection and Instance Segmentation using Mask R-CNN in OpenCV (Python / C++)](https://www.learnopencv.com/deep-learning-based-object-detection-and-instance-segmentation-using-mask-r-cnn-in-opencv-python-c/)
