@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Unsupervised Statistical Machine Translation](https://arxiv.org/pdf/1809.01272.pdf)
+
   * [LEARNED OPTIMIZERS THAT OUTPERFORM SGD ON WALL-CLOCK AND VALIDATION LOSS](https://arxiv.org/pdf/1810.10180.pdf)
 
   * [Neighbourhood Consensus Networks](https://arxiv.org/pdf/1810.10510.pdf)
