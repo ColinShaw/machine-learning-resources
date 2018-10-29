@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Online Human Gesture Recognition using Recurrent Neural Networks and Wearable Sensors](https://arxiv.org/pdf/1810.11297.pdf)
+
   * [Deep Graph Convolutional Encoders for Structured Data to Text Generation](https://arxiv.org/pdf/1810.09995.pdf)
 
   * [Mask Propagation Network for Video Object Segmentation](https://arxiv.org/pdf/1810.10289.pdf)
