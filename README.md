@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Dendritic cortical microcircuits approximate the backpropagation algorithm](https://arxiv.org/pdf/1810.11393.pdf)
+
   * [Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search](https://arxiv.org/pdf/1810.10659.pdf)
 
   * [BABYAI: FIRST STEPS TOWARDS GROUNDED LAN- GUAGE LEARNING WITH A HUMAN IN THE LOOP](https://export.arxiv.org/pdf/1810.08272)
