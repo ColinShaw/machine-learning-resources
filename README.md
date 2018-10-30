@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [One-Shot Hierarchical Imitation Learning of Compound Visuomotor Tasks](https://arxiv.org/pdf/1810.11043.pdf)
+
   * [Dendritic cortical microcircuits approximate the backpropagation algorithm](https://arxiv.org/pdf/1810.11393.pdf)
 
   * [Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search](https://arxiv.org/pdf/1810.10659.pdf)
