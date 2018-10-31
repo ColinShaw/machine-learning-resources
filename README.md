@@ -1133,6 +1133,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Reinforcement Learning with Prediction-Based Rewards](https://blog.openai.com/reinforcement-learning-with-prediction-based-rewards/)
+
   * [Training Neural Nets on Larger Batches: Practical Tips for 1-GPU, Multi-GPU & Distributed setups](https://medium.com/huggingface/training-larger-batches-practical-tips-on-1-gpu-multi-gpu-distributed-setups-ec88c3e51255)
 
   * [Drilling Down on Depth Sensing and Deep Learning](https://bair.berkeley.edu/blog/2018/10/23/depth-sensing/)
