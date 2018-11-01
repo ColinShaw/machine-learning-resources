@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [CurriculumNet: Weakly Supervised Learning from Large-Scale Web Images](https://arxiv.org/pdf/1808.01097.pdf)
+
   * [Automatic Poetry Generation with Mutual Reinforcement Learning](http://aclweb.org/anthology/D18-1353)
 
   * [A General Method for Amortizing Variational Filtering](http://www.yisongyue.com/publications/nips2018_filtering.pdf)
