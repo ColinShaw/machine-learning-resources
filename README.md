@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Automatic Poetry Generation with Mutual Reinforcement Learning](http://aclweb.org/anthology/D18-1353)
+
   * [A General Method for Amortizing Variational Filtering](http://www.yisongyue.com/publications/nips2018_filtering.pdf)
 
   * [Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs](https://arxiv.org/pdf/1802.10026.pdf)
