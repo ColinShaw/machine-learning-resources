@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [A General Method for Amortizing Variational Filtering](http://www.yisongyue.com/publications/nips2018_filtering.pdf)
+
   * [Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs](https://arxiv.org/pdf/1802.10026.pdf)
 
   * [Reversible Recurrent Neural Networks](https://arxiv.org/pdf/1810.10999.pdf)
