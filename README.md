@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [SDRL: Interpretable and Data-efficient Deep Reinforcement Learning Leveraging Symbolic Planning](https://arxiv.org/pdf/1811.00090.pdf)
+
   * [CurriculumNet: Weakly Supervised Learning from Large-Scale Web Images](https://arxiv.org/pdf/1808.01097.pdf)
 
   * [Automatic Poetry Generation with Mutual Reinforcement Learning](http://aclweb.org/anthology/D18-1353)
