@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Towards a Simple Approach to Multi-step Model-based Reinforcement Learning](https://arxiv.org/pdf/1811.00128.pdf)
+
   * [HORIZON: FACEBOOK’S OPEN SOURCE APPLIED REINFORCEMENT LEARNING PLATFORM](https://arxiv.org/pdf/1811.00260.pdf)
 
   * [SDRL: Interpretable and Data-efficient Deep Reinforcement Learning Leveraging Symbolic Planning](https://arxiv.org/pdf/1811.00090.pdf)
