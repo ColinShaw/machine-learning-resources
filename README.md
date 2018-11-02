@@ -1353,6 +1353,8 @@ good articles and some other resources.
 
 ## Interesting Online Projects and Tools
 
+  * [DeOldify: A Deep Learning based project for colorizing and restoring old images](https://github.com/jantic/DeOldify)
+
   * [Talos: Hyperparameter Optimization for Keras Models](https://github.com/autonomio/talos)
 
   * [GPyTorch](https://github.com/cornellius-gp/gpytorch)
