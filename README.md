@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [MixTrain: Scalable Training of Formally Robust Neural Networks](https://arxiv.org/pdf/1811.02625.pdf)
+
   * [Bayesian Deep Learning for Exoplanet Atmospheric Retrieval](https://arxiv.org/pdf/1811.03390.pdf)
 
   * [PROGRESSIVE GROWING OF GANS FOR IMPROVED QUALITY, STABILITY, AND VARIATION](https://arxiv.org/pdf/1710.10196.pdf)
