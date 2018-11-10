@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Measuring the Effects of Data Parallelism on Neural Network Training](https://arxiv.org/pdf/1811.03600.pdf)
+
   * [Learning from Demonstration in the Wild](https://arxiv.org/pdf/1811.03516.pdf)
 
   * [Learning Distributed Representations of Symbolic Structure Using Binding and Unbinding Operations](https://arxiv.org/pdf/1810.12456.pdf)
