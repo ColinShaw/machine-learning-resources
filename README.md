@@ -1163,6 +1163,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [InfoGAN: using the variational bound on mutual information (twice)](https://www.inference.vc/infogan-variational-bound-on-mutual-information-twice/)
+
   * [Introducing AdaNet: Fast and Flexible AutoML with Learning Guarantees](https://ai.googleblog.com/2018/10/introducing-adanet-fast-and-flexible.html?m=1)
 
   * [Reinforcement Learning with Prediction-Based Rewards](https://blog.openai.com/reinforcement-learning-with-prediction-based-rewards/)
