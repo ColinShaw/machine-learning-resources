@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [FloWaveNet : A Generative Flow for Raw Audio](https://arxiv.org/pdf/1811.02155.pdf)
+
   * [Measuring the Effects of Data Parallelism on Neural Network Training](https://arxiv.org/pdf/1811.03600.pdf)
 
   * [Learning from Demonstration in the Wild](https://arxiv.org/pdf/1811.03516.pdf)
