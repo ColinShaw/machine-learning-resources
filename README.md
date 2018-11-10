@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [PROGRESSIVE GROWING OF GANS FOR IMPROVED QUALITY, STABILITY, AND VARIATION](https://arxiv.org/pdf/1710.10196.pdf)
+
   * [Are Deep Policy Gradient Algorithms Truly Policy Gradient Algorithms?](https://arxiv.org/pdf/1811.02553.pdf)
 
   * [FloWaveNet : A Generative Flow for Raw Audio](https://arxiv.org/pdf/1811.02155.pdf)
