@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Activation Functions: Comparison of Trends in Practice and Research for Deep Learning](https://arxiv.org/pdf/1811.03378.pdf)
+
   * [MixTrain: Scalable Training of Formally Robust Neural Networks](https://arxiv.org/pdf/1811.02625.pdf)
 
   * [Bayesian Deep Learning for Exoplanet Atmospheric Retrieval](https://arxiv.org/pdf/1811.03390.pdf)
