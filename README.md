@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [The RLLChatbot: a solution to the ConvAI challenge](https://arxiv.org/pdf/1811.02714.pdf)
+
   * [Pipe-SGD: A Decentralized Pipelined SGD Framework for Distributed Deep Net Training](https://arxiv.org/pdf/1811.03619.pdf)
 
   * [Activation Functions: Comparison of Trends in Practice and Research for Deep Learning](https://arxiv.org/pdf/1811.03378.pdf)
