@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Pipe-SGD: A Decentralized Pipelined SGD Framework for Distributed Deep Net Training](https://arxiv.org/pdf/1811.03619.pdf)
+
   * [Activation Functions: Comparison of Trends in Practice and Research for Deep Learning](https://arxiv.org/pdf/1811.03378.pdf)
 
   * [MixTrain: Scalable Training of Formally Robust Neural Networks](https://arxiv.org/pdf/1811.02625.pdf)
