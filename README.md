@@ -1177,6 +1177,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Back-propagation - Math Simplified](https://github.com/DebPanigrahi/Machine-Learning/blob/master/back_prop.ipynb)
+
   * [Mastering The New Generation of Gradient Boosting](https://www.kdnuggets.com/2018/11/mastering-new-generation-gradient-boosting.html)
 
   * [InfoGAN: using the variational bound on mutual information (twice)](https://www.inference.vc/infogan-variational-bound-on-mutual-information-twice/)
