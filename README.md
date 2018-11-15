@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Complex-YOLO: An Euler-Region-Proposal for Real-time 3D Object Detection on Point Clouds](https://arxiv.org/pdf/1803.06199.pdf)
+
   * [Controllable Neural Story Generation via Reinforcement Learning](https://arxiv.org/pdf/1809.10736.pdf)
 
   * [Extending Pretrained Segmentation Networks with Additional Anatomical Structures](https://arxiv.org/pdf/1811.04634.pdf)
