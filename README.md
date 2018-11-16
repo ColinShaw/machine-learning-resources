@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [ImageNet/ResNet-50 Training in 224 Seconds](https://arxiv.org/pdf/1811.05233.pdf)
+
   * [A Convergence Theory for Deep Learning via Over-Parameterization](https://arxiv.org/pdf/1811.03962.pdf)
 
   * [Guided Dropout](http://iab-rubric.org/papers/AAAI_2019_guided-dropout-final_vs4.pdf)
