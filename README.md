@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [FUSIONSTITCHING: DEEP FUSION AND CODE GENERATION FOR TENSORFLOW COMPUTATIONS ON GPUS](https://arxiv.org/pdf/1811.05213.pdf)
+
   * [ON THE STATISTICAL AND INFORMATION-THEORETIC CHARACTERISTICS OF DEEP NETWORK REPRESENTATIONS](https://arxiv.org/pdf/1811.03666.pdf)
 
   * [ImageNet/ResNet-50 Training in 224 Seconds](https://arxiv.org/pdf/1811.05233.pdf)
