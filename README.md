@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [A Hierarchical Multi-task Approach for Learning Embeddings from Semantic Tasks](https://arxiv.org/pdf/1811.06031.pdf)
+
   * [FUSIONSTITCHING: DEEP FUSION AND CODE GENERATION FOR TENSORFLOW COMPUTATIONS ON GPUS](https://arxiv.org/pdf/1811.05213.pdf)
 
   * [ON THE STATISTICAL AND INFORMATION-THEORETIC CHARACTERISTICS OF DEEP NETWORK REPRESENTATIONS](https://arxiv.org/pdf/1811.03666.pdf)
