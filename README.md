@@ -1189,6 +1189,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Preprocessing for deep learning: from covariance matrix to image whitening](https://hadrienj.github.io/posts/Preprocessing-for-deep-learning/)
+
   * [Back-propagation - Math Simplified](https://github.com/DebPanigrahi/Machine-Learning/blob/master/back_prop.ipynb)
 
   * [Mastering The New Generation of Gradient Boosting](https://www.kdnuggets.com/2018/11/mastering-new-generation-gradient-boosting.html)
