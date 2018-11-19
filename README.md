@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism](https://arxiv.org/pdf/1811.06965.pdf)
+
   * [A Hierarchical Multi-task Approach for Learning Embeddings from Semantic Tasks](https://arxiv.org/pdf/1811.06031.pdf)
 
   * [FUSIONSTITCHING: DEEP FUSION AND CODE GENERATION FOR TENSORFLOW COMPUTATIONS ON GPUS](https://arxiv.org/pdf/1811.05213.pdf)
