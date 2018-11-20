@@ -1189,6 +1189,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Unsupervised Neural Networks Fight in a Minimax Game](http://people.idsia.ch/~juergen/unsupervised-neural-nets-fight-minimax-game.html)
+
   * [Preprocessing for deep learning: from covariance matrix to image whitening](https://hadrienj.github.io/posts/Preprocessing-for-deep-learning/)
 
   * [Back-propagation - Math Simplified](https://github.com/DebPanigrahi/Machine-Learning/blob/master/back_prop.ipynb)
