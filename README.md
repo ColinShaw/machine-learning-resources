@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Solving Imperfect-Information Games via Discounted Regret Minimization](https://arxiv.org/pdf/1809.04040.pdf)
+
   * [Stochastic Adaptive Neural Architecture Search for Keyword Spotting](https://arxiv.org/pdf/1811.06753.pdf)
 
   * [GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism](https://arxiv.org/pdf/1811.06965.pdf)
