@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [DeepMasterPrints: Generating MasterPrints for Dictionary Attacks via Latent Variable Evolution](https://arxiv.org/pdf/1705.07386.pdf)
+
   * [Curiosity Driven Exploration of Learned Disentangled Goal Spaces](https://arxiv.org/pdf/1807.01521.pdf)
 
   * [CariGANs: Unpaired Photo-to-Caricature Translation](http://ai.stanford.edu/~kaidicao/carigan.pdf)
