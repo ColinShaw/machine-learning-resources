@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Human-like machine learning: limitations and suggestions](https://arxiv.org/pdf/1811.06052.pdf)
+
   * [WOULDA, COULDA, SHOULDA: COUNTERFACTUALLY-GUIDED POLICY SEARCH](https://arxiv.org/pdf/1811.06272.pdf)
 
   * [Learning Latent Dynamics for Planning from Pixels](https://arxiv.org/pdf/1811.04551.pdf)
