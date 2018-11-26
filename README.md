@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Curiosity Driven Exploration of Learned Disentangled Goal Spaces](https://arxiv.org/pdf/1807.01521.pdf)
+
   * [CariGANs: Unpaired Photo-to-Caricature Translation](http://ai.stanford.edu/~kaidicao/carigan.pdf)
 
   * [Physical Signal Classification Via Deep Neural Networks](https://arxiv.org/ftp/arxiv/papers/1811/1811.06349.pdf)
