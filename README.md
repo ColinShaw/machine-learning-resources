@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Deep Learning can Replicate Adaptive Traders in a Limit-Order-Book Financial Market](https://arxiv.org/ftp/arxiv/papers/1811/1811.02880.pdf)
+
   * [Human-like machine learning: limitations and suggestions](https://arxiv.org/pdf/1811.06052.pdf)
 
   * [WOULDA, COULDA, SHOULDA: COUNTERFACTUALLY-GUIDED POLICY SEARCH](https://arxiv.org/pdf/1811.06272.pdf)
