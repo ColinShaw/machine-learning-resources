@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Stochastic Gradient Descent Optimizes Over-parameterized Deep ReLU Networks](https://arxiv.org/pdf/1811.08888.pdf)
+
   * [Predicting Diabetes Disease Evolution Using Financial Records and Recurrent Neural Networks](https://arxiv.org/pdf/1811.09350.pdf)
 
   * [Retina U-Net: Embarrassingly Simple Exploitation of Segmentation Supervision for Medical Object Detection](https://arxiv.org/pdf/1811.08661v1.pdf)
