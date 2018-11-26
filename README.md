@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Retina U-Net: Embarrassingly Simple Exploitation of Segmentation Supervision for Medical Object Detection](https://arxiv.org/pdf/1811.08661v1.pdf)
+
   * [Solving Imperfect-Information Games via Discounted Regret Minimization](https://arxiv.org/pdf/1809.04040.pdf)
 
   * [Stochastic Adaptive Neural Architecture Search for Keyword Spotting](https://arxiv.org/pdf/1811.06753.pdf)
