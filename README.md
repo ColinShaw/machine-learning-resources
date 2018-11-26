@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [ADAPTIVE NEURAL TREES](https://arxiv.org/pdf/1807.06699.pdf)
+
   * [Stochastic Gradient Descent Optimizes Over-parameterized Deep ReLU Networks](https://arxiv.org/pdf/1811.08888.pdf)
 
   * [Predicting Diabetes Disease Evolution Using Financial Records and Recurrent Neural Networks](https://arxiv.org/pdf/1811.09350.pdf)
