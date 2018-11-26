@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Stochastic Deep Networks](https://arxiv.org/pdf/1811.07429.pdf)
+
   * [ADAPTIVE NEURAL TREES](https://arxiv.org/pdf/1807.06699.pdf)
 
   * [Stochastic Gradient Descent Optimizes Over-parameterized Deep ReLU Networks](https://arxiv.org/pdf/1811.08888.pdf)
