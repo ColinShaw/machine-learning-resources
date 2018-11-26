@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Learning Latent Dynamics for Planning from Pixels](https://arxiv.org/pdf/1811.04551.pdf)
+
   * [DeepMasterPrints: Generating MasterPrints for Dictionary Attacks via Latent Variable Evolution](https://arxiv.org/pdf/1705.07386.pdf)
 
   * [Curiosity Driven Exploration of Learned Disentangled Goal Spaces](https://arxiv.org/pdf/1807.01521.pdf)
