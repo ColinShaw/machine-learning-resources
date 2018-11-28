@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Statistical physics of liquid brains](https://www.biorxiv.org/content/biorxiv/early/2018/11/26/478412.full.pdf)
+
   * [Focal Loss for Dense Object Detection](https://arxiv.org/pdf/1708.02002.pdf)
 
   * [Interpretable Convolutional Filters with SincNet](https://arxiv.org/pdf/1811.09725.pdf)
