@@ -1221,6 +1221,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [WaveNet: Google Assistant’s Voice Synthesizer](https://towardsdatascience.com/wavenet-google-assistants-voice-synthesizer-a168e9af13b1)
+
   * [Unsupervised Neural Networks Fight in a Minimax Game](http://people.idsia.ch/~juergen/unsupervised-neural-nets-fight-minimax-game.html)
 
   * [Preprocessing for deep learning: from covariance matrix to image whitening](https://hadrienj.github.io/posts/Preprocessing-for-deep-learning/)
