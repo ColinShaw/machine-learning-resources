@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [THE VARIATIONAL FAIR AUTOENCODER](https://arxiv.org/pdf/1511.00830.pdf)
+  
   * [Statistical physics of liquid brains](https://www.biorxiv.org/content/biorxiv/early/2018/11/26/478412.full.pdf)
 
   * [Focal Loss for Dense Object Detection](https://arxiv.org/pdf/1708.02002.pdf)
