@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Leveraging Financial News for Stock Trend Prediction with Attention-Based Recurrent Neural Network](https://arxiv.org/pdf/1811.06173.pdf)
+
   * [Spatio-temporal Stacked LSTM for Temperature Prediction in Weather Forecasting](https://arxiv.org/pdf/1811.06341.pdf)
 
   * [Collaging on Internal Representations: An Intuitive Approach for Semantic Transfiguration](https://arxiv.org/pdf/1811.10153.pdf)
