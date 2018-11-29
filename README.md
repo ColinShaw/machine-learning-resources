@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Matching Features without Descriptors: Implicitly Matched Interest Points (IMIPs)](https://arxiv.org/pdf/1811.10681.pdf)
+
   * [Partial Convolution based Padding](https://arxiv.org/pdf/1811.11718.pdf)
 
   * [THE VARIATIONAL FAIR AUTOENCODER](https://arxiv.org/pdf/1511.00830.pdf)
