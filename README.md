@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Partial Convolution based Padding](https://arxiv.org/pdf/1811.11718.pdf)
+
   * [THE VARIATIONAL FAIR AUTOENCODER](https://arxiv.org/pdf/1511.00830.pdf)
   
   * [Statistical physics of liquid brains](https://www.biorxiv.org/content/biorxiv/early/2018/11/26/478412.full.pdf)
