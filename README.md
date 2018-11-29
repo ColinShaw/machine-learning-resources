@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Collaging on Internal Representations: An Intuitive Approach for Semantic Transfiguration](https://arxiv.org/pdf/1811.10153.pdf)
+
   * [Matching Features without Descriptors: Implicitly Matched Interest Points (IMIPs)](https://arxiv.org/pdf/1811.10681.pdf)
 
   * [Partial Convolution based Padding](https://arxiv.org/pdf/1811.11718.pdf)
