@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Strike (with) a Pose: Neural Networks Are Easily Fooled by Strange Poses of Familiar Objects](https://arxiv.org/pdf/1811.11553.pdf)
+
   * [Robust Artificial Intelligence and Robust Human Organizations](https://arxiv.org/pdf/1811.10840.pdf)
 
   * [Leveraging Financial News for Stock Trend Prediction with Attention-Based Recurrent Neural Network](https://arxiv.org/pdf/1811.06173.pdf)
