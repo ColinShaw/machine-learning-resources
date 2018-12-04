@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Macro action selection with deep reinforcement learning in StarCraft](https://arxiv.org/pdf/1812.00336.pdf)
+
   * [Strike (with) a Pose: Neural Networks Are Easily Fooled by Strange Poses of Familiar Objects](https://arxiv.org/pdf/1811.11553.pdf)
 
   * [Robust Artificial Intelligence and Robust Human Organizations](https://arxiv.org/pdf/1811.10840.pdf)
