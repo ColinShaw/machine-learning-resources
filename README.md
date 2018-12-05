@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Residual Dense Network for Image Super-Resolution](https://arxiv.org/pdf/1802.08797.pdf)
+
   * [Predicting Opioid Relapse Using Social Media Data](https://arxiv.org/pdf/1811.12169.pdf)
 
   * [Non-Stationary Model for Crime Rate Inference Using Modern Urban Data](https://uploads.strikinglycdn.com/files/81beaa5a-2de8-4cc4-aafc-50bebcfd64f7/tbd_final.pdf)
