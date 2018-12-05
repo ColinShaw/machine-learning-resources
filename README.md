@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Deep Cosine Metric Learning for Person Re-Identification](https://arxiv.org/pdf/1812.00442.pdf)
+
   * [Recurrent Relational Networks](https://arxiv.org/pdf/1711.08028.pdf)
 
   * [Macro action selection with deep reinforcement learning in StarCraft](https://arxiv.org/pdf/1812.00336.pdf)
