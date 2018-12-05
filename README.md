@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [How Does Batch Normalization Help Optimization?](https://arxiv.org/pdf/1805.11604.pdf)
+
   * [Residual Dense Network for Image Super-Resolution](https://arxiv.org/pdf/1802.08797.pdf)
 
   * [Predicting Opioid Relapse Using Social Media Data](https://arxiv.org/pdf/1811.12169.pdf)
