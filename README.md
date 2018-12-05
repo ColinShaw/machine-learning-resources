@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Non-Stationary Model for Crime Rate Inference Using Modern Urban Data](https://uploads.strikinglycdn.com/files/81beaa5a-2de8-4cc4-aafc-50bebcfd64f7/tbd_final.pdf)
+
   * [Deep Cosine Metric Learning for Person Re-Identification](https://arxiv.org/pdf/1812.00442.pdf)
 
   * [Recurrent Relational Networks](https://arxiv.org/pdf/1711.08028.pdf)
