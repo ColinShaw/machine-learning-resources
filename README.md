@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Learning to Reason with Third-Order Tensor Products](https://arxiv.org/pdf/1811.12143.pdf)
+
   * [Playing hard exploration games by watching YouTube](https://papers.nips.cc/paper/7557-playing-hard-exploration-games-by-watching-youtube.pdf)
 
   * [Learning to Infer Graphics Programs from Hand-Drawn Images](https://arxiv.org/pdf/1707.09627.pdf)
