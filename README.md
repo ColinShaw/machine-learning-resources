@@ -1261,6 +1261,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [A Few Unusual Autoencoders](https://colinraffel.com/talks/vector2018few.pdf)
+
   * [WaveNet: Google Assistant’s Voice Synthesizer](https://towardsdatascience.com/wavenet-google-assistants-voice-synthesizer-a168e9af13b1)
 
   * [Unsupervised Neural Networks Fight in a Minimax Game](http://people.idsia.ch/~juergen/unsupervised-neural-nets-fight-minimax-game.html)
