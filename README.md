@@ -1261,6 +1261,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [State of Deep Learning : H2 2018 Review](https://medium.com/atlas-ml/state-of-deep-learning-h2-2018-review-cc3e490f1679)
+
   * [A Few Unusual Autoencoders](https://colinraffel.com/talks/vector2018few.pdf)
 
   * [WaveNet: Google Assistant’s Voice Synthesizer](https://towardsdatascience.com/wavenet-google-assistants-voice-synthesizer-a168e9af13b1)
