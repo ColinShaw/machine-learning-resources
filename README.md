@@ -61,6 +61,9 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+
+  * [Learning to Infer Graphics Programs from Hand-Drawn Images](https://arxiv.org/pdf/1707.09627.pdf)
+
   * [LEARNING SPEAKER REPRESENTATIONS WITH MUTUAL INFORMATION](https://arxiv.org/pdf/1812.00271.pdf)
 
   * [How Does Batch Normalization Help Optimization?](https://arxiv.org/pdf/1805.11604.pdf)
