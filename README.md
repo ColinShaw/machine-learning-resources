@@ -1263,6 +1263,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Deep Learning with Electronic Health Record (EHR) Systems](https://goku.me/blog/EHR)
+
   * [Lossless Triplet loss](https://towardsdatascience.com/lossless-triplet-loss-7e932f990b24)
 
   * [State of Deep Learning : H2 2018 Review](https://medium.com/atlas-ml/state-of-deep-learning-h2-2018-review-cc3e490f1679)
