@@ -1263,6 +1263,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [How to recognize fake AI-generated images](https://medium.com/@kcimc/how-to-recognize-fake-ai-generated-images-4d1f6f9a2842)
+
   * [Deep Learning with Electronic Health Record (EHR) Systems](https://goku.me/blog/EHR)
 
   * [Lossless Triplet loss](https://towardsdatascience.com/lossless-triplet-loss-7e932f990b24)
