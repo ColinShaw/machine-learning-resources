@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [LEARNING SPEAKER REPRESENTATIONS WITH MUTUAL INFORMATION](https://arxiv.org/pdf/1812.00271.pdf)
+
   * [How Does Batch Normalization Help Optimization?](https://arxiv.org/pdf/1805.11604.pdf)
 
   * [Residual Dense Network for Image Super-Resolution](https://arxiv.org/pdf/1802.08797.pdf)
