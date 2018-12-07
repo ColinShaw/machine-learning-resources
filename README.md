@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Machine learning & artificial intelligence in the quantum domain](https://arxiv.org/pdf/1709.02779.pdf)
+
   * [GAN DISSECTION: VISUALIZING AND UNDERSTANDING GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/pdf/1811.10597.pdf)
 
   * [Learning to Reason with Third-Order Tensor Products](https://arxiv.org/pdf/1811.12143.pdf)
