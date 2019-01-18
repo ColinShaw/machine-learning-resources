@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [HOUDINI: Lifelong Learning as Program Synthesis](https://arxiv.org/pdf/1804.00218.pdf)
+
   * [Global Pose Estimation with an Attention-based Recurrent Network](https://arxiv.org/pdf/1802.06857.pdf)
   
   * [ON THE TURING COMPLETENESS OF MODERN NEURAL NETWORK ARCHITECTURES](https://openreview.net/pdf?id=HyGBdo0qFm)
