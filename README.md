@@ -1301,6 +1301,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [From GAN to WGAN](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html)
+
   * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 
   * [A sane introduction to maximum likelihood estimation (MLE) and maximum a posteriori (MAP)](http://blog.christianperone.com/2019/01/a-sane-introduction-to-maximum-likelihood-estimation-mle-and-maximum-a-posteriori-map/)
