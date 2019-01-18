@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
+
   * [Trying to Understand Recurrent Neural Networks for Language Processing](http://u.cs.biu.ac.il/~yogo/blackbox2018.pdf)
 
   * [How deep is deep enough? - Optimizing deep neural network architecture](https://arxiv.org/pdf/1811.01753.pdf)
