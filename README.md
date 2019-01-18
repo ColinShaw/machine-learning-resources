@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Deep Modeling Complex Couplings within Financial Markets](https://pdfs.semanticscholar.org/6466/650d45a97941e9b583a84db1a734746016dc.pdf)
+
   * [TF-Ranking: Scalable TensorFlow Library for Learning-to-Rank](https://arxiv.org/pdf/1812.00073.pdf)
 
   * [SlowFast Networks for Video Recognition](https://arxiv.org/pdf/1812.03982.pdf)
