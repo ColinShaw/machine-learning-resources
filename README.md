@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [ClickBAIT-v2: Training an Object Detector in Real-Time](https://arxiv.org/pdf/1803.10358.pdf)
+
   * [OBJECT DETECTION BASED ON LIDAR TEMPORAL PULSES USING SPIKING NEURAL NETWORKS](https://arxiv.org/pdf/1810.12436.pdf)
 
   * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
