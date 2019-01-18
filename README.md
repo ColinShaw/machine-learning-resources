@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Counterfactuals uncover the modular structure of deep generative models](https://arxiv.org/pdf/1812.03253.pdf)
+  
   * [Generative Adversarial Network based Speaker Adaptation for High Fidelity WaveNet Vocoder](https://arxiv.org/pdf/1812.02339.pdf)
 
   * [Random Erasing Data Augmentation](https://arxiv.org/pdf/1708.04896.pdf)
