@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [A case for deep learning in semantics](https://arxiv.org/pdf/1809.03068.pdf)
+
   * [Bayesian Nonparametric Spectral Estimation](https://arxiv.org/pdf/1809.02196.pdf)
 
   * [Visualizing the Loss Landscape of Neural Nets](https://arxiv.org/pdf/1712.09913.pdf)
