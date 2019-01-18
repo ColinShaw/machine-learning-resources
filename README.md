@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Looking to Listen at the Cocktail Party: A Speaker-Independent Audio-Visual Model for Speech Separation](https://arxiv.org/pdf/1804.03619.pdf)
+
   * [VIREL: A Variational Inference Framework for Reinforcement Learning](https://arxiv.org/pdf/1811.01132.pdf)
 
   * [Gradient Descent Finds Global Minima of Deep Neural Networks](https://arxiv.org/pdf/1811.03804.pdf)
