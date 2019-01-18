@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Bayesian Action Decoder for Deep Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/1811.01458.pdf)
+
   * [Deep Semantic Instance Segmentation of Tree-like Structures Using Synthetic Data](https://arxiv.org/pdf/1811.03208.pdf)
 
   * [Looking to Listen at the Cocktail Party: A Speaker-Independent Audio-Visual Model for Speech Separation](https://arxiv.org/pdf/1804.03619.pdf)
