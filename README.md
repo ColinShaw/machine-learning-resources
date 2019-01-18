@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [How deep is deep enough? - Optimizing deep neural network architecture](https://arxiv.org/pdf/1811.01753.pdf)
+
   * [Bayesian Action Decoder for Deep Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/1811.01458.pdf)
 
   * [Deep Semantic Instance Segmentation of Tree-like Structures Using Synthetic Data](https://arxiv.org/pdf/1811.03208.pdf)
