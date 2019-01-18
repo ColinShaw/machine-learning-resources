@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [QT-Opt: Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation](https://arxiv.org/pdf/1806.10293.pdf)
+
   * [Differentiable MPC for End-to-end Planning and Control](https://arxiv.org/pdf/1810.13400.pdf)
 
   * [Implicit Self-Regularization in Deep Neural Networks: Evidence from Random Matrix Theory and Implications for Learning](https://arxiv.org/pdf/1810.01075.pdf)
