@@ -1559,6 +1559,8 @@ good articles and some other resources.
 
 ## Interesting Online Projects and Tools
 
+  * [faiss](https://github.com/facebookresearch/faiss)
+
   * [NVIDIA Apex: Tools for Easy Mixed-Precision Training in PyTorch](https://devblogs.nvidia.com/apex-pytorch-easy-mixed-precision-training/)
 
   * [DeOldify: A Deep Learning based project for colorizing and restoring old images](https://github.com/jantic/DeOldify)
