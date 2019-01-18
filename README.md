@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [LayoutNet: Reconstructing the 3D Room Layout from a Single RGB Image](https://arxiv.org/pdf/1803.08999.pdf)
+
   * [Object Detection in Equirectangular Panorama](https://arxiv.org/pdf/1805.08009.pdf)
 
   * [Negative Update Intervals in Deep Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/1809.05096.pdf)
