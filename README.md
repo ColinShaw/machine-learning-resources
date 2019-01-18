@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [THE DEEP WEIGHT PRIOR](https://arxiv.org/pdf/1810.06943.pdf)
+
   * [Generation Meets Recommendation: Proposing Novel Items for Groups of Users](https://arxiv.org/pdf/1808.01199.pdf)
 
   * [Deep Variational Reinforcement Learning for POMDPs](https://arxiv.org/pdf/1806.02426.pdf)
