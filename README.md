@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [OBJECT DETECTION BASED ON LIDAR TEMPORAL PULSES USING SPIKING NEURAL NETWORKS](https://arxiv.org/pdf/1810.12436.pdf)
+
   * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
 
   * [Trying to Understand Recurrent Neural Networks for Language Processing](http://u.cs.biu.ac.il/~yogo/blackbox2018.pdf)
