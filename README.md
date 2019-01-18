@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Negative Update Intervals in Deep Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/1809.05096.pdf)
+
   * [A case for deep learning in semantics](https://arxiv.org/pdf/1809.03068.pdf)
 
   * [Bayesian Nonparametric Spectral Estimation](https://arxiv.org/pdf/1809.02196.pdf)
