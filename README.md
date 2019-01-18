@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [A Probabilistic U-Net for Segmentation of Ambiguous Images](https://arxiv.org/pdf/1806.05034.pdf)
+
   * [A Theoretical Analysis of Deep Q-Learning](https://arxiv.org/pdf/1901.00137.pdf)
 
   * [A Tutorial on Deep Latent Variable Models of Natural Language](https://arxiv.org/pdf/1812.06834.pdf)
