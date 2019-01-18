@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Random Erasing Data Augmentation](https://arxiv.org/pdf/1708.04896.pdf)
+
   * [From Recognition to Cognition: Visual Commonsense Reasoning](https://arxiv.org/pdf/1811.10830.pdf)
 
   * [On Challenges in Machine Learning Model Management](http://sites.computer.org/debull/A18dec/p5.pdf)
