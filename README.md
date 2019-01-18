@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Complex-YOLO: Real-time 3D Object Detection on Point Clouds](https://arxiv.org/pdf/1803.06199.pdf)
+
   * [A Probabilistic U-Net for Segmentation of Ambiguous Images](https://arxiv.org/pdf/1806.05034.pdf)
 
   * [A Theoretical Analysis of Deep Q-Learning](https://arxiv.org/pdf/1901.00137.pdf)
