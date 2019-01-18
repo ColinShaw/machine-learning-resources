@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Deep Variational Reinforcement Learning for POMDPs](https://arxiv.org/pdf/1806.02426.pdf)
+
   * [Intrinsic Social Motivation via Causal Influence in Multi-Agent RL](https://arxiv.org/pdf/1810.08647.pdf)
 
   * [Semi-supervised Tensor Factorization for Brain Network Analysis](https://www.cs.uic.edu/~bcao1/doc/ecmlpkdd16a.pdf)
