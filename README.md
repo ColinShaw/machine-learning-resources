@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Gated-Dilated Networks for Lung Nodule Classification in CT scans](https://arxiv.org/pdf/1901.00120.pdf)
+
   * [Explanatory Graphs for CNNs](https://arxiv.org/pdf/1812.07997.pdf)
 
   * [Machine learning & artificial intelligence in the quantum domain](https://arxiv.org/pdf/1709.02779.pdf)
