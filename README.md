@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Generative Adversarial Network based Speaker Adaptation for High Fidelity WaveNet Vocoder](https://arxiv.org/pdf/1812.02339.pdf)
+
   * [Random Erasing Data Augmentation](https://arxiv.org/pdf/1708.04896.pdf)
 
   * [From Recognition to Cognition: Visual Commonsense Reasoning](https://arxiv.org/pdf/1811.10830.pdf)
