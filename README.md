@@ -1311,6 +1311,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Hierarchical Bayesian Neural Networks with Informative Priors](https://twiecki.github.io/blog/2018/08/13/hierarchical_bayesian_neural_network/)
+
   * [From GAN to WGAN](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html)
 
   * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
