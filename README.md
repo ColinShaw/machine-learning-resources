@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [On Challenges in Machine Learning Model Management](http://sites.computer.org/debull/A18dec/p5.pdf)
+
   * [Deep Learning with Mixed Supervision for Brain Tumor Segmentation](https://arxiv.org/pdf/1812.04571.pdf)
 
   * [Complex-YOLO: Real-time 3D Object Detection on Point Clouds](https://arxiv.org/pdf/1803.06199.pdf)
