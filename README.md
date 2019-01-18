@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [TF-Ranking: Scalable TensorFlow Library for Learning-to-Rank](https://arxiv.org/pdf/1812.00073.pdf)
+
   * [SlowFast Networks for Video Recognition](https://arxiv.org/pdf/1812.03982.pdf)
 
   * [Counterfactuals uncover the modular structure of deep generative models](https://arxiv.org/pdf/1812.03253.pdf)
