@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [VIREL: A Variational Inference Framework for Reinforcement Learning](https://arxiv.org/pdf/1811.01132.pdf)
+
   * [Gradient Descent Finds Global Minima of Deep Neural Networks](https://arxiv.org/pdf/1811.03804.pdf)
 
   * [Zero-Shot Learning via Latent Space Encoding](https://arxiv.org/pdf/1712.09300.pdf)
