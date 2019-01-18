@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Progressive Neural Architecture Search](https://arxiv.org/pdf/1712.00559.pdf)
+
   * [POINCARE ́ GLOVE: HYPERBOLIC WORD EMBEDDINGS](https://arxiv.org/pdf/1810.06546v1.pdf)
 
   * [THE DEEP WEIGHT PRIOR](https://arxiv.org/pdf/1810.06943.pdf)
