@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [A Theoretical Analysis of Deep Q-Learning](https://arxiv.org/pdf/1901.00137.pdf)
+
   * [A Tutorial on Deep Latent Variable Models of Natural Language](https://arxiv.org/pdf/1812.06834.pdf)
 
   * [Analogues of mental simulation and imagination in deep learning](https://www.sciencedirect.com/science/article/pii/S2352154618301670/pdfft?md5=bcde82492553acf023fe41527b4f13ee&pid=1-s2.0-S2352154618301670-main.pdf)
