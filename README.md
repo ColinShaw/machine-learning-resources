@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Generation Meets Recommendation: Proposing Novel Items for Groups of Users](https://arxiv.org/pdf/1808.01199.pdf)
+
   * [Deep Variational Reinforcement Learning for POMDPs](https://arxiv.org/pdf/1806.02426.pdf)
 
   * [Intrinsic Social Motivation via Causal Influence in Multi-Agent RL](https://arxiv.org/pdf/1810.08647.pdf)
