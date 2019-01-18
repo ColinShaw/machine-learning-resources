@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Neural Ordinary Differential Equations](https://arxiv.org/pdf/1806.07366.pdf)
+
   * [Gated-Dilated Networks for Lung Nodule Classification in CT scans](https://arxiv.org/pdf/1901.00120.pdf)
 
   * [Explanatory Graphs for CNNs](https://arxiv.org/pdf/1812.07997.pdf)
