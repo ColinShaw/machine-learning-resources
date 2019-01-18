@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Glow: Generative Flow with Invertible 1×1 Convolutions](https://d4mucfpksywv.cloudfront.net/research-covers/glow/paper/glow.pdf)
+
   * [Learning to Pivot with Adversarial Networks](https://arxiv.org/pdf/1611.01046.pdf)
 
   * [Residual Dense Network for Image Super-Resolution](https://arxiv.org/pdf/1802.08797.pdf)
