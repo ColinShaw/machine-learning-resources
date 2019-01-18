@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Semi-supervised Tensor Factorization for Brain Network Analysis](https://www.cs.uic.edu/~bcao1/doc/ecmlpkdd16a.pdf)
+
   * [QT-Opt: Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation](https://arxiv.org/pdf/1806.10293.pdf)
 
   * [Differentiable MPC for End-to-end Planning and Control](https://arxiv.org/pdf/1810.13400.pdf)
