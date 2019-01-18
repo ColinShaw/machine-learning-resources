@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Bayesian Nonparametric Spectral Estimation](https://arxiv.org/pdf/1809.02196.pdf)
+
   * [Visualizing the Loss Landscape of Neural Nets](https://arxiv.org/pdf/1712.09913.pdf)
 
   * [HOUDINI: Lifelong Learning as Program Synthesis](https://arxiv.org/pdf/1804.00218.pdf)
