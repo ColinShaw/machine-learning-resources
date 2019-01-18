@@ -1277,6 +1277,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [A sane introduction to maximum likelihood estimation (MLE) and maximum a posteriori (MAP)](http://blog.christianperone.com/2019/01/a-sane-introduction-to-maximum-likelihood-estimation-mle-and-maximum-a-posteriori-map/)
+
   * [How to recognize fake AI-generated images](https://medium.com/@kcimc/how-to-recognize-fake-ai-generated-images-4d1f6f9a2842)
 
   * [Deep Learning with Electronic Health Record (EHR) Systems](https://goku.me/blog/EHR)
