@@ -1359,6 +1359,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Neural Networks, Manifolds, and Topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
+
   * [Adversarial learning meets graphs](https://www.cl.cam.ac.uk/~pv273/slides/MILA-AdvGraph.pdf)
 
   * [Hierarchical Bayesian Neural Networks with Informative Priors](https://twiecki.github.io/blog/2018/08/13/hierarchical_bayesian_neural_network/)
