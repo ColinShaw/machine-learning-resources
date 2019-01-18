@@ -1367,6 +1367,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [A (Long) Peek into Reinforcement Learning](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html)
+
   * [Neural Networks, Manifolds, and Topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
 
   * [Adversarial learning meets graphs](https://www.cl.cam.ac.uk/~pv273/slides/MILA-AdvGraph.pdf)
