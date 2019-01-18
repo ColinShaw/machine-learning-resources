@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Zero-Shot Learning via Latent Space Encoding](https://arxiv.org/pdf/1712.09300.pdf)
+
   * [Inducing Interpretable Representations with Variational Autoencoders](https://arxiv.org/pdf/1611.07492.pdf)
 
   * [Glow: Generative Flow with Invertible 1×1 Convolutions](https://d4mucfpksywv.cloudfront.net/research-covers/glow/paper/glow.pdf)
