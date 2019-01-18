@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Object Detection in Equirectangular Panorama](https://arxiv.org/pdf/1805.08009.pdf)
+
   * [Negative Update Intervals in Deep Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/1809.05096.pdf)
 
   * [A case for deep learning in semantics](https://arxiv.org/pdf/1809.03068.pdf)
