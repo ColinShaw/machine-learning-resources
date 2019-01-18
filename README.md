@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Explanatory Graphs for CNNs](https://arxiv.org/pdf/1812.07997.pdf)
+
   * [Machine learning & artificial intelligence in the quantum domain](https://arxiv.org/pdf/1709.02779.pdf)
 
   * [GAN DISSECTION: VISUALIZING AND UNDERSTANDING GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/pdf/1811.10597.pdf)
