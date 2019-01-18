@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Differentiable MPC for End-to-end Planning and Control](https://arxiv.org/pdf/1810.13400.pdf)
+
   * [Implicit Self-Regularization in Deep Neural Networks: Evidence from Random Matrix Theory and Implications for Learning](https://arxiv.org/pdf/1810.01075.pdf)
 
   * [Image Segmentation with A Bounding Box Prior](http://vision.stanford.edu/teaching/cs231b_spring1213/papers/lkrs_iccv09_TR.pdf)
