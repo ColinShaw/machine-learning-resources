@@ -1375,6 +1375,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Word Bags vs Word Sequences for Text Classification](https://towardsdatascience.com/word-bags-vs-word-sequences-for-text-classification-e0222c21d2ec)
+
   * [How to visualize convolutional features in 40 lines of code](https://towardsdatascience.com/how-to-visualize-convolutional-features-in-40-lines-of-code-70b7d87b0030)
 
   * [A (Long) Peek into Reinforcement Learning](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html)
