@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Character-level Convolutional Networks for Text Classification](https://arxiv.org/pdf/1509.01626.pdf)
+
   * [Causal Reasoning from Meta-reinforcement Learning](https://arxiv.org/pdf/1901.08162.pdf)
 
   * [A Constructive Approach for One-Shot Training of Neural Networks Using Hypercube-Based Topological Coverings](https://arxiv.org/pdf/1901.02878v1.pdf)
