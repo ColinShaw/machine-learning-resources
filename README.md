@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Disentangling Disentanglement in Variational Auto-Encoders](https://arxiv.org/pdf/1812.02833.pdf)
+
   * [Deep k-Nearest Neighbors: Towards Confident, Interpretable and Robust Deep Learning](https://arxiv.org/pdf/1803.04765.pdf)
 
   * [Character-level Convolutional Networks for Text Classification](https://arxiv.org/pdf/1509.01626.pdf)
