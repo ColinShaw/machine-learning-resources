@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Deep k-Nearest Neighbors: Towards Confident, Interpretable and Robust Deep Learning](https://arxiv.org/pdf/1803.04765.pdf)
+
   * [Character-level Convolutional Networks for Text Classification](https://arxiv.org/pdf/1509.01626.pdf)
 
   * [Causal Reasoning from Meta-reinforcement Learning](https://arxiv.org/pdf/1901.08162.pdf)
