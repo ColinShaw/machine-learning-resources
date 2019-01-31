@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Robust Recovery Controller for a Quadrupedal Robot using Deep Reinforcement Learning](https://arxiv.org/pdf/1901.07517.pdf)
+
   * [Redundant Perception and State Estimation for Reliable Autonomous Racing](https://arxiv.org/pdf/1809.10099.pdf)
 
   * [Guided Dropout](https://arxiv.org/pdf/1812.03965.pdf)
