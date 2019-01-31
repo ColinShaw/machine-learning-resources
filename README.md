@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Guided Dropout](https://arxiv.org/pdf/1812.03965.pdf)
+
   * [On the Effectiveness of Interval Bound Propagation for Training Verifiably Robust Models](https://arxiv.org/pdf/1810.12715.pdf)
 
   * [Disentangling Disentanglement in Variational Auto-Encoders](https://arxiv.org/pdf/1812.02833.pdf)
