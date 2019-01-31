@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Theories of Error Back-Propagation in the Brain](https://www.cell.com/action/showPdf?pii=S1364-6613%2819%2930012-9)
+
   * [Adversarial Examples Target Topological Holes in Deep Networks](https://arxiv.org/pdf/1901.09496.pdf)
 
   * [Robust Recovery Controller for a Quadrupedal Robot using Deep Reinforcement Learning](https://arxiv.org/pdf/1901.07517.pdf)
