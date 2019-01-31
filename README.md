@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Redundant Perception and State Estimation for Reliable Autonomous Racing](https://arxiv.org/pdf/1809.10099.pdf)
+
   * [Guided Dropout](https://arxiv.org/pdf/1812.03965.pdf)
 
   * [On the Effectiveness of Interval Bound Propagation for Training Verifiably Robust Models](https://arxiv.org/pdf/1810.12715.pdf)
