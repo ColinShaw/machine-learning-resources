@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [MONet: Unsupervised Scene Decomposition and Representation](https://arxiv.org/pdf/1901.11390.pdf)
+
   * [SelectiveNet: A Deep Neural Network with an Integrated Reject Option](https://arxiv.org/pdf/1901.09192.pdf)
 
   * [Theories of Error Back-Propagation in the Brain](https://www.cell.com/action/showPdf?pii=S1364-6613%2819%2930012-9)
