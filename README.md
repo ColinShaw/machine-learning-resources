@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Invertible Residual Networks](https://arxiv.org/pdf/1811.00995.pdf)
+
   * [Deep, Skinny Neural Networks are not Universal Approximators](https://arxiv.org/pdf/1810.00393.pdf)
 
   * [MONet: Unsupervised Scene Decomposition and Representation](https://arxiv.org/pdf/1901.11390.pdf)
