@@ -1397,6 +1397,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Generalized Language Models](https://lilianweng.github.io/lil-log/2019/01/31/generalized-language-models.html)
+
   * [ENet — A Deep Neural Architecture for Real-Time Semantic Segmentation](https://towardsdatascience.com/enet-a-deep-neural-architecture-for-real-time-semantic-segmentation-2baa59cf97e9)
 
   * [Word Bags vs Word Sequences for Text Classification](https://towardsdatascience.com/word-bags-vs-word-sequences-for-text-classification-e0222c21d2ec)
