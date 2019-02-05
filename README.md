@@ -1403,6 +1403,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Troubleshooting Deep Neural Networks](http://josh-tobin.com/assets/pdf/troubleshooting-deep-neural-networks-01-19.pdf)
+
   * [Generalized Language Models](https://lilianweng.github.io/lil-log/2019/01/31/generalized-language-models.html)
 
   * [ENet — A Deep Neural Architecture for Real-Time Semantic Segmentation](https://towardsdatascience.com/enet-a-deep-neural-architecture-for-real-time-semantic-segmentation-2baa59cf97e9)
