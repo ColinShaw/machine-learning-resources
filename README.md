@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [The Hanabi Challenge: A New Frontier for AI Research](https://arxiv.org/pdf/1902.00506.pdf)
+
   * [Towards reconstructing intelligible speech from the human auditory cortex](https://www.nature.com/articles/s41598-018-37359-z.pdf)
 
   * [Invertible Residual Networks](https://arxiv.org/pdf/1811.00995.pdf)
