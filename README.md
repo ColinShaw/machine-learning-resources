@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [TF-REPLICATOR: DISTRIBUTED MACHINE LEARNING FOR RESEARCHERS](https://arxiv.org/pdf/1902.00465.pdf)
+
   * [VAE-GANs for Probabilistic Compressive Image Recovery: Uncertainty Analysis](https://arxiv.org/pdf/1901.11228.pdf)
 
   * [Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet](https://openreview.net/pdf?id=SkfMWhAqYQ)
