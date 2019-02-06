@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [VAE-GANs for Probabilistic Compressive Image Recovery: Uncertainty Analysis](https://arxiv.org/pdf/1901.11228.pdf)
+
   * [Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet](https://openreview.net/pdf?id=SkfMWhAqYQ)
 
   * [The Hanabi Challenge: A New Frontier for AI Research](https://arxiv.org/pdf/1902.00506.pdf)
