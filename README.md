@@ -1407,6 +1407,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Play with Generative Adversarial Networks (GANs) in your browser!](https://poloclub.github.io/ganlab/)
+
   * [Troubleshooting Deep Neural Networks](http://josh-tobin.com/assets/pdf/troubleshooting-deep-neural-networks-01-19.pdf)
 
   * [Generalized Language Models](https://lilianweng.github.io/lil-log/2019/01/31/generalized-language-models.html)
