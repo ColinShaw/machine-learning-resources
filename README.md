@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [A Geometric Perspective on Optimal Representations for Reinforcement Learning](https://arxiv.org/pdf/1901.11530.pdf)
+
   * [TF-REPLICATOR: DISTRIBUTED MACHINE LEARNING FOR RESEARCHERS](https://arxiv.org/pdf/1902.00465.pdf)
 
   * [VAE-GANs for Probabilistic Compressive Image Recovery: Uncertainty Analysis](https://arxiv.org/pdf/1901.11228.pdf)
