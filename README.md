@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Neural Inverse Knitting: From Images to Manufacturing Instructions](https://arxiv.org/pdf/1902.02752.pdf)
+
   * [A Geometric Perspective on Optimal Representations for Reinforcement Learning](https://arxiv.org/pdf/1901.11530.pdf)
 
   * [TF-REPLICATOR: DISTRIBUTED MACHINE LEARNING FOR RESEARCHERS](https://arxiv.org/pdf/1902.00465.pdf)
