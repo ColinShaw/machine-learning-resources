@@ -61,6 +61,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [The Value Function Polytope in Reinforcement Learning](https://arxiv.org/pdf/1901.11524.pdf)
+
   * [Neural Inverse Knitting: From Images to Manufacturing Instructions](https://arxiv.org/pdf/1902.02752.pdf)
 
   * [A Geometric Perspective on Optimal Representations for Reinforcement Learning](https://arxiv.org/pdf/1901.11530.pdf)
