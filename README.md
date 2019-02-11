@@ -51,6 +51,8 @@ good articles and some other resources.
 
 ## Background Literature
 
+  * [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/pdf/1802.01528.pdf)
+
   * [Reinforcement Learning: Second Edition](https://drive.google.com/file/d/1opPSz5AZ_kVa1uWOdOiveNiBFiEOHjkG/view)
 
   * [An Introduction to Probabilistic Programming](https://arxiv.org/pdf/1809.10756.pdf)
