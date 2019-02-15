@@ -63,6 +63,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Backpropamine: training self-modifying neural networks with differentiable neuromodulated plasticity](https://openreview.net/pdf?id=r1lrAiA5Ym)
+
   * [Learning Unsupervised Learning Rules](https://openreview.net/pdf?id=HkNDsiC9KQ)
 
   * [The Value Function Polytope in Reinforcement Learning](https://arxiv.org/pdf/1901.11524.pdf)
