@@ -63,6 +63,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://arxiv.org/pdf/1612.00593.pdf)
+
   * [Backpropamine: training self-modifying neural networks with differentiable neuromodulated plasticity](https://openreview.net/pdf?id=r1lrAiA5Ym)
 
   * [Learning Unsupervised Learning Rules](https://openreview.net/pdf?id=HkNDsiC9KQ)
