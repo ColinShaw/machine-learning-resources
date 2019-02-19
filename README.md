@@ -1427,6 +1427,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
+
   * [Play with Generative Adversarial Networks (GANs) in your browser!](https://poloclub.github.io/ganlab/)
 
   * [Troubleshooting Deep Neural Networks](http://josh-tobin.com/assets/pdf/troubleshooting-deep-neural-networks-01-19.pdf)
