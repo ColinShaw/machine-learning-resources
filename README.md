@@ -63,6 +63,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Knowledge-based Analysis for Mortality Prediction from CT Images](https://arxiv.org/pdf/1902.07687.pdf)
+
   * [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)
 
   * [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://arxiv.org/pdf/1612.00593.pdf)
