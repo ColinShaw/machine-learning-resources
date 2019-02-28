@@ -63,6 +63,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Topology of Learning in Artificial Neural Networks](https://arxiv.org/pdf/1902.08160v1.pdf)
+
   * [EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs](https://arxiv.org/pdf/1902.10191.pdf)
 
   * [Knowledge-based Analysis for Mortality Prediction from CT Images](https://arxiv.org/pdf/1902.07687.pdf)
