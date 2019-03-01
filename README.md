@@ -63,6 +63,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [A Brief Survey of Deep Reinforcement Learning](https://arxiv.org/pdf/1708.05866.pdf)
+
   * [Topology of Learning in Artificial Neural Networks](https://arxiv.org/pdf/1902.08160v1.pdf)
 
   * [EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs](https://arxiv.org/pdf/1902.10191.pdf)
