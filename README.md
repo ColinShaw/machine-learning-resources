@@ -65,6 +65,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism](https://arxiv.org/pdf/1811.06965.pdf)
+
   * [A Brief Survey of Deep Reinforcement Learning](https://arxiv.org/pdf/1708.05866.pdf)
 
   * [Topology of Learning in Artificial Neural Networks](https://arxiv.org/pdf/1902.08160v1.pdf)
