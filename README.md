@@ -67,6 +67,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [TF-REPLICATOR: DISTRIBUTED MACHINE LEARNING FOR RESEARCHERS](https://arxiv.org/pdf/1902.00465.pdf)
+
   * [Bio-LSTM: A Biomechanically Inspired Recurrent Neural Network for 3D Pedestrian Pose and Gait Prediction](https://arxiv.org/pdf/1809.03705.pdf)
 
   * [GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism](https://arxiv.org/pdf/1811.06965.pdf)
