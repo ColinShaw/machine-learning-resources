@@ -51,6 +51,8 @@ good articles and some other resources.
 
 ## Background Literature
 
+  * [Dive into Deep Learning](http://d2l.ai/index.html)
+
   * [Probability Cheatsheet](https://st1.ning.com/topology/rest/1.0/file/get/1021027902?profile=original)
 
   * [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/pdf/1802.01528.pdf)
