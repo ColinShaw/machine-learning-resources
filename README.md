@@ -1441,6 +1441,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Weak Supervision: A New Programming Paradigm for Machine Learning](http://ai.stanford.edu/blog/weak-supervision/)
+
   * [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 
   * [Play with Generative Adversarial Networks (GANs) in your browser!](https://poloclub.github.io/ganlab/)
