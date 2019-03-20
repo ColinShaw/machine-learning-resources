@@ -51,6 +51,8 @@ good articles and some other resources.
 
 ## Background Literature
 
+  * [Intro to Neural Networks](http://lxmls.it.pt/2018/Lecture.fin.pdf)
+
   * [Dive into Deep Learning](http://d2l.ai/index.html)
 
   * [Probability Cheatsheet](https://st1.ning.com/topology/rest/1.0/file/get/1021027902?profile=original)
