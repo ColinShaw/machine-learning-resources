@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Deep Learning based Large Scale Visual Recommendation and Search for E-Commerce](https://arxiv.org/pdf/1703.02344.pdf)
+
   * [Exact Gaussian Processes on a Million Data Points](https://arxiv.org/pdf/1903.08114.pdf)
 
   * [TF-REPLICATOR: DISTRIBUTED MACHINE LEARNING FOR RESEARCHERS](https://arxiv.org/pdf/1902.00465.pdf)
