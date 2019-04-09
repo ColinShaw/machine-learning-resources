@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Robust Multi-agent Counterfactual Prediction](https://arxiv.org/pdf/1904.02235.pdf)
+
   * [Can WiFi Estimate Person Pose?](https://arxiv.org/pdf/1904.00277.pdf)
 
   * [Deep Learning based Large Scale Visual Recommendation and Search for E-Commerce](https://arxiv.org/pdf/1703.02344.pdf)
