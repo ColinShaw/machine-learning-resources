@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [WaveCycleGAN2: Time-domain Neural Post-filter for Speech Waveform Generation](https://arxiv.org/pdf/1904.02892.pdf)
+
   * [Robust Multi-agent Counterfactual Prediction](https://arxiv.org/pdf/1904.02235.pdf)
 
   * [Can WiFi Estimate Person Pose?](https://arxiv.org/pdf/1904.00277.pdf)
