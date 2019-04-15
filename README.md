@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Inferring the quantum density matrix with machine learning](https://arxiv.org/pdf/1904.05903.pdf)
+
   * [WaveCycleGAN2: Time-domain Neural Post-filter for Speech Waveform Generation](https://arxiv.org/pdf/1904.02892.pdf)
 
   * [Robust Multi-agent Counterfactual Prediction](https://arxiv.org/pdf/1904.02235.pdf)
