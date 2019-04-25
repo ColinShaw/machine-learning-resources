@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Improved Precision and Recall Metric for Assessing Generative Models](https://arxiv.org/pdf/1904.06991.pdf)
+
   * [A Deep Journey into Super-resolution: A Survey](https://arxiv.org/pdf/1904.07523.pdf)
 
   * [SEARCHING FOR ACTIVATION FUNCTIONS](https://arxiv.org/pdf/1710.05941v2.pdf)
