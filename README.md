@@ -1475,6 +1475,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Inside 245-5D](http://blog.ezyang.com/2019/05/pytorch-internals/)
+
   * [Weak Supervision: A New Programming Paradigm for Machine Learning](http://ai.stanford.edu/blog/weak-supervision/)
 
   * [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
