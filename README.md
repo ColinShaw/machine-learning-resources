@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [3DPalsyNet: A Facial Palsy Grading and Motion Recognition Framework using Fully 3D Convolutional Neural Networks](https://arxiv.org/ftp/arxiv/papers/1905/1905.13607.pdf)
+
   * [Weight Agnostic Neural Networks](https://arxiv.org/pdf/1906.04358.pdf)
 
   * [Improving the Robustness of Deep Neural Networks via Stability Training](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45227.pdf)
