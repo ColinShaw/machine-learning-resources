@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Multi-Sample Dropout for Accelerated Training and Better Generalization](https://arxiv.org/pdf/1905.09788.pdf)
+
   * [Pre-training Graph Neural Networks](https://arxiv.org/pdf/1905.12265.pdf)
 
   * [https://arxiv.org/pdf/1905.12107.pdf](https://arxiv.org/pdf/1809.10716.pdf)
