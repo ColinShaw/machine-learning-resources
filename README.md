@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [https://arxiv.org/pdf/1905.12107.pdf](https://arxiv.org/pdf/1809.10716.pdf)
+
   * [SpArSe: Sparse Architecture Search for CNNs on Resource-Constrained Microcontrollers](https://arxiv.org/pdf/1905.12107.pdf)
 
   * [DECISION-BASED ADVERSARIAL ATTACKS: RELIABLE ATTACKS AGAINST BLACK-BOX MACHINE LEARNING MODELS](https://arxiv.org/pdf/1712.04248.pdf)
