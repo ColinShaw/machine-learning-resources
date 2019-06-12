@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Weight Agnostic Neural Networks](https://arxiv.org/pdf/1906.04358.pdf)
+
   * [Improving the Robustness of Deep Neural Networks via Stability Training](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45227.pdf)
 
   * [Improved Precision and Recall Metric for Assessing Generative Models](https://arxiv.org/pdf/1904.06991.pdf)
