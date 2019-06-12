@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Pre-training Graph Neural Networks](https://arxiv.org/pdf/1905.12265.pdf)
+
   * [https://arxiv.org/pdf/1905.12107.pdf](https://arxiv.org/pdf/1809.10716.pdf)
 
   * [SpArSe: Sparse Architecture Search for CNNs on Resource-Constrained Microcontrollers](https://arxiv.org/pdf/1905.12107.pdf)
