@@ -1491,6 +1491,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Extreme Rare Event Classification using Autoencoders in Keras](https://towardsdatascience.com/extreme-rare-event-classification-using-autoencoders-in-keras-a565b386f098)
+
   * [A 2017 Guide to Semantic Segmentation with Deep Learning](http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review#deeplabv3)
 
   * [Inside 245-5D](http://blog.ezyang.com/2019/05/pytorch-internals/)
