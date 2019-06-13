@@ -1503,6 +1503,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
+
   * [Extreme Rare Event Classification using Autoencoders in Keras](https://towardsdatascience.com/extreme-rare-event-classification-using-autoencoders-in-keras-a565b386f098)
 
   * [A 2017 Guide to Semantic Segmentation with Deep Learning](http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review#deeplabv3)
