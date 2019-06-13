@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [A 64mW DNN-based Visual Navigation Engine for Autonomous Nano-Drones](https://arxiv.org/pdf/1805.01831.pdf)
+
   * [Unsupervised Monocular Depth Estimation with Left-Right Consistency](https://arxiv.org/pdf/1609.03677.pdf)
 
   * [Self-supervised Learning for Video Correspondence Flow](https://arxiv.org/pdf/1905.00875.pdf)
