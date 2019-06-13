@@ -1503,6 +1503,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Pricing Segmentation and Analytics](http://www.businessexpertpress.com/files/pdfs/10528319.pdf)
+
   * [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
 
   * [Extreme Rare Event Classification using Autoencoders in Keras](https://towardsdatascience.com/extreme-rare-event-classification-using-autoencoders-in-keras-a565b386f098)
