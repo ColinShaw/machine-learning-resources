@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Self-supervised Learning for Video Correspondence Flow](https://arxiv.org/pdf/1905.00875.pdf)
+
   * [Early Action Prediction with Generative Adversarial Networks](https://arxiv.org/pdf/1904.13085.pdf)
 
   * [PR Product: A Substitute for Inner Product in Neural Networks](https://arxiv.org/pdf/1904.13148.pdf)
