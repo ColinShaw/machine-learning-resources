@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [PR Product: A Substitute for Inner Product in Neural Networks](https://arxiv.org/pdf/1904.13148.pdf)
+
   * [Multi-level Encoder-Decoder Architectures for Image Restoration](https://arxiv.org/pdf/1905.00322.pdf)
 
   * [Few-Shot Adversarial Learning of Realistic Neural Talking Head Models](https://arxiv.org/pdf/1905.08233.pdf)
