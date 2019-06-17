@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Volumetric ConvNets with Mixed Residual Connections for Automated Prostate Segmentation from 3D MR Images](https://appsrv.cse.cuhk.edu.hk/~lqyu/papers/AAAI17_Prostate.pdf)
+
   * [A 64mW DNN-based Visual Navigation Engine for Autonomous Nano-Drones](https://arxiv.org/pdf/1805.01831.pdf)
 
   * [Unsupervised Monocular Depth Estimation with Left-Right Consistency](https://arxiv.org/pdf/1609.03677.pdf)
