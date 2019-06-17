@@ -1505,6 +1505,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Review: 3D U-Net+ResNet — Volumetric Convolutions + Long & Short Residual Connections (Biomedical Image Segmentation)](https://towardsdatascience.com/review-3d-u-net-resnet-volumetric-convolutions-long-short-residual-connections-biomedical-3a7da3f98dae)
+
   * [Pricing Segmentation and Analytics](http://www.businessexpertpress.com/files/pdfs/10528319.pdf)
 
   * [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
