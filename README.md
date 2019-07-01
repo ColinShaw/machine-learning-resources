@@ -1507,6 +1507,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [A Visual Intro to NumPy and Data Representation](https://jalammar.github.io)
+
   * [Human in the Loop: Deep Learning without Wasteful Labelling](http://oatml.cs.ox.ac.uk/blog/2019/06/24/batchbald.html)
 
   * [Review: 3D U-Net+ResNet — Volumetric Convolutions + Long & Short Residual Connections (Biomedical Image Segmentation)](https://towardsdatascience.com/review-3d-u-net-resnet-volumetric-convolutions-long-short-residual-connections-biomedical-3a7da3f98dae)
