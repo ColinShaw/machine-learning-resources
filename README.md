@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Weight Agnostic Neural Networks](https://arxiv.org/pdf/1906.04358.pdf)
+
   * [Learning the Depths of Moving People by Watching Frozen People](https://arxiv.org/pdf/1904.11111.pdf)
 
   * [Volumetric ConvNets with Mixed Residual Connections for Automated Prostate Segmentation from 3D MR Images](https://appsrv.cse.cuhk.edu.hk/~lqyu/papers/AAAI17_Prostate.pdf)
