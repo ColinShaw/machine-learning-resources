@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Anticipatory Thinking: A Metacognitive Capability](https://arxiv.org/pdf/1906.12249.pdf)
+
   * [Growing Action Spaces](https://arxiv.org/pdf/1906.12266.pdf)
 
   * [The Thermodynamic Variational Objective](https://arxiv.org/pdf/1907.00031.pdf)
