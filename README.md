@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Adaptive Attention Span in Transformers](https://arxiv.org/pdf/1905.07799.pdf)
+
   * [YOLACT: Real-time Instance Segmentation](https://arxiv.org/pdf/1904.02689.pdf)
 
   * [Weight Agnostic Neural Networks](https://arxiv.org/pdf/1906.04358.pdf)
