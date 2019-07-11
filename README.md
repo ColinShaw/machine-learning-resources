@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [The Thermodynamic Variational Objective](https://arxiv.org/pdf/1907.00031.pdf)
+
   * [Learning World Graphs to Accelerate Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1907.00664.pdf)
 
   * [Adaptive Attention Span in Transformers](https://arxiv.org/pdf/1905.07799.pdf)
