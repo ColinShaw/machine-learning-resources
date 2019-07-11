@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Latent ODEs for Irregularly-Sampled Time Series](https://arxiv.org/pdf/1907.03907.pdf)
+
   * [Adaptive Honeypot Engagement through Reinforcement Learning of Semi-Markov Decision Processes](https://arxiv.org/pdf/1906.12182.pdf)
 
   * [Sensor-Actuator Networks](https://www.cs.ubc.ca/~van/papers/1993-siggraph-sans.pdf)
