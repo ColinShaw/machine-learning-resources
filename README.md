@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Chester: A Web Delivered Locally Computed Chest X-Ray Disease Prediction System](https://arxiv.org/pdf/1901.11210.pdf)
+
   * [Tell Me Where to Look: Guided Attention Inference Network](https://arxiv.org/pdf/1802.10171.pdf)
 
   * [Latent ODEs for Irregularly-Sampled Time Series](https://arxiv.org/pdf/1907.03907.pdf)
