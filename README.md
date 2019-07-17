@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Tell Me Where to Look: Guided Attention Inference Network](https://arxiv.org/pdf/1802.10171.pdf)
+
   * [Latent ODEs for Irregularly-Sampled Time Series](https://arxiv.org/pdf/1907.03907.pdf)
 
   * [Adaptive Honeypot Engagement through Reinforcement Learning of Semi-Markov Decision Processes](https://arxiv.org/pdf/1906.12182.pdf)
