@@ -1535,6 +1535,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification)
+
   * [A Visual Intro to NumPy and Data Representation](https://jalammar.github.io)
 
   * [Human in the Loop: Deep Learning without Wasteful Labelling](http://oatml.cs.ox.ac.uk/blog/2019/06/24/batchbald.html)
