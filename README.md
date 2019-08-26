@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [MIDCURVENN: ENCODER-DECODER NEURAL NETWORK FOR COMPUTING MIDCURVE OF A THIN POLYGON](http://vixra.org/pdf/1904.0429v1.pdf)
+
   * [Panoptic Feature Pyramid Networks](https://arxiv.org/pdf/1901.02446.pdf)
 
   * [Chester: A Web Delivered Locally Computed Chest X-Ray Disease Prediction System](https://arxiv.org/pdf/1901.11210.pdf)
