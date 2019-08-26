@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Hamiltonian Neural Networks](https://arxiv.org/pdf/1906.01563.pdf)
+
   * [Making Convolutional Networks Shift-Invariant Again](https://arxiv.org/pdf/1904.11486.pdf)
 
   * [A Baseline for 3D Multi-Object Tracking](https://arxiv.org/pdf/1907.03961.pdf)
