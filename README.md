@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Panoptic Feature Pyramid Networks](https://arxiv.org/pdf/1901.02446.pdf)
+
   * [Chester: A Web Delivered Locally Computed Chest X-Ray Disease Prediction System](https://arxiv.org/pdf/1901.11210.pdf)
 
   * [Tell Me Where to Look: Guided Attention Inference Network](https://arxiv.org/pdf/1802.10171.pdf)
