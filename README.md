@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Behaviour Suite for Reinforcement Learning](https://arxiv.org/pdf/1908.03568v2.pdf)
+
   * [ON THE VARIANCE OF THE ADAPTIVE LEARNING RATE AND BEYOND](https://arxiv.org/pdf/1908.03265v1.pdf)
 
   * [MIDCURVENN: ENCODER-DECODER NEURAL NETWORK FOR COMPUTING MIDCURVE OF A THIN POLYGON](http://vixra.org/pdf/1904.0429v1.pdf)
