@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Making Convolutional Networks Shift-Invariant Again](https://arxiv.org/pdf/1904.11486.pdf)
+
   * [A Baseline for 3D Multi-Object Tracking](https://arxiv.org/pdf/1907.03961.pdf)
 
   * [Behaviour Suite for Reinforcement Learning](https://arxiv.org/pdf/1908.03568v2.pdf)
