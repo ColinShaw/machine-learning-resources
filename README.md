@@ -1535,6 +1535,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Real-Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
+
   * [Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification)
 
   * [A Visual Intro to NumPy and Data Representation](https://jalammar.github.io)
