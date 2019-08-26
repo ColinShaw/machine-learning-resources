@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [A Baseline for 3D Multi-Object Tracking](https://arxiv.org/pdf/1907.03961.pdf)
+
   * [Behaviour Suite for Reinforcement Learning](https://arxiv.org/pdf/1908.03568v2.pdf)
 
   * [ON THE VARIANCE OF THE ADAPTIVE LEARNING RATE AND BEYOND](https://arxiv.org/pdf/1908.03265v1.pdf)
