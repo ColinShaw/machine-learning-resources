@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Y-Autoencoders: disentangling latent representations via sequential-encoding](https://arxiv.org/pdf/1907.10949.pdf)
+
   * [Learning Speaker Representations with Mutual Information](https://arxiv.org/pdf/1812.00271.pdf)
 
   * [Hamiltonian Neural Networks](https://arxiv.org/pdf/1906.01563.pdf)
