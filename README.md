@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Learning Speaker Representations with Mutual Information](https://arxiv.org/pdf/1812.00271.pdf)
+
   * [Hamiltonian Neural Networks](https://arxiv.org/pdf/1906.01563.pdf)
 
   * [Making Convolutional Networks Shift-Invariant Again](https://arxiv.org/pdf/1904.11486.pdf)
