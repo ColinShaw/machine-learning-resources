@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [OpenSpiel: A Framework for Reinforcement Learning in Games](https://arxiv.org/pdf/1908.09453.pdf)
+  
   * [Y-Autoencoders: disentangling latent representations via sequential-encoding](https://arxiv.org/pdf/1907.10949.pdf)
 
   * [Learning Speaker Representations with Mutual Information](https://arxiv.org/pdf/1812.00271.pdf)
