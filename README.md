@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [PaperRobot: Incremental Draft Generation of Scientific Ideas](https://arxiv.org/pdf/1905.07870.pdf)
+
   * [OpenSpiel: A Framework for Reinforcement Learning in Games](https://arxiv.org/pdf/1908.09453.pdf)
   
   * [Y-Autoencoders: disentangling latent representations via sequential-encoding](https://arxiv.org/pdf/1907.10949.pdf)
