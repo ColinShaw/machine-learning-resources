@@ -1571,6 +1571,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [How 20th Century Fox uses ML to predict a movie audience](https://cloud.google.com/blog/products/ai-machine-learning/how-20th-century-fox-uses-ml-to-predict-a-movie-audience)
+
   * [Pytorch-Transformers](https://huggingface.co/pytorch-transformers/)
 
   * [Real-Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
