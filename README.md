@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [ParaQG: A System for Generating Questions and Answers from Paragraphs](https://arxiv.org/pdf/1909.01642.pdf)
+
   * [Progressive Face Super-Resolution via Attention to Facial Landmark](https://arxiv.org/pdf/1908.08239.pdf)
 
   * [Misspelling Oblivious Word Embeddings](https://arxiv.org/pdf/1905.09755.pdf)
