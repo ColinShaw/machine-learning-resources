@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Deep weakly-supervised learning methods for classification and localization in histology images: a survey](https://arxiv.org/pdf/1909.03354.pdf)
+
   * [Wave Physics as an Analog Recurrent Neural Network](https://arxiv.org/pdf/1904.12831.pdf)
 
   * [Universal Adversarial Triggers for Attacking and Analyzing NLP](https://arxiv.org/pdf/1908.07125.pdf)
