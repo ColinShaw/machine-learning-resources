@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Universal Adversarial Triggers for Attacking and Analyzing NLP](https://arxiv.org/pdf/1908.07125.pdf)
+
   * [Deep Equilibrium Models](https://arxiv.org/pdf/1909.01377.pdf)
 
   * [ParaQG: A System for Generating Questions and Answers from Paragraphs](https://arxiv.org/pdf/1909.01642.pdf)
