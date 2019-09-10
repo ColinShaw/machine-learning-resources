@@ -1563,6 +1563,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Pytorch-Transformers](https://huggingface.co/pytorch-transformers/)
+
   * [Real-Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 
   * [Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification)
