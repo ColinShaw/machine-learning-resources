@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [MODERN PERSPECTIVES ON REINFORCEMENT LEARNING IN FINANCE](https://poseidon01.ssrn.com/delivery.php?ID=135126090088118012108088028090024100116047065081011094098124008099126074077095011112035055107107098031041021103064019069122023061036008039068116116102027106111066038003081118073027104118020100000118112083110109123066012030102090117101021097078094009&EXT=pdf)
+
   * [rlpyt: A Research Code Base for Deep Reinforcement Learning in PyTorch](https://arxiv.org/pdf/1909.01500.pdf)
 
   * [Deep weakly-supervised learning methods for classification and localization in histology images: a survey](https://arxiv.org/pdf/1909.03354.pdf)
