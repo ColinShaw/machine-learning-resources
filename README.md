@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Progressive Face Super-Resolution via Attention to Facial Landmark](https://arxiv.org/pdf/1908.08239.pdf)
+
   * [Misspelling Oblivious Word Embeddings](https://arxiv.org/pdf/1905.09755.pdf)
 
   * [Beyond Photo Realism for Domain Adaptation from Synthetic Data](https://arxiv.org/pdf/1909.01960.pdf)
