@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [rlpyt: A Research Code Base for Deep Reinforcement Learning in PyTorch](https://arxiv.org/pdf/1909.01500.pdf)
+
   * [Deep weakly-supervised learning methods for classification and localization in histology images: a survey](https://arxiv.org/pdf/1909.03354.pdf)
 
   * [Wave Physics as an Analog Recurrent Neural Network](https://arxiv.org/pdf/1904.12831.pdf)
