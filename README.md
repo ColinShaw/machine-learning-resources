@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Beyond Photo Realism for Domain Adaptation from Synthetic Data](https://arxiv.org/pdf/1909.01960.pdf)
+
   * [PaperRobot: Incremental Draft Generation of Scientific Ideas](https://arxiv.org/pdf/1905.07870.pdf)
 
   * [OpenSpiel: A Framework for Reinforcement Learning in Games](https://arxiv.org/pdf/1908.09453.pdf)
