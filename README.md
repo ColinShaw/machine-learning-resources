@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Achieving Verified Robustness to Symbol Substitutions via Interval Bound Propagation](https://arxiv.org/pdf/1909.01492.pdf)
+
   * [CTRL: A CONDITIONAL TRANSFORMER LANGUAGE MODEL FOR CONTROLLABLE GENERATION](https://einstein.ai/presentations/ctrl.pdf)
 
   * [On Extractive and Abstractive Neural Document Summarization with Transformer Language Models](https://arxiv.org/pdf/1909.03186.pdf)
