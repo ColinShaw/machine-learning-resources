@@ -1581,6 +1581,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Building Custom Deep Learning Based OCR models](https://nanonets.com/blog/attention-ocr-for-text-recogntion/)
+
   * [The Beauty of Functional Languages in Deep Learning — Clojure and Haskell](https://www.welcometothejungle.co/fr/articles/btc-deep-learning-clojure-haskell)
 
   * [How 20th Century Fox uses ML to predict a movie audience](https://cloud.google.com/blog/products/ai-machine-learning/how-20th-century-fox-uses-ml-to-predict-a-movie-audience)
