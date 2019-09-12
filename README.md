@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [CTRL: A CONDITIONAL TRANSFORMER LANGUAGE MODEL FOR CONTROLLABLE GENERATION](https://einstein.ai/presentations/ctrl.pdf)
+
   * [On Extractive and Abstractive Neural Document Summarization with Transformer Language Models](https://arxiv.org/pdf/1909.03186.pdf)
 
   * [Meta-Learning with Implicit Gradients](https://arxiv.org/pdf/1909.04630.pdf)
