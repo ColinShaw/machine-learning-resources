@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Video Interpolation and Prediction with Unsupervised Landmarks](https://arxiv.org/pdf/1909.02749.pdf)
+
   * [Achieving Verified Robustness to Symbol Substitutions via Interval Bound Propagation](https://arxiv.org/pdf/1909.01492.pdf)
 
   * [CTRL: A CONDITIONAL TRANSFORMER LANGUAGE MODEL FOR CONTROLLABLE GENERATION](https://einstein.ai/presentations/ctrl.pdf)
