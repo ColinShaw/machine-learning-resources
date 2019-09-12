@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167.pdf)
+
   * [Video Interpolation and Prediction with Unsupervised Landmarks](https://arxiv.org/pdf/1909.02749.pdf)
 
   * [Achieving Verified Robustness to Symbol Substitutions via Interval Bound Propagation](https://arxiv.org/pdf/1909.01492.pdf)
