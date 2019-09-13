@@ -1585,6 +1585,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Handling imbalanced datasets in machine learning](https://towardsdatascience.com/handling-imbalanced-datasets-in-machine-learning-7a0e84220f28)
+
   * [Building Custom Deep Learning Based OCR models](https://nanonets.com/blog/attention-ocr-for-text-recogntion/)
 
   * [The Beauty of Functional Languages in Deep Learning — Clojure and Haskell](https://www.welcometothejungle.co/fr/articles/btc-deep-learning-clojure-haskell)
