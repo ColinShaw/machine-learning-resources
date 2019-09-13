@@ -1585,6 +1585,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Randomly wired neural networks and state-of-the-art accuracy? Yes it works.](https://towardsdatascience.com/randomly-wired-neural-networks-and-state-of-the-art-accuracy-yes-it-works-9fb3cedc8059)
+
   * [Handling imbalanced datasets in machine learning](https://towardsdatascience.com/handling-imbalanced-datasets-in-machine-learning-7a0e84220f28)
 
   * [Building Custom Deep Learning Based OCR models](https://nanonets.com/blog/attention-ocr-for-text-recogntion/)
