@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Memorize-Generalize: An online algorithm for learning higher-order sequential structure with cloned Hidden Markov Models](https://www.biorxiv.org/content/biorxiv/early/2019/09/10/764456.full.pdf)
+
   * [CvxNets: Learnable Convex Decomposition](https://arxiv.org/pdf/1909.05736.pdf)
 
   * [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167.pdf)
