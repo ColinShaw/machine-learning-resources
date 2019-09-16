@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [HIERARCHICAL FORESIGHT: SELF-SUPERVISED LEARNING OF LONG-HORIZON TASKS VIA VISUAL SUBGOAL GENERATION](https://arxiv.org/pdf/1909.05829.pdf)
+
   * [Utilizing Temporal Information in Deep Convolutional Network for Efficient Soccer Ball Detection and Tracking](https://arxiv.org/pdf/1909.02406.pdf)
 
   * [Memorize-Generalize: An online algorithm for learning higher-order sequential structure with cloned Hidden Markov Models](https://www.biorxiv.org/content/biorxiv/early/2019/09/10/764456.full.pdf)
