@@ -1593,6 +1593,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [RecoTour II: neural recommendation algorithms](https://towardsdatascience.com/recotour-ii-neural-recommendation-algorithms-49733938d56e)
+
   * [Randomly wired neural networks and state-of-the-art accuracy? Yes it works.](https://towardsdatascience.com/randomly-wired-neural-networks-and-state-of-the-art-accuracy-yes-it-works-9fb3cedc8059)
 
   * [Handling imbalanced datasets in machine learning](https://towardsdatascience.com/handling-imbalanced-datasets-in-machine-learning-7a0e84220f28)
