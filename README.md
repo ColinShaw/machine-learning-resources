@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [The Bottom-up Evolution of Representations in the Transformer: A Study with Machine Translation and Language Modeling Objectives](https://arxiv.org/pdf/1909.01380.pdf)
+
   * [What do Deep Networks Like to Read?](https://arxiv.org/pdf/1909.04547.pdf)
 
   * [Learning Symbolic Physics with Graph Networks](https://arxiv.org/pdf/1909.05862.pdf)
