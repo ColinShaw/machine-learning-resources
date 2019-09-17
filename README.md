@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [What do Deep Networks Like to Read?](https://arxiv.org/pdf/1909.04547.pdf)
+
   * [Learning Symbolic Physics with Graph Networks](https://arxiv.org/pdf/1909.05862.pdf)
 
   * [HIERARCHICAL FORESIGHT: SELF-SUPERVISED LEARNING OF LONG-HORIZON TASKS VIA VISUAL SUBGOAL GENERATION](https://arxiv.org/pdf/1909.05829.pdf)
