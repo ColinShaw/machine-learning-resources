@@ -1603,6 +1603,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Generating Piano Music with Transformer](https://magenta.tensorflow.org/piano-transformer)
+
   * [RecoTour II: neural recommendation algorithms](https://towardsdatascience.com/recotour-ii-neural-recommendation-algorithms-49733938d56e)
 
   * [Randomly wired neural networks and state-of-the-art accuracy? Yes it works.](https://towardsdatascience.com/randomly-wired-neural-networks-and-state-of-the-art-accuracy-yes-it-works-9fb3cedc8059)
