@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [HoughNet: neural network architecture for vanishing points detection](https://arxiv.org/pdf/1909.03812.pdf)
+
   * [Implicit Autoencoders](https://arxiv.org/pdf/1805.09804.pdf)
 
   * [Reservoirs learn to learn](https://arxiv.org/pdf/1909.07486.pdf)
