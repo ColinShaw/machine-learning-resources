@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Temporal Coding in Spiking Neural Networks with Alpha Synaptic Function](https://arxiv.org/pdf/1907.13223.pdf)
+
   * [HoughNet: neural network architecture for vanishing points detection](https://arxiv.org/pdf/1909.03812.pdf)
 
   * [Implicit Autoencoders](https://arxiv.org/pdf/1805.09804.pdf)
