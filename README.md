@@ -1607,6 +1607,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Notes on iMAML: Meta-Learning with Implicit Gradients](https://www.inference.vc/notes-on-imaml-meta-learning-without-differentiating-through/)
+
   * [Generating Piano Music with Transformer](https://magenta.tensorflow.org/piano-transformer)
 
   * [RecoTour II: neural recommendation algorithms](https://towardsdatascience.com/recotour-ii-neural-recommendation-algorithms-49733938d56e)
