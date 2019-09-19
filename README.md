@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Implicit Autoencoders](https://arxiv.org/pdf/1805.09804.pdf)
+
   * [Reservoirs learn to learn](https://arxiv.org/pdf/1909.07486.pdf)
 
   * [Deep Boltzmann Machines](http://proceedings.mlr.press/v5/salakhutdinov09a/salakhutdinov09a.pdf)
