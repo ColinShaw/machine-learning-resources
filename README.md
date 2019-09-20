@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Meta-Curvature](https://arxiv.org/pdf/1902.03356.pdf)
+
   * [Temporal Coding in Spiking Neural Networks with Alpha Synaptic Function](https://arxiv.org/pdf/1907.13223.pdf)
 
   * [HoughNet: neural network architecture for vanishing points detection](https://arxiv.org/pdf/1909.03812.pdf)
