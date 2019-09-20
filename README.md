@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [JOINT GRAPH AND FEATURE LEARNING IN GRAPH CONVOLUTIONAL NEURAL NETWORKS](https://arxiv.org/pdf/1909.04931v1.pdf)
+
   * [Forecaster: A Graph Transformer for Forecasting Spatial and Time-Dependent Data](https://arxiv.org/pdf/1909.04019v3.pdf)
 
   * [Meta-Curvature](https://arxiv.org/pdf/1902.03356.pdf)
