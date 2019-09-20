@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Forecaster: A Graph Transformer for Forecasting Spatial and Time-Dependent Data](https://arxiv.org/pdf/1909.04019v3.pdf)
+
   * [Meta-Curvature](https://arxiv.org/pdf/1902.03356.pdf)
 
   * [Temporal Coding in Spiking Neural Networks with Alpha Synaptic Function](https://arxiv.org/pdf/1907.13223.pdf)
