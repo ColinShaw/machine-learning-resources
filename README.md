@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Discovering Reliable Correlations in Categorical Data](https://arxiv.org/pdf/1908.11682.pdf)
+
   * [Hierarchical Reinforcement Learning for Open-Domain Dialog](https://arxiv.org/pdf/1909.07547.pdf)
 
   * [Logarithmic Regret for Online Control](https://arxiv.org/pdf/1909.05062.pdf)
