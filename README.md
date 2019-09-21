@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Logarithmic Regret for Online Control](https://arxiv.org/pdf/1909.05062.pdf)
+
   * [Deep Multi-Agent Reinforcement Learning](https://ora.ox.ac.uk/objects/uuid:a55621b3-53c0-4e1b-ad1c-92438b57ffa4/download_file?file_format=pdf&safe_filename=DeepMARL.pdf&type_of_work=Thesis)
 
   * [JOINT GRAPH AND FEATURE LEARNING IN GRAPH CONVOLUTIONAL NEURAL NETWORKS](https://arxiv.org/pdf/1909.04931v1.pdf)
