@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Inception-inspired LSTM for Next-frame Video Prediction](https://arxiv.org/pdf/1909.05622.pdf)
+
   * [Discovering Reliable Correlations in Categorical Data](https://arxiv.org/pdf/1908.11682.pdf)
 
   * [Hierarchical Reinforcement Learning for Open-Domain Dialog](https://arxiv.org/pdf/1909.07547.pdf)
