@@ -1627,6 +1627,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Reinforcement Learning — Policy Approximation](https://towardsdatascience.com/reinforcement-learning-policy-approximation-f5606ad3d909)
+
   * [Notes on iMAML: Meta-Learning with Implicit Gradients](https://www.inference.vc/notes-on-imaml-meta-learning-without-differentiating-through/)
 
   * [Generating Piano Music with Transformer](https://magenta.tensorflow.org/piano-transformer)
