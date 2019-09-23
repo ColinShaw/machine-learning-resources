@@ -64,6 +64,8 @@ good articles and some other resources.
   * [An Introduction to Probabilistic Programming](https://arxiv.org/pdf/1809.10756.pdf)
 
   * [Variational Inference: A Review for Statisticians](https://arxiv.org/pdf/1601.00670.pdf)
+  
+  * [A Tutorial on Energy-Based Learning](http://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf)
 
 
 
