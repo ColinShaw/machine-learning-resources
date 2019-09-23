@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Exploring ways to incorporate additional knowledge to improve Natural Language Commonsense Question Answering](https://arxiv.org/pdf/1909.08855.pdf)
+
   * [Inception-inspired LSTM for Next-frame Video Prediction](https://arxiv.org/pdf/1909.05622.pdf)
 
   * [Discovering Reliable Correlations in Categorical Data](https://arxiv.org/pdf/1908.11682.pdf)
