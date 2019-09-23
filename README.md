@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [DyANE: Dynamics-aware node embedding for temporal networks](https://arxiv.org/pdf/1909.05976.pdf)
+
   * [Learning Priors for Adversarial Autoencoders](https://arxiv.org/pdf/1909.04443v1.pdf)
 
   * [ns3-gym: Extending OpenAI Gym for Networking Research](https://arxiv.org/pdf/1810.03943.pdf)
