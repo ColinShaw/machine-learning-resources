@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [A Probabilistic Representation of Deep Learning](https://arxiv.org/pdf/1908.09772v1.pdf)
+
   * [Making the Invisible Visible: Action Recognition Through Walls and Occlusions](https://arxiv.org/pdf/1909.09300.pdf)
 
   * [Exploring ways to incorporate additional knowledge to improve Natural Language Commonsense Question Answering](https://arxiv.org/pdf/1909.08855.pdf)
