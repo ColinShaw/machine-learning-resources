@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Machine Learning for Stochastic Parameterization: Generative Adversarial Networks in the Lorenz ’96 Model](https://arxiv.org/pdf/1909.04711.pdf)
+
   * [DyANE: Dynamics-aware node embedding for temporal networks](https://arxiv.org/pdf/1909.05976.pdf)
 
   * [Learning Priors for Adversarial Autoencoders](https://arxiv.org/pdf/1909.04443v1.pdf)
