@@ -69,6 +69,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Learning Priors for Adversarial Autoencoders](https://arxiv.org/pdf/1909.04443v1.pdf)
+
   * [ns3-gym: Extending OpenAI Gym for Networking Research](https://arxiv.org/pdf/1810.03943.pdf)
 
   * [A Probabilistic Representation of Deep Learning](https://arxiv.org/pdf/1908.09772v1.pdf)
