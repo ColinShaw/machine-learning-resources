@@ -71,6 +71,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Rapid Learning or Feature Reuse? Towards Understanding the Effectiveness of MAML](https://arxiv.org/pdf/1909.09157.pdf)
+
   * [Machine Learning for Stochastic Parameterization: Generative Adversarial Networks in the Lorenz ’96 Model](https://arxiv.org/pdf/1909.04711.pdf)
 
   * [DyANE: Dynamics-aware node embedding for temporal networks](https://arxiv.org/pdf/1909.05976.pdf)
