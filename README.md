@@ -71,6 +71,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Mesh R-CNN](https://arxiv.org/pdf/1906.02739.pdf)
+
   * [Rapid Learning or Feature Reuse? Towards Understanding the Effectiveness of MAML](https://arxiv.org/pdf/1909.09157.pdf)
 
   * [Machine Learning for Stochastic Parameterization: Generative Adversarial Networks in the Lorenz ’96 Model](https://arxiv.org/pdf/1909.04711.pdf)
