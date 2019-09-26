@@ -71,6 +71,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [RECURRENT INDEPENDENT MECHANISMS](https://arxiv.org/pdf/1909.10893.pdf)
+
   * [Mesh R-CNN](https://arxiv.org/pdf/1906.02739.pdf)
 
   * [Rapid Learning or Feature Reuse? Towards Understanding the Effectiveness of MAML](https://arxiv.org/pdf/1909.09157.pdf)
