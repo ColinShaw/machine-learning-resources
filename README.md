@@ -1647,6 +1647,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Attention? Attention!](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)
+
   * [Continuous Delivery for Machine Learning](https://martinfowler.com/articles/cd4ml.html)
 
   * [Reinforcement Learning — Policy Approximation](https://towardsdatascience.com/reinforcement-learning-policy-approximation-f5606ad3d909)
