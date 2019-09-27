@@ -71,6 +71,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Deep Dynamics Models for Learning Dexterous Manipulation](https://arxiv.org/pdf/1909.11652.pdf)
+
   * [Quantum Graph Neural Networks](https://arxiv.org/pdf/1909.12264.pdf)
 
   * [RECURRENT INDEPENDENT MECHANISMS](https://arxiv.org/pdf/1909.10893.pdf)
