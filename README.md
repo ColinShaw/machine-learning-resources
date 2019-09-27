@@ -71,6 +71,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Memory-Augmented Neural Networks for Machine Translation](https://arxiv.org/pdf/1909.08314v1.pdf)
+
   * [Deep Dynamics Models for Learning Dexterous Manipulation](https://arxiv.org/pdf/1909.11652.pdf)
 
   * [Quantum Graph Neural Networks](https://arxiv.org/pdf/1909.12264.pdf)
