@@ -71,6 +71,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Quantum Graph Neural Networks](https://arxiv.org/pdf/1909.12264.pdf)
+
   * [RECURRENT INDEPENDENT MECHANISMS](https://arxiv.org/pdf/1909.10893.pdf)
 
   * [Mesh R-CNN](https://arxiv.org/pdf/1906.02739.pdf)
