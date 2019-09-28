@@ -71,6 +71,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [BagNet: Berkeley Analog Generator with Layout Optimizer Boosted with Deep Neural Networks](https://arxiv.org/pdf/1907.10515.pdf)
+
   * [ALBERT: A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS](https://openreview.net/pdf?id=H1eA7AEtvS)
 
   * [Memory-Augmented Neural Networks for Machine Translation](https://arxiv.org/pdf/1909.08314v1.pdf)
