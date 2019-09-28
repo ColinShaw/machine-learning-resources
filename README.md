@@ -71,6 +71,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [ALBERT: A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS](https://openreview.net/pdf?id=H1eA7AEtvS)
+
   * [Memory-Augmented Neural Networks for Machine Translation](https://arxiv.org/pdf/1909.08314v1.pdf)
 
   * [Deep Dynamics Models for Learning Dexterous Manipulation](https://arxiv.org/pdf/1909.11652.pdf)
