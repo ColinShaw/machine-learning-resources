@@ -71,6 +71,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [IS DEEP REINFORCEMENT LEARNING REALLY SUPER- HUMAN ON ATARI? LEVELING THE PLAYING FIELD](https://openreview.net/pdf?id=r1x_DaVKwH)
+
   * [BagNet: Berkeley Analog Generator with Layout Optimizer Boosted with Deep Neural Networks](https://arxiv.org/pdf/1907.10515.pdf)
 
   * [ALBERT: A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS](https://openreview.net/pdf?id=H1eA7AEtvS)
