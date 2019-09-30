@@ -71,6 +71,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Hierarchical Decision Making by Generating and Following Natural Language Instructions](https://arxiv.org/pdf/1906.00744.pdf)
+
   * [Neural reparameterization improves structural optimization](https://arxiv.org/pdf/1909.04240.pdf)
 
   * [IS DEEP REINFORCEMENT LEARNING REALLY SUPER- HUMAN ON ATARI? LEVELING THE PLAYING FIELD](https://openreview.net/pdf?id=r1x_DaVKwH)
