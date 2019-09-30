@@ -71,6 +71,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Neural reparameterization improves structural optimization](https://arxiv.org/pdf/1909.04240.pdf)
+
   * [IS DEEP REINFORCEMENT LEARNING REALLY SUPER- HUMAN ON ATARI? LEVELING THE PLAYING FIELD](https://openreview.net/pdf?id=r1x_DaVKwH)
 
   * [BagNet: Berkeley Analog Generator with Layout Optimizer Boosted with Deep Neural Networks](https://arxiv.org/pdf/1907.10515.pdf)
