@@ -71,6 +71,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Hamiltonian Graph Networks with ODE Integrators](https://arxiv.org/pdf/1909.12790.pdf)
+
   * [Mathematical Reasoning in Latent Space](https://arxiv.org/pdf/1909.11851v1.pdf)
 
   * [Hierarchical Decision Making by Generating and Following Natural Language Instructions](https://arxiv.org/pdf/1906.00744.pdf)
