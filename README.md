@@ -71,6 +71,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Fermionic neural-network states for ab-initio electronic structure](https://arxiv.org/pdf/1909.12852.pdf)
+
   * [Machine learning for neural decoding](https://arxiv.org/pdf/1708.00909.pdf)
 
   * [Hamiltonian Graph Networks with ODE Integrators](https://arxiv.org/pdf/1909.12790.pdf)
