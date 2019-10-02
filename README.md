@@ -71,6 +71,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Machine learning for neural decoding](https://arxiv.org/pdf/1708.00909.pdf)
+
   * [Hamiltonian Graph Networks with ODE Integrators](https://arxiv.org/pdf/1909.12790.pdf)
 
   * [Mathematical Reasoning in Latent Space](https://arxiv.org/pdf/1909.11851v1.pdf)
