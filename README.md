@@ -71,6 +71,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Efficient Graph Generation with Graph Recurrent Attention Networks](https://arxiv.org/pdf/1910.00760.pdf)
+
   * [Equivariant Hamiltonian Flows](https://arxiv.org/pdf/1909.13739.pdf)
 
   * [Fermionic neural-network states for ab-initio electronic structure](https://arxiv.org/pdf/1909.12852.pdf)
