@@ -71,6 +71,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Regression Planning Networks](https://arxiv.org/pdf/1909.13072.pdf)
+
   * [Real-Time Semantic Stereo Matching](https://arxiv.org/pdf/1910.00541.pdf)
 
   * [Efficient Graph Generation with Graph Recurrent Attention Networks](https://arxiv.org/pdf/1910.00760.pdf)
