@@ -71,6 +71,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [DenseRaC: Joint 3D Pose and Shape Estimation by Dense Render-and-Compare](https://arxiv.org/pdf/1910.00116.pdf)
+
   * [GRADIENT DESCENT: THE ULTIMATE OPTIMIZER](https://arxiv.org/pdf/1909.13371.pdf)
 
   * [COMPRESSIVE TRANSFORMERS FOR LONG-RANGE SEQUENCE MODELLING](https://openreview.net/pdf?id=SylKikSYDH)
