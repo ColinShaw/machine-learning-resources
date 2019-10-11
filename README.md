@@ -73,6 +73,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Unsupervised Doodling and Painting with Improved SPIRAL](https://arxiv.org/pdf/1910.01007.pdf)
+
   * [Identifying Weights and Architectures of Unknown ReLU Networks](https://arxiv.org/pdf/1910.00744.pdf)
 
   * [LEARNING NEURAL CAUSAL MODELS FROM UNKNOWN INTERVENTIONS](https://arxiv.org/pdf/1910.01075.pdf)
