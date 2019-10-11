@@ -71,6 +71,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [TorchBeast: A PyTorch Platform for Distributed RL](https://arxiv.org/pdf/1910.03552.pdf)
+
   * [SPECTRAL INFERENCE NETWORKS: UNIFYING DEEP AND SPECTRAL LEARNING](https://arxiv.org/pdf/1806.02215.pdf)
 
   * [Likelihood-free MCMC with Amortized Approximate Likelihood Ratios](https://arxiv.org/pdf/1903.04057.pdf)
