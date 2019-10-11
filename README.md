@@ -73,6 +73,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Bootstrapping Conditional GANs for Video Game Level Generation](https://arxiv.org/pdf/1910.01603.pdf)
+
   * [CAUSAL INDUCTION FROM VISUAL OBSERVATIONS FOR GOAL DIRECTED TASKS](https://arxiv.org/pdf/1910.01751.pdf)
 
   * [Improving Map Re-localization with Deep ‘Movable’ Objects Segmentation on 3D LiDAR Point Clouds](https://arxiv.org/pdf/1910.03336.pdf)
