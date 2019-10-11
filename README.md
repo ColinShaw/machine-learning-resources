@@ -71,6 +71,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Likelihood-free MCMC with Amortized Approximate Likelihood Ratios](https://arxiv.org/pdf/1903.04057.pdf)
+
   * [Learnable Triangulation of Human Pose](https://arxiv.org/pdf/1905.05754.pdf)
 
   * [DenseRaC: Joint 3D Pose and Shape Estimation by Dense Render-and-Compare](https://arxiv.org/pdf/1910.00116.pdf)
