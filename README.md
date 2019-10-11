@@ -71,6 +71,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [META-LEARNING DEEP ENERGY-BASED MEMORY MODELS](https://arxiv.org/pdf/1910.02720.pdf)
+
   * [Accelerating Federated Learning via Momentum Gradient Descent](https://arxiv.org/pdf/1910.03197.pdf)
 
   * [TorchBeast: A PyTorch Platform for Distributed RL](https://arxiv.org/pdf/1910.03552.pdf)
