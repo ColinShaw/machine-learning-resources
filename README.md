@@ -51,6 +51,8 @@ good articles and some other resources.
 
 ## Background Literature
 
+  * [Benchmarking Batch Deep Reinforcement Learning Algorithms](https://arxiv.org/pdf/1910.01708.pdf)
+
   * [Intro to Neural Networks](http://lxmls.it.pt/2018/Lecture.fin.pdf)
 
   * [Dive into Deep Learning](http://d2l.ai/index.html)
