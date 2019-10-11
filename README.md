@@ -73,6 +73,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [FSA-Net: Learning Fine-Grained Structure Aggregation for Head Pose Estimation from a Single Image](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yang_FSA-Net_Learning_Fine-Grained_Structure_Aggregation_for_Head_Pose_Estimation_From_CVPR_2019_paper.pdf)
+
   * [Unsupervised Doodling and Painting with Improved SPIRAL](https://arxiv.org/pdf/1910.01007.pdf)
 
   * [Identifying Weights and Architectures of Unknown ReLU Networks](https://arxiv.org/pdf/1910.00744.pdf)
