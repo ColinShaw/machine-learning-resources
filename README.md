@@ -71,6 +71,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Improving Map Re-localization with Deep ‘Movable’ Objects Segmentation on 3D LiDAR Point Clouds](https://arxiv.org/pdf/1910.03336.pdf)
+
   * [META-LEARNING DEEP ENERGY-BASED MEMORY MODELS](https://arxiv.org/pdf/1910.02720.pdf)
 
   * [Accelerating Federated Learning via Momentum Gradient Descent](https://arxiv.org/pdf/1910.03197.pdf)
