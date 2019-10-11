@@ -73,6 +73,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Fine-Grained Continual Learning](https://arxiv.org/pdf/1907.03799.pdf)
+
   * [Practical Posterior Error Bounds from Variational Objectives](https://arxiv.org/pdf/1910.04102.pdf)
 
   * [FSA-Net: Learning Fine-Grained Structure Aggregation for Head Pose Estimation from a Single Image](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yang_FSA-Net_Learning_Fine-Grained_Structure_Aggregation_for_Head_Pose_Estimation_From_CVPR_2019_paper.pdf)
