@@ -73,6 +73,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [YOLO Nano: a Highly Compact You Only Look Once Convolutional Neural Network for Object Detection](https://arxiv.org/pdf/1910.01271.pdf)
+
   * [On Universal Approximation by Neural Networks with Uniform Guarantees on Approximation of Infinite Dimensional Maps](https://arxiv.org/pdf/1910.01545.pdf)
 
   * [Bootstrapping Conditional GANs for Video Game Level Generation](https://arxiv.org/pdf/1910.01603.pdf)
