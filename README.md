@@ -73,6 +73,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Identifying Weights and Architectures of Unknown ReLU Networks](https://arxiv.org/pdf/1910.00744.pdf)
+
   * [LEARNING NEURAL CAUSAL MODELS FROM UNKNOWN INTERVENTIONS](https://arxiv.org/pdf/1910.01075.pdf)
 
   * [End-to-End Motion Planning of Quadrotors Using Deep Reinforcement Learning](https://arxiv.org/pdf/1909.13599.pdf)
