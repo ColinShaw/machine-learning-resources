@@ -71,6 +71,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [SPECTRAL INFERENCE NETWORKS: UNIFYING DEEP AND SPECTRAL LEARNING](https://arxiv.org/pdf/1806.02215.pdf)
+
   * [Likelihood-free MCMC with Amortized Approximate Likelihood Ratios](https://arxiv.org/pdf/1903.04057.pdf)
 
   * [Learnable Triangulation of Human Pose](https://arxiv.org/pdf/1905.05754.pdf)
