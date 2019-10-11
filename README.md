@@ -71,6 +71,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Accelerating Federated Learning via Momentum Gradient Descent](https://arxiv.org/pdf/1910.03197.pdf)
+
   * [TorchBeast: A PyTorch Platform for Distributed RL](https://arxiv.org/pdf/1910.03552.pdf)
 
   * [SPECTRAL INFERENCE NETWORKS: UNIFYING DEEP AND SPECTRAL LEARNING](https://arxiv.org/pdf/1806.02215.pdf)
