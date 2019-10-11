@@ -73,6 +73,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [On Universal Approximation by Neural Networks with Uniform Guarantees on Approximation of Infinite Dimensional Maps](https://arxiv.org/pdf/1910.01545.pdf)
+
   * [Bootstrapping Conditional GANs for Video Game Level Generation](https://arxiv.org/pdf/1910.01603.pdf)
 
   * [CAUSAL INDUCTION FROM VISUAL OBSERVATIONS FOR GOAL DIRECTED TASKS](https://arxiv.org/pdf/1910.01751.pdf)
