@@ -73,6 +73,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [LEARNING NEURAL CAUSAL MODELS FROM UNKNOWN INTERVENTIONS](https://arxiv.org/pdf/1910.01075.pdf)
+
   * [End-to-End Motion Planning of Quadrotors Using Deep Reinforcement Learning](https://arxiv.org/pdf/1909.13599.pdf)
 
   * [YOLO Nano: a Highly Compact You Only Look Once Convolutional Neural Network for Object Detection](https://arxiv.org/pdf/1910.01271.pdf)
