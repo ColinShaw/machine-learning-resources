@@ -71,6 +71,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Learnable Triangulation of Human Pose](https://arxiv.org/pdf/1905.05754.pdf)
+
   * [DenseRaC: Joint 3D Pose and Shape Estimation by Dense Render-and-Compare](https://arxiv.org/pdf/1910.00116.pdf)
 
   * [GRADIENT DESCENT: THE ULTIMATE OPTIMIZER](https://arxiv.org/pdf/1909.13371.pdf)
