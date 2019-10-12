@@ -73,6 +73,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [BERTSCORE: EVALUATING TEXT GENERATION WITH BERT](https://arxiv.org/pdf/1904.09675.pdf)
+
   * [Fine-Grained Continual Learning](https://arxiv.org/pdf/1907.03799.pdf)
 
   * [Practical Posterior Error Bounds from Variational Objectives](https://arxiv.org/pdf/1910.04102.pdf)
