@@ -73,6 +73,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [DIVERSITY IS ALL YOU NEED: LEARNING SKILLS WITHOUT A REWARD FUNCTION](https://arxiv.org/pdf/1802.06070.pdf)
+
   * [BERTSCORE: EVALUATING TEXT GENERATION WITH BERT](https://arxiv.org/pdf/1904.09675.pdf)
 
   * [Fine-Grained Continual Learning](https://arxiv.org/pdf/1907.03799.pdf)
