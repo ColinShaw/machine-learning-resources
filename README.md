@@ -73,6 +73,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [FinBERT: Pre-Trained on SEC Filings for Financial NLP Tasks](https://lnkd.in/eG9nbMx)
+
   * [LEARN TO EXPLAIN EFFICIENTLY VIA NEURAL LOGIC INDUCTIVE LEARNING](https://arxiv.org/pdf/1910.02481.pdf)
 
   * [A Generalized Framework for Population Based Training](https://arxiv.org/pdf/1902.01894.pdf)
