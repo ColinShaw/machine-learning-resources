@@ -73,6 +73,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Bayesian Optimization Meets Riemannian Manifolds in Robot Learning](https://arxiv.org/pdf/1910.04998.pdf)
+
   * [FinBERT: Pre-Trained on SEC Filings for Financial NLP Tasks](https://lnkd.in/eG9nbMx)
 
   * [LEARN TO EXPLAIN EFFICIENTLY VIA NEURAL LOGIC INDUCTIVE LEARNING](https://arxiv.org/pdf/1910.02481.pdf)
