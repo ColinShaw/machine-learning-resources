@@ -73,6 +73,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [LEARN TO EXPLAIN EFFICIENTLY VIA NEURAL LOGIC INDUCTIVE LEARNING](https://arxiv.org/pdf/1910.02481.pdf)
+
   * [A Generalized Framework for Population Based Training](https://arxiv.org/pdf/1902.01894.pdf)
 
   * [DIVERSITY IS ALL YOU NEED: LEARNING SKILLS WITHOUT A REWARD FUNCTION](https://arxiv.org/pdf/1802.06070.pdf)
