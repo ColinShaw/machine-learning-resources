@@ -73,6 +73,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [A Generalized Framework for Population Based Training](https://arxiv.org/pdf/1902.01894.pdf)
+
   * [DIVERSITY IS ALL YOU NEED: LEARNING SKILLS WITHOUT A REWARD FUNCTION](https://arxiv.org/pdf/1802.06070.pdf)
 
   * [BERTSCORE: EVALUATING TEXT GENERATION WITH BERT](https://arxiv.org/pdf/1904.09675.pdf)
