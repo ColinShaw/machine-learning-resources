@@ -73,6 +73,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Artistic Glyph Image Synthesis via One-Stage Few-Shot Learning](https://arxiv.org/pdf/1910.04987.pdf)
+
   * [Theoretical Limits of Pipeline Parallel Optimization and Application to Distributed Deep Learning](https://arxiv.org/pdf/1910.05104.pdf)
 
   * [Addressing Failure Prediction by Learning Model Confidence](https://arxiv.org/pdf/1910.04851.pdf)
