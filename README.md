@@ -73,6 +73,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Theoretical Limits of Pipeline Parallel Optimization and Application to Distributed Deep Learning](https://arxiv.org/pdf/1910.05104.pdf)
+
   * [Addressing Failure Prediction by Learning Model Confidence](https://arxiv.org/pdf/1910.04851.pdf)
 
   * [Bayesian Optimization Meets Riemannian Manifolds in Robot Learning](https://arxiv.org/pdf/1910.04998.pdf)
