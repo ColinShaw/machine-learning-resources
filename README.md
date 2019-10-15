@@ -73,6 +73,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Mish: A Self Regularized Non-Monotonic Neural Activation Function](https://arxiv.org/pdf/1908.08681v2.pdf)
+
   * [Artistic Glyph Image Synthesis via One-Stage Few-Shot Learning](https://arxiv.org/pdf/1910.04987.pdf)
 
   * [Theoretical Limits of Pipeline Parallel Optimization and Application to Distributed Deep Learning](https://arxiv.org/pdf/1910.05104.pdf)
