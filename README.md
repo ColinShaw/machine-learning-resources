@@ -73,6 +73,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Exploring single-cell data with deep multitasking neural networks](https://www.nature.com/articles/s41592-019-0576-7.epdf?shared_access_token=2VkHFzTSuK5EHoj1Rrw6PNRgN0jAjWel9jnR3ZoTv0MH56q2VunG5A9jcqimW3kGpafPpT4Dg2p6HmH2wGSbwwz_zvHyCd0GVoDhYPQbQOfxZCmnPxTqvUQ_A1Ego-95lay5Fi5KXbHHB3s-1S3lYw%3D%3D)
+
   * [Mish: A Self Regularized Non-Monotonic Neural Activation Function](https://arxiv.org/pdf/1908.08681v2.pdf)
 
   * [Artistic Glyph Image Synthesis via One-Stage Few-Shot Learning](https://arxiv.org/pdf/1910.04987.pdf)
