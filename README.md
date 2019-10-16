@@ -48,6 +48,9 @@ good articles and some other resources.
   * __Deep Learning with Python__   
     _François Chollet_   
  
+  * [__Mathematics For Machine Learning__](https://mml-book.github.io/book/mml-book.pdf)
+   
+   
 
 ## Background Literature
 
