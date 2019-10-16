@@ -73,6 +73,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Connections between Support Vector Machines, Wasserstein distance and gradient-penalty GANs](https://arxiv.org/pdf/1910.06922.pdf)
+
   * [ON EMPIRICAL COMPARISONS OF OPTIMIZERS FOR DEEP LEARNING](https://arxiv.org/pdf/1910.05446.pdf)
 
   * [Optimal Training of Fair Predictive Models](https://arxiv.org/pdf/1910.04109.pdf)
