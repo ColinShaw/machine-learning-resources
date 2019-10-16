@@ -73,6 +73,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [ON EMPIRICAL COMPARISONS OF OPTIMIZERS FOR DEEP LEARNING](https://arxiv.org/pdf/1910.05446.pdf)
+
   * [Optimal Training of Fair Predictive Models](https://arxiv.org/pdf/1910.04109.pdf)
 
   * [A Mixed-Supervision Multilevel GAN Framework for Image Quality Enhancement](https://udion.github.io/publication/qegan/QEGAN.pdf)
