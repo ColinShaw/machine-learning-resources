@@ -76,6 +76,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels](https://arxiv.org/pdf/1905.13192.pdf)
+
   * [BOTORCH: PROGRAMMABLE BAYESIAN OPTIMIZATION IN PYTORCH](https://arxiv.org/pdf/1910.06403.pdf)
 
   * [Connections between Support Vector Machines, Wasserstein distance and gradient-penalty GANs](https://arxiv.org/pdf/1910.06922.pdf)
