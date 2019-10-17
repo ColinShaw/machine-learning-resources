@@ -76,6 +76,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [BOTORCH: PROGRAMMABLE BAYESIAN OPTIMIZATION IN PYTORCH](https://arxiv.org/pdf/1910.06403.pdf)
+
   * [Connections between Support Vector Machines, Wasserstein distance and gradient-penalty GANs](https://arxiv.org/pdf/1910.06922.pdf)
 
   * [ON EMPIRICAL COMPARISONS OF OPTIMIZERS FOR DEEP LEARNING](https://arxiv.org/pdf/1910.05446.pdf)
