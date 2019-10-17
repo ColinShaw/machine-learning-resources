@@ -76,6 +76,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Differentiable Strong Lensing: Uniting Gravity and Neural Nets through Differentiable Probabilistic Programming](https://arxiv.org/pdf/1910.06157.pdf)
+
   * [Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels](https://arxiv.org/pdf/1905.13192.pdf)
 
   * [BOTORCH: PROGRAMMABLE BAYESIAN OPTIMIZATION IN PYTORCH](https://arxiv.org/pdf/1910.06403.pdf)
