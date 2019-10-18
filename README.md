@@ -76,6 +76,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Emergent properties of the local geometry of neural loss landscapes](https://arxiv.org/pdf/1910.05929.pdf)
+
   * [Active Learning for Graph Neural Networks via Node Feature Propagation](https://arxiv.org/pdf/1910.07567.pdf)
 
   * [IMPLICIT COMPETITIVE REGULARIZATION IN GANS](https://arxiv.org/pdf/1910.05852.pdf)
