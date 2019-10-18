@@ -76,6 +76,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [STABILIZING TRANSFORMERS FOR REINFORCEMENT LEARNING](https://arxiv.org/pdf/1910.06764.pdf)
+
   * [Learning to Seek: Autonomous Source Seeking with Deep Reinforcement Learning Onboard a Nano Drone Microcontroller](https://arxiv.org/pdf/1909.11236.pdf)
 
   * [QUANTIZED REINFORCEMENT LEARNING (QUARL)](https://arxiv.org/pdf/1910.01055.pdf)
