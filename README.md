@@ -54,6 +54,8 @@ good articles and some other resources.
 
 ## Background Literature
 
+  * [IMPROVING SAT SOLVER HEURISTICS WITH GRAPH NETWORKS AND REINFORCEMENT LEARNING](https://arxiv.org/pdf/1909.11830.pdf)
+
   * [Benchmarking Batch Deep Reinforcement Learning Algorithms](https://arxiv.org/pdf/1910.01708.pdf)
 
   * [Intro to Neural Networks](http://lxmls.it.pt/2018/Lecture.fin.pdf)
