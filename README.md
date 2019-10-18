@@ -78,6 +78,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Restoring ancient text using deep learning: a case study on Greek epigraphy](https://arxiv.org/pdf/1910.06262.pdf)
+
   * [MultiPath: Multiple Probabilistic Anchor Trajectory Hypotheses for Behavior Prediction](https://arxiv.org/pdf/1910.05449.pdf)
 
   * [STABILIZING TRANSFORMERS FOR REINFORCEMENT LEARNING](https://arxiv.org/pdf/1910.06764.pdf)
