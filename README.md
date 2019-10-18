@@ -76,6 +76,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Learning to Seek: Autonomous Source Seeking with Deep Reinforcement Learning Onboard a Nano Drone Microcontroller](https://arxiv.org/pdf/1909.11236.pdf)
+
   * [QUANTIZED REINFORCEMENT LEARNING (QUARL)](https://arxiv.org/pdf/1910.01055.pdf)
 
   * [Landmarks-assisted Collaborative Deep Framework for Automatic 4D Facial Expression Recognition](https://arxiv.org/pdf/1910.05445.pdf)
