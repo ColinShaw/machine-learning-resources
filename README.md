@@ -76,6 +76,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [QUANTIZED REINFORCEMENT LEARNING (QUARL)](https://arxiv.org/pdf/1910.01055.pdf)
+
   * [Landmarks-assisted Collaborative Deep Framework for Automatic 4D Facial Expression Recognition](https://arxiv.org/pdf/1910.05445.pdf)
 
   * [Improving Exploration in Evolution Strategies for Deep Reinforcement Learning via a Population of Novelty-Seeking Agents](https://arxiv.org/pdf/1712.06560.pdf)
