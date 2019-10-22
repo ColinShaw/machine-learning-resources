@@ -78,6 +78,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Hair-GANs: Recovering 3D Hair Structure from a Single Image](https://arxiv.org/pdf/1811.06229.pdf)
+
   * [Harnessing the Power of Infinitely Wide Deep Nets on Small-data Tasks](https://arxiv.org/pdf/1910.01663.pdf)
 
   * [On the Utility of Learning about Humans for Human-AI Coordination](https://arxiv.org/pdf/1910.05789.pdf)
