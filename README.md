@@ -78,6 +78,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Harnessing the Power of Infinitely Wide Deep Nets on Small-data Tasks](https://arxiv.org/pdf/1910.01663.pdf)
+
   * [On the Utility of Learning about Humans for Human-AI Coordination](https://arxiv.org/pdf/1910.05789.pdf)
 
   * [Language Models as Knowledge Bases?](https://arxiv.org/pdf/1909.01066.pdf)
