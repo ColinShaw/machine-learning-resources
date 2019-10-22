@@ -80,6 +80,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Precise measurement of quantum observables with neural-network estimators](https://arxiv.org/pdf/1910.07596.pdf)
+
   * [BIAS-RESILIENT NEURAL NETWORK](https://arxiv.org/pdf/1910.03676.pdf)
 
   * [Hair-GANs: Recovering 3D Hair Structure from a Single Image](https://arxiv.org/pdf/1811.06229.pdf)
