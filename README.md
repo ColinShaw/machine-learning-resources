@@ -80,6 +80,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Neural Logic Networks](https://arxiv.org/pdf/1910.08629.pdf)
+
   * [Precise measurement of quantum observables with neural-network estimators](https://arxiv.org/pdf/1910.07596.pdf)
 
   * [BIAS-RESILIENT NEURAL NETWORK](https://arxiv.org/pdf/1910.03676.pdf)
