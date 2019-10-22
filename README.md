@@ -78,6 +78,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [BIAS-RESILIENT NEURAL NETWORK](https://arxiv.org/pdf/1910.03676.pdf)
+
   * [Hair-GANs: Recovering 3D Hair Structure from a Single Image](https://arxiv.org/pdf/1811.06229.pdf)
 
   * [Harnessing the Power of Infinitely Wide Deep Nets on Small-data Tasks](https://arxiv.org/pdf/1910.01663.pdf)
