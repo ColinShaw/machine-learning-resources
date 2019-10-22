@@ -78,6 +78,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Language Models as Knowledge Bases?](https://arxiv.org/pdf/1909.01066.pdf)
+
   * [Modelling Generalized Forces with Reinforcement Learning for Sim-to-Real Transfer](https://arxiv.org/pdf/1910.09471.pdf)
 
   * [Restoring ancient text using deep learning: a case study on Greek epigraphy](https://arxiv.org/pdf/1910.06262.pdf)
