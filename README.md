@@ -78,6 +78,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Modelling Generalized Forces with Reinforcement Learning for Sim-to-Real Transfer](https://arxiv.org/pdf/1910.09471.pdf)
+
   * [Restoring ancient text using deep learning: a case study on Greek epigraphy](https://arxiv.org/pdf/1910.06262.pdf)
 
   * [MultiPath: Multiple Probabilistic Anchor Trajectory Hypotheses for Behavior Prediction](https://arxiv.org/pdf/1910.05449.pdf)
