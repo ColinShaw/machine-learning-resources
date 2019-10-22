@@ -78,6 +78,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [On the Utility of Learning about Humans for Human-AI Coordination](https://arxiv.org/pdf/1910.05789.pdf)
+
   * [Language Models as Knowledge Bases?](https://arxiv.org/pdf/1909.01066.pdf)
 
   * [Modelling Generalized Forces with Reinforcement Learning for Sim-to-Real Transfer](https://arxiv.org/pdf/1910.09471.pdf)
