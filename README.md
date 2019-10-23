@@ -80,6 +80,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [MultiFiT: Efficient Multi-lingual Language Model Fine-tuning](https://arxiv.org/pdf/1909.04761.pdf)
+
   * [Neural Logic Networks](https://arxiv.org/pdf/1910.08629.pdf)
 
   * [Precise measurement of quantum observables with neural-network estimators](https://arxiv.org/pdf/1910.07596.pdf)
