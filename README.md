@@ -80,6 +80,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Improved Sample Complexities for Deep Networks and Robust Classification via an All-Layer Margin](https://arxiv.org/pdf/1910.04284.pdf)
+
   * [MultiFiT: Efficient Multi-lingual Language Model Fine-tuning](https://arxiv.org/pdf/1909.04761.pdf)
 
   * [Neural Logic Networks](https://arxiv.org/pdf/1910.08629.pdf)
