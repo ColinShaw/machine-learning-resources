@@ -54,12 +54,6 @@ good articles and some other resources.
 
 ## Background Literature
 
-  * [Deep Reinforcement Learning meets Graph Neural Networks: An optical network routing use case](https://arxiv.org/pdf/1910.07421.pdf)
-
-  * [IMPROVING SAT SOLVER HEURISTICS WITH GRAPH NETWORKS AND REINFORCEMENT LEARNING](https://arxiv.org/pdf/1909.11830.pdf)
-
-  * [Benchmarking Batch Deep Reinforcement Learning Algorithms](https://arxiv.org/pdf/1910.01708.pdf)
-
   * [Intro to Neural Networks](http://lxmls.it.pt/2018/Lecture.fin.pdf)
 
   * [Dive into Deep Learning](http://d2l.ai/index.html)
@@ -79,6 +73,12 @@ good articles and some other resources.
 
 
 ## Interesting and Relevant Articles
+
+  * [Deep Reinforcement Learning meets Graph Neural Networks: An optical network routing use case](https://arxiv.org/pdf/1910.07421.pdf)
+
+  * [IMPROVING SAT SOLVER HEURISTICS WITH GRAPH NETWORKS AND REINFORCEMENT LEARNING](https://arxiv.org/pdf/1909.11830.pdf)
+
+  * [Benchmarking Batch Deep Reinforcement Learning Algorithms](https://arxiv.org/pdf/1910.01708.pdf)
 
   * [LEARNING PARTIAL DIFFERENTIAL EQUATIONS FROM DATA USING NEURAL NETWORKS](https://arxiv.org/pdf/1910.10262.pdf)
 
