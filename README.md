@@ -80,6 +80,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [GPU-ACCELERATED VITERBI EXACT LATTICE DECODER FOR BATCHED ONLINE AND OFFLINE SPEECH RECOGNITION](https://arxiv.org/pdf/1910.10032.pdf)
+
   * [Teacher algorithms for curriculum learning of Deep RL in continuously parameterized environments](https://arxiv.org/pdf/1910.07224.pdf)
 
   * [Gaze360: Physically Unconstrained Gaze Estimation in the Wild](https://arxiv.org/pdf/1910.10088.pdf)
