@@ -80,6 +80,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [CASCADED GENERATION OF HIGH-QUALITY COLOR VISIBLE FACE IMAGES FROM THERMAL CAPTURES](https://arxiv.org/pdf/1910.09524.pdf)
+
   * [GPU-ACCELERATED VITERBI EXACT LATTICE DECODER FOR BATCHED ONLINE AND OFFLINE SPEECH RECOGNITION](https://arxiv.org/pdf/1910.10032.pdf)
 
   * [Teacher algorithms for curriculum learning of Deep RL in continuously parameterized environments](https://arxiv.org/pdf/1910.07224.pdf)
