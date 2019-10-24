@@ -80,6 +80,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Teacher algorithms for curriculum learning of Deep RL in continuously parameterized environments](https://arxiv.org/pdf/1910.07224.pdf)
+
   * [Gaze360: Physically Unconstrained Gaze Estimation in the Wild](https://arxiv.org/pdf/1910.10088.pdf)
 
   * [Self-Supervised Sim-to-Real Adaptation for Visual Robotic Manipulation](https://arxiv.org/pdf/1910.09470.pdf)
