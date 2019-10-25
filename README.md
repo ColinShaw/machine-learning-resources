@@ -74,6 +74,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [FIRST-ORDER PRECONDITIONING VIA HYPERGRADIENT DESCENT](https://arxiv.org/pdf/1910.08461.pdf)
+
   * [Deep Reinforcement Learning meets Graph Neural Networks: An optical network routing use case](https://arxiv.org/pdf/1910.07421.pdf)
 
   * [IMPROVING SAT SOLVER HEURISTICS WITH GRAPH NETWORKS AND REINFORCEMENT LEARNING](https://arxiv.org/pdf/1909.11830.pdf)
