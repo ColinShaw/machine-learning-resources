@@ -1830,6 +1830,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
+
   * [Attention? Attention!](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)
 
   * [Continuous Delivery for Machine Learning](https://martinfowler.com/articles/cd4ml.html)
