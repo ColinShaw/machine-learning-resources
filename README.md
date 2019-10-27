@@ -74,6 +74,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [AdaptIS: Adaptive Instance Selection Network](https://arxiv.org/pdf/1909.07829.pdf)
+
   * [Latent ODEs for Irregularly-Sampled Time Series](https://arxiv.org/pdf/1907.03907.pdf)
 
   * [WEAKLY SUPERVISED DISENTANGLEMENT WITH GUARANTEES](https://arxiv.org/pdf/1910.09772.pdf)
