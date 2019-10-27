@@ -74,6 +74,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [A General Framework for Uncertainty Estimation in Deep Learning](http://rpg.ifi.uzh.ch/docs/RAL20_Loquercio.pdf)
+
   * [AdaptIS: Adaptive Instance Selection Network](https://arxiv.org/pdf/1909.07829.pdf)
 
   * [Latent ODEs for Irregularly-Sampled Time Series](https://arxiv.org/pdf/1907.03907.pdf)
