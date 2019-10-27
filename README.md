@@ -74,6 +74,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [WEAKLY SUPERVISED DISENTANGLEMENT WITH GUARANTEES](https://arxiv.org/pdf/1910.09772.pdf)
+
   * [ON MUTUAL INFORMATION MAXIMIZATION FOR REPRESENTATION LEARNING](https://arxiv.org/pdf/1907.13625.pdf)
 
   * [FIRST-ORDER PRECONDITIONING VIA HYPERGRADIENT DESCENT](https://arxiv.org/pdf/1910.08461.pdf)
