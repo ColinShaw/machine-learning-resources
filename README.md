@@ -74,6 +74,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [BANANAS: Bayesian Optimization with Neural Architectures for Neural Architecture Search](https://arxiv.org/pdf/1910.11858.pdf)
+
   * [High-Quality Self-Supervised Deep Image Denoising](https://arxiv.org/pdf/1901.10277.pdf)
 
   * [SCALE-EQUIVARIANT STEERABLE NETWORKS](https://arxiv.org/pdf/1910.11093.pdf)
