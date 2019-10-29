@@ -74,6 +74,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Capacity, Bandwidth, and Compositionality in Emergent Language Learning](https://arxiv.org/pdf/1910.11424.pdf)
+
   * [Few-Shot Unsupervised Image-to-Image Translation](https://arxiv.org/pdf/1905.01723.pdf)
 
   * [Cross-View Policy Learning for Street Navigation](https://arxiv.org/pdf/1906.05930.pdf)
