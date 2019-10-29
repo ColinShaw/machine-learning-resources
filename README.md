@@ -74,6 +74,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Few-Shot Unsupervised Image-to-Image Translation](https://arxiv.org/pdf/1905.01723.pdf)
+
   * [Cross-View Policy Learning for Street Navigation](https://arxiv.org/pdf/1906.05930.pdf)
 
   * [BANANAS: Bayesian Optimization with Neural Architectures for Neural Architecture Search](https://arxiv.org/pdf/1910.11858.pdf)
