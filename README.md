@@ -74,6 +74,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Learning to Predict Without Looking Ahead: World Models Without Forward Prediction](https://arxiv.org/pdf/1910.13038.pdf)
+
   * [Variational Temporal Abstraction](https://arxiv.org/pdf/1910.00775.pdf)
 
   * [DIFFTAICHI: DIFFERENTIABLE PROGRAMMING FOR PHYSICAL SIMULATION](https://arxiv.org/pdf/1910.00935v1.pdf)
