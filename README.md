@@ -74,6 +74,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Tensor Programs I: Wide Feedforward or Recurrent Neural Networks of Any Architecture are Gaussian Processes](https://arxiv.org/pdf/1910.12478.pdf)
+
   * [DEEP CAUSAL REPRESENTATION LEARNING FOR UNSUPERVISED DOMAIN ADAPTATION](https://arxiv.org/pdf/1910.12417.pdf)
 
   * [EMERGENT TOOL USE FROM MULTI-AGENT AUTOCURRICULA](https://arxiv.org/pdf/1909.07528.pdf)
