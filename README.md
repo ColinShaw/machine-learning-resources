@@ -74,6 +74,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Variational Temporal Abstraction](https://arxiv.org/pdf/1910.00775.pdf)
+
   * [DIFFTAICHI: DIFFERENTIABLE PROGRAMMING FOR PHYSICAL SIMULATION](https://arxiv.org/pdf/1910.00935v1.pdf)
 
   * [Capacity, Bandwidth, and Compositionality in Emergent Language Learning](https://arxiv.org/pdf/1910.11424.pdf)
