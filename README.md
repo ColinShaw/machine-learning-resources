@@ -74,6 +74,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [EMERGENT TOOL USE FROM MULTI-AGENT AUTOCURRICULA](https://arxiv.org/pdf/1909.07528.pdf)
+
   * [Learning to Predict Without Looking Ahead: World Models Without Forward Prediction](https://arxiv.org/pdf/1910.13038.pdf)
 
   * [Variational Temporal Abstraction](https://arxiv.org/pdf/1910.00775.pdf)
