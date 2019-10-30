@@ -74,6 +74,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [SinGAN: Learning a Generative Model from a Single Natural Image](https://arxiv.org/pdf/1905.01164.pdf)
+
   * [Neural Network Distiller: A Python Package For DNN Compression Research](https://arxiv.org/pdf/1910.12232.pdf)
 
   * [Tensor Programs I: Wide Feedforward or Recurrent Neural Networks of Any Architecture are Gaussian Processes](https://arxiv.org/pdf/1910.12478.pdf)
