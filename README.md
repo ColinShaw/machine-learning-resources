@@ -74,6 +74,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Neural Network Distiller: A Python Package For DNN Compression Research](https://arxiv.org/pdf/1910.12232.pdf)
+
   * [Tensor Programs I: Wide Feedforward or Recurrent Neural Networks of Any Architecture are Gaussian Processes](https://arxiv.org/pdf/1910.12478.pdf)
 
   * [DEEP CAUSAL REPRESENTATION LEARNING FOR UNSUPERVISED DOMAIN ADAPTATION](https://arxiv.org/pdf/1910.12417.pdf)
