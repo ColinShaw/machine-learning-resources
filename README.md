@@ -74,6 +74,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [A Prior of a Googol Gaussians: a Tensor Ring Induced Prior for Generative Models](https://arxiv.org/pdf/1910.13148.pdf)
+
   * [Relay Policy Learning: Solving Long-Horizon Tasks via Imitation and Reinforcement Learning](https://arxiv.org/pdf/1910.11956.pdf)
 
   * [SinGAN: Learning a Generative Model from a Single Natural Image](https://arxiv.org/pdf/1905.01164.pdf)
