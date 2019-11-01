@@ -74,6 +74,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Neural Assistant: Joint Action Prediction, Response Generation, and Latent Knowledge Reasoning](https://arxiv.org/pdf/1910.14613.pdf)
+
   * [Neural Density Estimation and Likelihood-free Inference](https://arxiv.org/pdf/1910.13233.pdf)
 
   * [A Prior of a Googol Gaussians: a Tensor Ring Induced Prior for Generative Models](https://arxiv.org/pdf/1910.13148.pdf)
