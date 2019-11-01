@@ -74,6 +74,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Learning Data Manipulation for Augmentation and Weighting](https://arxiv.org/pdf/1910.12795.pdf)
+
   * [Function-Space Distributions over Kernels](https://arxiv.org/pdf/1910.13565.pdf)
 
   * [Neural Assistant: Joint Action Prediction, Response Generation, and Latent Knowledge Reasoning](https://arxiv.org/pdf/1910.14613.pdf)
