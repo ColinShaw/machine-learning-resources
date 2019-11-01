@@ -74,6 +74,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Evaluating the Factual Consistency of Abstractive Text Summarization](https://arxiv.org/pdf/1910.12840.pdf)
+
   * [Multimodal Model-Agnostic Meta-Learning via Task-Aware Modulation](https://arxiv.org/pdf/1910.13616.pdf)
 
   * [Learning Data Manipulation for Augmentation and Weighting](https://arxiv.org/pdf/1910.12795.pdf)
