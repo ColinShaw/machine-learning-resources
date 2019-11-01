@@ -74,6 +74,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Function-Space Distributions over Kernels](https://arxiv.org/pdf/1910.13565.pdf)
+
   * [Neural Assistant: Joint Action Prediction, Response Generation, and Latent Knowledge Reasoning](https://arxiv.org/pdf/1910.14613.pdf)
 
   * [Neural Density Estimation and Likelihood-free Inference](https://arxiv.org/pdf/1910.13233.pdf)
