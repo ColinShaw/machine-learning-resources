@@ -74,6 +74,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Neural Ordinary Differential Equations for Semantic Segmentation of Individual Colon Glands](https://arxiv.org/pdf/1910.10470.pdf)
+
   * [Adversarial NLI: A New Benchmark for Natural Language Understanding](https://arxiv.org/pdf/1910.14599.pdf)
 
   * [Evaluating the Factual Consistency of Abstractive Text Summarization](https://arxiv.org/pdf/1910.12840.pdf)
