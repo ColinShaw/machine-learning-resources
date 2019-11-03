@@ -74,6 +74,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Learning Transferable Graph Exploration](https://arxiv.org/pdf/1910.12980.pdf)
+
   * [On the Interaction Between Deep Detectors and Siamese Trackers in Video Surveillance](https://arxiv.org/pdf/1910.14552.pdf)
 
   * [Neural Ordinary Differential Equations for Semantic Segmentation of Individual Colon Glands](https://arxiv.org/pdf/1910.10470.pdf)
