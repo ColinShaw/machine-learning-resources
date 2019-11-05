@@ -74,6 +74,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Counterfactual Story Reasoning and Generation](https://arxiv.org/pdf/1909.04076.pdf)
+
   * [EDGEFOOL: AN ADVERSARIAL IMAGE ENHANCEMENT FILTER](https://arxiv.org/pdf/1910.12227v1.pdf)
 
   * [GENERALIZATION THROUGH MEMORIZATION: NEAREST NEIGHBOR LANGUAGE MODELS](https://arxiv.org/pdf/1911.00172.pdf)
