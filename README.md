@@ -19,6 +19,8 @@ good articles and some other resources.
 
 ## Introductory 
 
+  * [___Foundations of Machine Learning___](https://cs.nyu.edu/~mohri/mlbook/)
+
   * __Introduction To Machine Learning__   
     _Ethem Alpaydin_
     
