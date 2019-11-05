@@ -74,6 +74,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Learning to Fix Build Errors with Graph2Diff Neural Networks](https://arxiv.org/pdf/1911.01205.pdf)
+
   * [Image-Conditioned Graph Generation for Road Network Extraction](https://arxiv.org/pdf/1910.14388.pdf)
 
   * [Optuna: A Next-generation Hyperparameter Optimization Framework](https://arxiv.org/pdf/1907.10902.pdf)
