@@ -74,6 +74,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Generalization of Reinforcement Learners with Working and Episodic Memory](https://arxiv.org/pdf/1910.13406.pdf)
+
   * [CCNet: Extracting High Quality Monolingual Datasets from Web Crawl Data](https://arxiv.org/pdf/1911.00359.pdf)
 
   * [Learning to Fix Build Errors with Graph2Diff Neural Networks](https://arxiv.org/pdf/1911.01205.pdf)
