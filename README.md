@@ -1906,6 +1906,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Differentiable Convex Optimization Layers](https://locuslab.github.io/2019-10-28-cvxpylayers/)
+
   * [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 
   * [Attention? Attention!](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)
