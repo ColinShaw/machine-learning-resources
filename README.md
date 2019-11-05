@@ -74,6 +74,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Learning Neural Networks with Adaptive Regularization](https://arxiv.org/pdf/1907.06288.pdf)
+
   * [Seeing What a GAN Cannot Generate](https://arxiv.org/pdf/1910.11626.pdf)
 
   * [Learning Transferable Graph Exploration](https://arxiv.org/pdf/1910.12980.pdf)
