@@ -74,6 +74,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Integer Discrete Flows and Lossless Compression](https://arxiv.org/pdf/1905.07376.pdf)
+
   * [Generalization of Reinforcement Learners with Working and Episodic Memory](https://arxiv.org/pdf/1910.13406.pdf)
 
   * [CCNet: Extracting High Quality Monolingual Datasets from Web Crawl Data](https://arxiv.org/pdf/1911.00359.pdf)
