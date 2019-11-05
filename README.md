@@ -74,6 +74,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [CCNet: Extracting High Quality Monolingual Datasets from Web Crawl Data](https://arxiv.org/pdf/1911.00359.pdf)
+
   * [Learning to Fix Build Errors with Graph2Diff Neural Networks](https://arxiv.org/pdf/1911.01205.pdf)
 
   * [Image-Conditioned Graph Generation for Road Network Extraction](https://arxiv.org/pdf/1910.14388.pdf)
