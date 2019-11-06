@@ -76,6 +76,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Preventing Gradient Attenuation in Lipschitz Constrained Convolutional Networks](https://arxiv.org/pdf/1911.00937.pdf)
+
   * [Counterfactual Story Reasoning and Generation](https://arxiv.org/pdf/1909.04076.pdf)
 
   * [EDGEFOOL: AN ADVERSARIAL IMAGE ENHANCEMENT FILTER](https://arxiv.org/pdf/1910.12227v1.pdf)
