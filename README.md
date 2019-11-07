@@ -76,6 +76,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [The frontier of simulation-based inference](https://arxiv.org/pdf/1911.01429v1.pdf)
+
   * [Fast Transformer Decoding: One Write-Head is All You Need](https://arxiv.org/pdf/1911.02150.pdf)
 
   * [Parallelizing Stochastic Gradient Descent for Least Squares Regression: mini-batching, averaging, and model misspecification](https://arxiv.org/pdf/1610.03774.pdf)
