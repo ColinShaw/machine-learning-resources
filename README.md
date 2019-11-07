@@ -76,6 +76,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [The Measure of Intelligence](https://arxiv.org/pdf/1911.01547.pdf)
+
   * [The frontier of simulation-based inference](https://arxiv.org/pdf/1911.01429v1.pdf)
 
   * [Fast Transformer Decoding: One Write-Head is All You Need](https://arxiv.org/pdf/1911.02150.pdf)
