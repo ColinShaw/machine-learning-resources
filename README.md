@@ -76,6 +76,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Fast Transformer Decoding: One Write-Head is All You Need](https://arxiv.org/pdf/1911.02150.pdf)
+
   * [Parallelizing Stochastic Gradient Descent for Least Squares Regression: mini-batching, averaging, and model misspecification](https://arxiv.org/pdf/1610.03774.pdf)
 
   * [CompILE: Compositional Imitation Learning and Execution](https://arxiv.org/pdf/1812.01483.pdf)
