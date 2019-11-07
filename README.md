@@ -76,6 +76,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Parallelizing Stochastic Gradient Descent for Least Squares Regression: mini-batching, averaging, and model misspecification](https://arxiv.org/pdf/1610.03774.pdf)
+
   * [CompILE: Compositional Imitation Learning and Execution](https://arxiv.org/pdf/1812.01483.pdf)
 
   * [Preventing Gradient Attenuation in Lipschitz Constrained Convolutional Networks](https://arxiv.org/pdf/1911.00937.pdf)
