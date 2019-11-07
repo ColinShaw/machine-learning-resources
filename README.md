@@ -76,6 +76,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [CompILE: Compositional Imitation Learning and Execution](https://arxiv.org/pdf/1812.01483.pdf)
+
   * [Preventing Gradient Attenuation in Lipschitz Constrained Convolutional Networks](https://arxiv.org/pdf/1911.00937.pdf)
 
   * [Counterfactual Story Reasoning and Generation](https://arxiv.org/pdf/1909.04076.pdf)
