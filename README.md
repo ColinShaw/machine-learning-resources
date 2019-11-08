@@ -78,6 +78,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Dynamics-Aware Unsupervised Discovery of Skills](https://arxiv.org/pdf/1907.01657.pdf)
+
   * [The Measure of Intelligence](https://arxiv.org/pdf/1911.01547.pdf)
 
   * [The frontier of simulation-based inference](https://arxiv.org/pdf/1911.01429v1.pdf)
