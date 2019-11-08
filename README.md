@@ -15,6 +15,8 @@ good articles and some other resources.
   * __Numerical Linear Algebra and Applications__     
     _Biswa Nath Datta_
     
+  * [___Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares___](https://web.stanford.edu/~boyd/vmls/)
+    
     
 
 ## Introductory 
