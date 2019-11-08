@@ -78,6 +78,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Combinatorial Bayesian Optimization using the Graph Cartesian Product](https://arxiv.org/pdf/1902.00448.pdf)
+
   * [Dynamics-Aware Unsupervised Discovery of Skills](https://arxiv.org/pdf/1907.01657.pdf)
 
   * [The Measure of Intelligence](https://arxiv.org/pdf/1911.01547.pdf)
