@@ -1920,6 +1920,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Unsupervised Cross-lingual Representation Learning](https://ruder.io/unsupervised-cross-lingual-learning/)
+
   * [Differentiable Convex Optimization Layers](https://locuslab.github.io/2019-10-28-cvxpylayers/)
 
   * [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
