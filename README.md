@@ -78,6 +78,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Nonlinearity + Networks: A 2020 Vision](https://arxiv.org/pdf/1911.03805.pdf)
+
   * [Worst Cases Policy Gradients](https://arxiv.org/pdf/1911.03618.pdf)
 
   * [Probabilistic Logic Neural Networks for Reasoning](https://arxiv.org/pdf/1906.08495.pdf)
