@@ -78,6 +78,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Probabilistic Logic Neural Networks for Reasoning](https://arxiv.org/pdf/1906.08495.pdf)
+
   * [Improving Transformer Models by Reordering their Sublayers](https://ofir.io/sandwich_transformer.pdf)
 
   * [Practical Deep Learning with Bayesian Principles](https://arxiv.org/pdf/1906.02506.pdf)
