@@ -78,6 +78,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Story Realization: Expanding Plot Events into Sentences](https://arxiv.org/pdf/1909.03480.pdf)
+
   * [Nonlinearity + Networks: A 2020 Vision](https://arxiv.org/pdf/1911.03805.pdf)
 
   * [Worst Cases Policy Gradients](https://arxiv.org/pdf/1911.03618.pdf)
