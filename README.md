@@ -78,6 +78,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [End to end learning and optimization on graphs](https://arxiv.org/pdf/1905.13732.pdf)
+
   * [Combinatorial Bayesian Optimization using the Graph Cartesian Product](https://arxiv.org/pdf/1902.00448.pdf)
 
   * [Dynamics-Aware Unsupervised Discovery of Skills](https://arxiv.org/pdf/1907.01657.pdf)
