@@ -78,6 +78,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Practical Deep Learning with Bayesian Principles](https://arxiv.org/pdf/1906.02506.pdf)
+
   * [End to end learning and optimization on graphs](https://arxiv.org/pdf/1905.13732.pdf)
 
   * [Combinatorial Bayesian Optimization using the Graph Cartesian Product](https://arxiv.org/pdf/1902.00448.pdf)
