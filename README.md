@@ -16,6 +16,8 @@ good articles and some other resources.
     _Biswa Nath Datta_
     
   * [___Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares___](https://web.stanford.edu/~boyd/vmls/)
+  
+  * [___Linear Algebra___](http://joshua.smcvt.edu/linearalgebra/)
     
     
 
