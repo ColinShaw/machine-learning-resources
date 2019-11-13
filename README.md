@@ -80,6 +80,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Self-training with Noisy Student improves ImageNet classification](https://arxiv.org/pdf/1911.04252.pdf)
+
   * [Etalumis: Bringing Probabilistic Programming to Scientific Simulators at Scale](https://arxiv.org/pdf/1907.03382.pdf)
 
   * [Story Realization: Expanding Plot Events into Sentences](https://arxiv.org/pdf/1909.03480.pdf)
