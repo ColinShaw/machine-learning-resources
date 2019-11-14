@@ -80,6 +80,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Shaping Visual Representations with Language for Few-shot Classification](https://arxiv.org/pdf/1911.02683.pdf)
+
   * [Experience-Embedded Visual Foresight](https://arxiv.org/pdf/1911.05071.pdf)
 
   * [Integrating Markov processes with structural causal modeling enables counterfactual inference in complex systems](https://arxiv.org/pdf/1911.02175.pdf)
