@@ -80,6 +80,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Optimizing Millions of Hyperparameters by Implicit Differentiation](https://arxiv.org/pdf/1911.02590.pdf)
+
   * [Shaping Visual Representations with Language for Few-shot Classification](https://arxiv.org/pdf/1911.02683.pdf)
 
   * [Experience-Embedded Visual Foresight](https://arxiv.org/pdf/1911.05071.pdf)
