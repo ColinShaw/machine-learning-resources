@@ -80,6 +80,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Integrating Markov processes with structural causal modeling enables counterfactual inference in complex systems](https://arxiv.org/pdf/1911.02175.pdf)
+
   * [Memory Augmented Recursive Neural Networks](https://arxiv.org/pdf/1911.01545.pdf)
 
   * [Self-training with Noisy Student improves ImageNet classification](https://arxiv.org/pdf/1911.04252.pdf)
