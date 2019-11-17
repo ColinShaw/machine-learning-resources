@@ -80,6 +80,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [SO(8) Supergravity and the Magic of Machine Learning](https://arxiv.org/pdf/1906.00207.pdf)
+
   * [Reconciling modern machine learning practice and the bias-variance trade-off](https://arxiv.org/pdf/1812.11118.pdf)
 
   * [Optimizing Millions of Hyperparameters by Implicit Differentiation](https://arxiv.org/pdf/1911.02590.pdf)
