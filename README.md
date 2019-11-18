@@ -80,6 +80,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Geometry-Aware Neural Rendering](https://arxiv.org/pdf/1911.04554.pdf)
+
   * [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/pdf/1911.05722.pdf)
 
   * [SO(8) Supergravity and the Magic of Machine Learning](https://arxiv.org/pdf/1906.00207.pdf)
