@@ -82,6 +82,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [GLMNet: Graph Learning-Matching Networks for Feature Matching](https://arxiv.org/pdf/1911.07681.pdf)
+
   * [Machine learning for molecular simulation](https://arxiv.org/pdf/1911.02792.pdf)
 
   * [Multiple Futures Prediction](https://arxiv.org/pdf/1911.00997.pdf)
