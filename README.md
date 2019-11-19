@@ -80,6 +80,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Stacked Capsule Autoencoders](https://arxiv.org/pdf/1906.06818.pdf)
+
   * [Universal Intelligence: A Definition of Machine Intelligence](https://arxiv.org/pdf/0712.3329.pdf)
 
   * [Geometry-Aware Neural Rendering](https://arxiv.org/pdf/1911.04554.pdf)
