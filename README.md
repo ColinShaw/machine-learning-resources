@@ -82,6 +82,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Learning From Brains How to Regularize Machines](https://arxiv.org/pdf/1911.05072.pdf)
+
   * [Learning from a Teacher using Unlabeled Data](https://arxiv.org/pdf/1911.05275.pdf)
 
   * [GLMNet: Graph Learning-Matching Networks for Feature Matching](https://arxiv.org/pdf/1911.07681.pdf)
