@@ -82,6 +82,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Learning from a Teacher using Unlabeled Data](https://arxiv.org/pdf/1911.05275.pdf)
+
   * [GLMNet: Graph Learning-Matching Networks for Feature Matching](https://arxiv.org/pdf/1911.07681.pdf)
 
   * [Machine learning for molecular simulation](https://arxiv.org/pdf/1911.02792.pdf)
