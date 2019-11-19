@@ -23,6 +23,8 @@ good articles and some other resources.
 
 ## Introductory 
 
+  * [___A Brief Introduction to Machine Learning for Engineers___](https://arxiv.org/pdf/1709.02840.pdf)
+
   * [___Foundations of Machine Learning___](https://cs.nyu.edu/~mohri/mlbook/)
 
   * __Introduction To Machine Learning__   
