@@ -80,6 +80,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Multiple Futures Prediction](https://arxiv.org/pdf/1911.00997.pdf)
+
   * [Hyper-SAGNN: a self-attention based graph neural network for hypergraphs](https://arxiv.org/pdf/1911.02613.pdf)
 
   * [GIFT: Learning Transformation-Invariant Dense Visual Descriptors via Group CNNs](https://arxiv.org/pdf/1911.05932.pdf)
