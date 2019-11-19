@@ -80,6 +80,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Machine learning for molecular simulation](https://arxiv.org/pdf/1911.02792.pdf)
+
   * [Multiple Futures Prediction](https://arxiv.org/pdf/1911.00997.pdf)
 
   * [Hyper-SAGNN: a self-attention based graph neural network for hypergraphs](https://arxiv.org/pdf/1911.02613.pdf)
