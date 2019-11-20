@@ -82,6 +82,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Location-aware Upsampling for Semantic Segmentation](https://arxiv.org/pdf/1911.05250.pdf)
+
   * [Making an Invisibility Cloak: Real World Adversarial Attacks on Object Detectors](https://arxiv.org/pdf/1910.14667.pdf)
 
   * [Learning From Brains How to Regularize Machines](https://arxiv.org/pdf/1911.05072.pdf)
