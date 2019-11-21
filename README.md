@@ -82,6 +82,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model](https://arxiv.org/pdf/1911.08265.pdf)
+
   * [MarioNETte: Few-shot Face Reenactment Preserving Identity of Unseen Targets](https://arxiv.org/pdf/1911.08139.pdf)
 
   * [Learning Autocomplete Systems as a Communication Game](https://arxiv.org/pdf/1911.06964.pdf)
