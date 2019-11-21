@@ -82,6 +82,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [ASV: Accelerated Stereo Vision System](https://arxiv.org/pdf/1911.07919.pdf)
+
   * [Robo-PlaNet: Learning to Poke in a Day](https://arxiv.org/pdf/1911.03594.pdf)
 
   * [Location-aware Upsampling for Semantic Segmentation](https://arxiv.org/pdf/1911.05250.pdf)
