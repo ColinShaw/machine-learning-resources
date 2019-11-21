@@ -82,6 +82,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [MarioNETte: Few-shot Face Reenactment Preserving Identity of Unseen Targets](https://arxiv.org/pdf/1911.08139.pdf)
+
   * [Learning Autocomplete Systems as a Communication Game](https://arxiv.org/pdf/1911.06964.pdf)
 
   * [Open Set Recognition Through Deep Neural Network Uncertainty: Does Out-of-Distribution Detection Require Generative Classifiers?](http://openaccess.thecvf.com/content_ICCVW_2019/papers/SDL-CV/Mundt_Open_Set_Recognition_Through_Deep_Neural_Network_Uncertainty_Does_Out-of-Distribution_ICCVW_2019_paper.pdf)
