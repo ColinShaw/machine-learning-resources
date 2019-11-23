@@ -82,6 +82,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Continual Unsupervised Representation Learning](https://arxiv.org/pdf/1910.14481.pdf)
+
   * [Model Cards for Model Reporting](https://arxiv.org/pdf/1810.03993.pdf)
 
   * [Planning with Goal-Conditioned Policies](https://arxiv.org/pdf/1911.08453.pdf)
