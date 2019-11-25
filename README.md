@@ -82,6 +82,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Gauge Equivariant Convolutional Networks and the Icosahedral CNN](https://arxiv.org/pdf/1902.04615.pdf)
+
   * [Continual Unsupervised Representation Learning](https://arxiv.org/pdf/1910.14481.pdf)
 
   * [Model Cards for Model Reporting](https://arxiv.org/pdf/1810.03993.pdf)
