@@ -82,6 +82,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [EfficientDet: Scalable and Efficient Object Detection](https://arxiv.org/pdf/1911.09070.pdf)
+
   * [Merging-ISP: Multi-Exposure High Dynamic Range Image Signal Processing](https://arxiv.org/pdf/1911.04762.pdf)
 
   * [Gauge Equivariant Convolutional Networks and the Icosahedral CNN](https://arxiv.org/pdf/1902.04615.pdf)
