@@ -82,6 +82,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [SuperGlue: Learning Feature Matching with Graph Neural Networks](https://arxiv.org/pdf/1911.11763.pdf)
+
   * [EfficientDet: Scalable and Efficient Object Detection](https://arxiv.org/pdf/1911.09070.pdf)
 
   * [Merging-ISP: Multi-Exposure High Dynamic Range Image Signal Processing](https://arxiv.org/pdf/1911.04762.pdf)
