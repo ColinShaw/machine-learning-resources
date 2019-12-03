@@ -82,6 +82,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [ViewAL: Active Learning with Viewpoint Entropy for Semantic Segmentation](https://arxiv.org/pdf/1911.11789.pdf)
+
   * [SuperGlue: Learning Feature Matching with Graph Neural Networks](https://arxiv.org/pdf/1911.11763.pdf)
 
   * [EfficientDet: Scalable and Efficient Object Detection](https://arxiv.org/pdf/1911.09070.pdf)
