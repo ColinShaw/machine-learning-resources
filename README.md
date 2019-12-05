@@ -82,6 +82,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Automatic Video Object Segmentation via Motion-Appearance-Stream Fusion and Instance-aware Segmentation](https://arxiv.org/pdf/1912.01373.pdf)
+
   * [What’s Hidden in a Randomly Weighted Neural Network?](https://arxiv.org/pdf/1911.13299.pdf)
 
   * [ViewAL: Active Learning with Viewpoint Entropy for Semantic Segmentation](https://arxiv.org/pdf/1911.11789.pdf)
