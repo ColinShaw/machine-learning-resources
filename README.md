@@ -82,6 +82,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Full-Gradient Representation for Neural Network Visualization](https://arxiv.org/pdf/1905.00780.pdf)
+
   * [The intriguing role of module criticality in the generalization of deep networks](https://arxiv.org/pdf/1912.00528.pdf)
 
   * [Automatic Video Object Segmentation via Motion-Appearance-Stream Fusion and Instance-aware Segmentation](https://arxiv.org/pdf/1912.01373.pdf)
