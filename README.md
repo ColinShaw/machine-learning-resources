@@ -82,6 +82,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [PolyTransform: Deep Polygon Transformer for Instance Segmentation](https://arxiv.org/pdf/1912.02801.pdf)
+
   * [Full-Gradient Representation for Neural Network Visualization](https://arxiv.org/pdf/1905.00780.pdf)
 
   * [The intriguing role of module criticality in the generalization of deep networks](https://arxiv.org/pdf/1912.00528.pdf)
