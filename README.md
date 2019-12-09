@@ -2020,6 +2020,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [LEARNING HIERARCHICAL PRIORS IN VAES](https://argmax.ai/blog/vhp-vae/)
+
   * [Unsupervised Cross-lingual Representation Learning](https://ruder.io/unsupervised-cross-lingual-learning/)
 
   * [Differentiable Convex Optimization Layers](https://locuslab.github.io/2019-10-28-cvxpylayers/)
