@@ -82,6 +82,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [DATA-EFFICIENT IMAGE RECOGNITION WITH CONTRASTIVE PREDICTIVE CODING](https://arxiv.org/pdf/1905.09272.pdf)
+
   * [Reinforcement Learning for Market Making in a Multi-agent Dealer Market](https://arxiv.org/pdf/1911.05892.pdf)
 
   * [A Prior of a Googol Gaussians: a Tensor Ring Induced Prior for Generative Models](https://arxiv.org/pdf/1910.13148.pdf)
