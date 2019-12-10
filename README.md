@@ -82,6 +82,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Training Agents using Upside-Down Reinforcement Learning](https://arxiv.org/pdf/1912.02877.pdf)
+
   * [DATA-EFFICIENT IMAGE RECOGNITION WITH CONTRASTIVE PREDICTIVE CODING](https://arxiv.org/pdf/1905.09272.pdf)
 
   * [Reinforcement Learning for Market Making in a Multi-agent Dealer Market](https://arxiv.org/pdf/1911.05892.pdf)
