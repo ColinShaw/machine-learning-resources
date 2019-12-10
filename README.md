@@ -82,6 +82,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Stealing Knowledge from Protected Deep Neural Networks Using Composite Unlabeled Data](https://arxiv.org/pdf/1912.03959.pdf)
+
   * [PolyTransform: Deep Polygon Transformer for Instance Segmentation](https://arxiv.org/pdf/1912.02801.pdf)
 
   * [Full-Gradient Representation for Neural Network Visualization](https://arxiv.org/pdf/1905.00780.pdf)
