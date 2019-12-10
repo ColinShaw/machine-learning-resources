@@ -2028,6 +2028,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Protect your Deep Neural Network by Embedding Watermarks!](https://towardsdatascience.com/protect-your-deep-neural-network-by-embedding-watermarks-ed4898ec4ad7)
+
   * [LEARNING HIERARCHICAL PRIORS IN VAES](https://argmax.ai/blog/vhp-vae/)
 
   * [Unsupervised Cross-lingual Representation Learning](https://ruder.io/unsupervised-cross-lingual-learning/)
