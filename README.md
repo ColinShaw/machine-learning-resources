@@ -82,6 +82,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Putting An End to End-to-End: Gradient-Isolated Learning of Representations](https://arxiv.org/pdf/1905.11786.pdf)
+
   * [Geometric Capsule Autoencoders for 3D Point Clouds](https://arxiv.org/pdf/1912.03310.pdf)
 
   * [Training Agents using Upside-Down Reinforcement Learning](https://arxiv.org/pdf/1912.02877.pdf)
