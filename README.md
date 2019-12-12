@@ -82,6 +82,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Machine Unlearning](https://arxiv.org/pdf/1912.03817.pdf)
+
   * [Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning](https://arxiv.org/pdf/1506.02142.pdf)
 
   * [Putting An End to End-to-End: Gradient-Isolated Learning of Representations](https://arxiv.org/pdf/1905.11786.pdf)
