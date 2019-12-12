@@ -82,6 +82,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [RED-NET: A RECURSIVE ENCODER-DECODER NETWORK FOR EDGE DETECTION](https://arxiv.org/pdf/1912.02914.pdf)
+
   * [Machine Unlearning](https://arxiv.org/pdf/1912.03817.pdf)
 
   * [Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning](https://arxiv.org/pdf/1506.02142.pdf)
