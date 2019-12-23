@@ -82,6 +82,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Interrogating theoretical models of neural computation with deep inference](https://www.biorxiv.org/content/10.1101/837567v2.full.pdf)
+
   * [PointRend: Image Segmentation as Rendering](https://arxiv.org/pdf/1912.08193.pdf)
 
   * [RealMix: Towards Realistic Semi-Supervised Deep Learning Algorithms](https://arxiv.org/pdf/1912.08766.pdf)
