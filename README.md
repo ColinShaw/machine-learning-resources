@@ -82,6 +82,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Compositional generalization through meta sequence-to-sequence learning](https://arxiv.org/pdf/1906.05381.pdf)
+
   * [MixMatch: A Holistic Approach to Semi-Supervised Learning](https://arxiv.org/pdf/1905.02249.pdf)
 
   * [U-Net with spatial pyramid pooling for drusen segmentation in optical coherence tomography](https://arxiv.org/pdf/1912.05404.pdf)
