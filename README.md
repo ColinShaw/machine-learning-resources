@@ -82,6 +82,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [PointRend: Image Segmentation as Rendering](https://arxiv.org/pdf/1912.08193.pdf)
+
   * [RealMix: Towards Realistic Semi-Supervised Deep Learning Algorithms](https://arxiv.org/pdf/1912.08766.pdf)
 
   * [Surface HOF: Surface Reconstruction from a Single Image Using Higher Order Function Networks](https://arxiv.org/pdf/1912.08852.pdf)
