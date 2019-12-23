@@ -82,6 +82,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [MixMatch: A Holistic Approach to Semi-Supervised Learning](https://arxiv.org/pdf/1905.02249.pdf)
+
   * [U-Net with spatial pyramid pooling for drusen segmentation in optical coherence tomography](https://arxiv.org/pdf/1912.05404.pdf)
 
   * [From deep learning to mechanistic understanding in neuroscience: the structure of retinal prediction](https://arxiv.org/pdf/1912.06207.pdf)
