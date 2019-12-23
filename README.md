@@ -82,6 +82,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Surface HOF: Surface Reconstruction from a Single Image Using Higher Order Function Networks](https://arxiv.org/pdf/1912.08852.pdf)
+
   * [RED-NET: A RECURSIVE ENCODER-DECODER NETWORK FOR EDGE DETECTION](https://arxiv.org/pdf/1912.02914.pdf)
 
   * [Machine Unlearning](https://arxiv.org/pdf/1912.03817.pdf)
