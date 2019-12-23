@@ -2060,6 +2060,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [A Visual Exploration of Gaussian Processes](https://distill.pub/2019/visual-exploration-gaussian-processes/)
+
   * [12 Steps to Applied AI](https://medium.com/swlh/12-steps-to-applied-ai-2fdad7fdcdf3)
 
   * [Protect your Deep Neural Network by Embedding Watermarks!](https://towardsdatascience.com/protect-your-deep-neural-network-by-embedding-watermarks-ed4898ec4ad7)
