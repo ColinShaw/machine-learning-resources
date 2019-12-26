@@ -82,6 +82,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Robust Gabor Networks](https://arxiv.org/pdf/1912.05661.pdf)
+
   * [YOUR CLASSIFIER IS SECRETLY AN ENERGY BASED MODEL AND YOU SHOULD TREAT IT LIKE ONE](https://arxiv.org/pdf/1912.03263.pdf)
 
   * [Compositional generalization through meta sequence-to-sequence learning](https://arxiv.org/pdf/1906.05381.pdf)
