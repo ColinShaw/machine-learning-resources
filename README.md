@@ -82,6 +82,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [HAMILTONIAN GENERATIVE NETWORKS](https://openreview.net/pdf?id=HJenn6VFvB)
+
   * [Robust Gabor Networks](https://arxiv.org/pdf/1912.05661.pdf)
 
   * [YOUR CLASSIFIER IS SECRETLY AN ENERGY BASED MODEL AND YOU SHOULD TREAT IT LIKE ONE](https://arxiv.org/pdf/1912.03263.pdf)
