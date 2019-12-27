@@ -82,6 +82,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [FisheyeMultiNet: Real-time Multi-task Learning Architecture for Surround-view Automated Parking System](https://arxiv.org/pdf/1912.11066.pdf)
+
   * [HAMILTONIAN GENERATIVE NETWORKS](https://openreview.net/pdf?id=HJenn6VFvB)
 
   * [Robust Gabor Networks](https://arxiv.org/pdf/1912.05661.pdf)
