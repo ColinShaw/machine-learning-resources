@@ -84,6 +84,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Make a Face: Towards Arbitrary High Fidelity Face Manipulation](https://arxiv.org/pdf/1908.07191.pdf)
+
   * [Latent ODEs for Irregularly-Sampled Time Series](https://arxiv.org/pdf/1907.03907.pdf)
 
   * [A Pre-defined Sparse Kernel Based Convolution for Deep CNNs](https://arxiv.org/pdf/1910.00724v2.pdf)
