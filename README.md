@@ -84,6 +84,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [A Pre-defined Sparse Kernel Based Convolution for Deep CNNs](https://arxiv.org/pdf/1910.00724v2.pdf)
+
   * [Multi-organ Segmentation over Partially Labeled Datasets with Multi-scale Feature Abstraction](https://arxiv.org/pdf/2001.00208.pdf)
 
   * [FisheyeMultiNet: Real-time Multi-task Learning Architecture for Surround-view Automated Parking System](https://arxiv.org/pdf/1912.11066.pdf)
