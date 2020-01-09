@@ -82,6 +82,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Multi-organ Segmentation over Partially Labeled Datasets with Multi-scale Feature Abstraction](https://arxiv.org/pdf/2001.00208.pdf)
+
   * [FisheyeMultiNet: Real-time Multi-task Learning Architecture for Surround-view Automated Parking System](https://arxiv.org/pdf/1912.11066.pdf)
 
   * [HAMILTONIAN GENERATIVE NETWORKS](https://openreview.net/pdf?id=HJenn6VFvB)
