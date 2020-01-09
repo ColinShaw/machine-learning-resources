@@ -84,6 +84,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Latent ODEs for Irregularly-Sampled Time Series](https://arxiv.org/pdf/1907.03907.pdf)
+
   * [A Pre-defined Sparse Kernel Based Convolution for Deep CNNs](https://arxiv.org/pdf/1910.00724v2.pdf)
 
   * [Multi-organ Segmentation over Partially Labeled Datasets with Multi-scale Feature Abstraction](https://arxiv.org/pdf/2001.00208.pdf)
