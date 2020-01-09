@@ -57,6 +57,8 @@ good articles and some other resources.
     _François Chollet_   
  
   * [__Mathematics For Machine Learning__](https://mml-book.github.io/book/mml-book.pdf)
+  
+  * [__A Gentle Introduction to Deep Learning for Graphs__](https://arxiv.org/pdf/1912.12693.pdf)
    
    
 
