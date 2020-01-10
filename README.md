@@ -84,6 +84,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [OBJECTS DETECTION FOR REMOTE SENSING IMAGES BASED ON POLAR COORDINATES](https://arxiv.org/pdf/2001.02988.pdf)
+
   * [How neural networks find generalizable solutions: Self-tuned annealing in deep learning](https://arxiv.org/pdf/2001.01678.pdf)
 
   * [Make a Face: Towards Arbitrary High Fidelity Face Manipulation](https://arxiv.org/pdf/1908.07191.pdf)
