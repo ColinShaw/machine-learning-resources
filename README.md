@@ -84,6 +84,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [ON THE RELATIONSHIP BETWEEN SELF-ATTENTION AND CONVOLUTIONAL LAYERS](https://openreview.net/pdf?id=HJlnC1rKPB)
+
   * [STAViS: Spatio-Temporal AudioVisual Saliency Network](https://arxiv.org/pdf/2001.03063.pdf)
 
   * [OBJECTS DETECTION FOR REMOTE SENSING IMAGES BASED ON POLAR COORDINATES](https://arxiv.org/pdf/2001.02988.pdf)
