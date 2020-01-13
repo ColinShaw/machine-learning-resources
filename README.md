@@ -84,6 +84,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [MatrixNets: A New Scale and Aspect Ratio Aware Architecture for Object Detection](https://arxiv.org/pdf/2001.03194.pdf)
+
   * [ON THE RELATIONSHIP BETWEEN SELF-ATTENTION AND CONVOLUTIONAL LAYERS](https://openreview.net/pdf?id=HJlnC1rKPB)
 
   * [STAViS: Spatio-Temporal AudioVisual Saliency Network](https://arxiv.org/pdf/2001.03063.pdf)
