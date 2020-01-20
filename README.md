@@ -84,6 +84,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [High Speed and High Dynamic Range Video with an Event Camera](http://rpg.ifi.uzh.ch/docs/arXiv19_Rebecq.pdf)
+
   * [Pose-Assisted Multi-Camera Collaboration for Active Object Tracking](https://arxiv.org/pdf/2001.05161.pdf)
 
   * [MatrixNets: A New Scale and Aspect Ratio Aware Architecture for Object Detection](https://arxiv.org/pdf/2001.03194.pdf)
