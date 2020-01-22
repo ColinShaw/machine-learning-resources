@@ -84,6 +84,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [EdgeNets:Edge Varying Graph Neural Networks](https://arxiv.org/pdf/2001.07620.pdf)
+
   * [High Speed and High Dynamic Range Video with an Event Camera](http://rpg.ifi.uzh.ch/docs/arXiv19_Rebecq.pdf)
 
   * [Pose-Assisted Multi-Camera Collaboration for Active Object Tracking](https://arxiv.org/pdf/2001.05161.pdf)
