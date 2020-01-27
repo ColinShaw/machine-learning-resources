@@ -84,6 +84,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [SAUNet: Shape Attentive U-Net for Interpretable Medical Image Segmentation](https://arxiv.org/pdf/2001.07645.pdf)
+
   * [EdgeNets:Edge Varying Graph Neural Networks](https://arxiv.org/pdf/2001.07620.pdf)
 
   * [High Speed and High Dynamic Range Video with an Event Camera](http://rpg.ifi.uzh.ch/docs/arXiv19_Rebecq.pdf)
