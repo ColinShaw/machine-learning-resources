@@ -84,6 +84,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [DeepErase: Weakly Supervised Ink Artifact Removal in Document Text Images](https://arxiv.org/pdf/1910.07070.pdf)
+
   * [SAUNet: Shape Attentive U-Net for Interpretable Medical Image Segmentation](https://arxiv.org/pdf/2001.07645.pdf)
 
   * [EdgeNets:Edge Varying Graph Neural Networks](https://arxiv.org/pdf/2001.07620.pdf)
