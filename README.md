@@ -84,6 +84,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [ImVoteNet: Boosting 3D Object Detection in Point Clouds with Image Votes](https://arxiv.org/pdf/2001.10692.pdf)
+
   * [Fine-Tuning a Transformer-Based Language Model to Avoid Generating Non-Normative Text](https://arxiv.org/pdf/2001.08764.pdf)
 
   * [DeepErase: Weakly Supervised Ink Artifact Removal in Document Text Images](https://arxiv.org/pdf/1910.07070.pdf)
