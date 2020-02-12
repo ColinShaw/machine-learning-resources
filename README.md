@@ -84,6 +84,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [SketchTransfer: A Challenging New Task for Exploring Detail-Invariance and the Abstractions Learned by Deep Networks](https://arxiv.org/pdf/1912.11570.pdf)
+
   * [Monocular 3D Object Detection with Decoupled Structured Polygon Estimation and Height-Guided Depth Estimation](https://arxiv.org/pdf/2002.01619.pdf)
 
   * [ImVoteNet: Boosting 3D Object Detection in Point Clouds with Image Votes](https://arxiv.org/pdf/2001.10692.pdf)
