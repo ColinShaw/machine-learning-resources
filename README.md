@@ -84,6 +84,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Deep Reinforcement Learning for Autonomous Driving: A Survey](https://arxiv.org/pdf/2002.00444.pdf)
+
   * [SketchTransfer: A Challenging New Task for Exploring Detail-Invariance and the Abstractions Learned by Deep Networks](https://arxiv.org/pdf/1912.11570.pdf)
 
   * [Monocular 3D Object Detection with Decoupled Structured Polygon Estimation and Height-Guided Depth Estimation](https://arxiv.org/pdf/2002.01619.pdf)
