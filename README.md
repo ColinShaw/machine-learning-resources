@@ -84,6 +84,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Variational Autoencoders and Nonlinear ICA: A Unifying Framework](https://arxiv.org/pdf/1907.04809.pdf)
+
   * [Deep Reinforcement Learning for Autonomous Driving: A Survey](https://arxiv.org/pdf/2002.00444.pdf)
 
   * [SketchTransfer: A Challenging New Task for Exploring Detail-Invariance and the Abstractions Learned by Deep Networks](https://arxiv.org/pdf/1912.11570.pdf)
