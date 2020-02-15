@@ -84,6 +84,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [BADGR: An Autonomous Self-Supervised Learning-Based Navigation System](https://arxiv.org/pdf/2002.05700.pdf)
+
   * [Variational Autoencoders and Nonlinear ICA: A Unifying Framework](https://arxiv.org/pdf/1907.04809.pdf)
 
   * [Deep Reinforcement Learning for Autonomous Driving: A Survey](https://arxiv.org/pdf/2002.00444.pdf)
