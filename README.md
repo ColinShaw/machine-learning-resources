@@ -2116,6 +2116,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Deep Reinforcement Learning Based Trading Application at JP Morgan Chase](https://medium.com/@ranko.mosic/reinforcement-learning-based-trading-application-at-jp-morgan-chase-f829b8ec54f2)
+
   * [What My Deep Model Doesn't Know...](http://mlg.eng.cam.ac.uk/yarin/blog_3d801aa532c1ce.html)
 
   * [A Visual Exploration of Gaussian Processes](https://distill.pub/2019/visual-exploration-gaussian-processes/)
