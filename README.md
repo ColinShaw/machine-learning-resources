@@ -2118,6 +2118,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [The Evolution and Core Concepts of Deep Learning & Neural Networks](https://www.analyticsvidhya.com/blog/2016/08/evolution-core-concepts-deep-learning-neural-networks/)
+
   * [Parallel and Distributed Deep Learning: A Survey](https://towardsdatascience.com/parallel-and-distributed-deep-learning-a-survey-97137ff94e4c)
 
   * [Deep Reinforcement Learning Based Trading Application at JP Morgan Chase](https://medium.com/@ranko.mosic/reinforcement-learning-based-trading-application-at-jp-morgan-chase-f829b8ec54f2)
