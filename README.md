@@ -84,6 +84,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Demystifying Parallel and Distributed Deep Learning: An In-Depth Concurrency Analysis](https://arxiv.org/pdf/1802.09941.pdf)
+
   * [The Next Decade in AI: Four Steps Towards Robust Artificial Intelligence](https://arxiv.org/pdf/2002.06177.pdf)
 
   * [GEOM-GCN: GEOMETRIC GRAPH CONVOLUTIONAL NETWORKS](https://arxiv.org/pdf/2002.05287.pdf)
