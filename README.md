@@ -84,6 +84,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Universal-RCNN: Universal Object Detector via Transferable Graph R-CNN](https://arxiv.org/pdf/2002.07417.pdf)
+
   * [RECURRENT INDEPENDENT MECHANISMS](https://arxiv.org/pdf/1909.10893.pdf)
 
   * [Predicting trends in the quality of state-of-the-art neural networks without access to training or testing data](https://arxiv.org/pdf/2002.06716.pdf)
