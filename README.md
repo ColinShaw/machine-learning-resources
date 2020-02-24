@@ -84,6 +84,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Bayesian Deep Learning and a Probabilistic Perspective of Generalization](https://arxiv.org/pdf/2002.08791.pdf)
+
   * [Wavesplit: End-to-End Speech Separation by Speaker Clustering](https://arxiv.org/pdf/2002.08933.pdf)
 
   * [Learning Interpretable Models in the Property Specification Language](https://arxiv.org/pdf/2002.03668v1.pdf)
