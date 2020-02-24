@@ -84,6 +84,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Fast Differentiable Sorting and Ranking](https://arxiv.org/pdf/2002.08871.pdf)
+
   * [Bayesian Deep Learning and a Probabilistic Perspective of Generalization](https://arxiv.org/pdf/2002.08791.pdf)
 
   * [Wavesplit: End-to-End Speech Separation by Speaker Clustering](https://arxiv.org/pdf/2002.08933.pdf)
