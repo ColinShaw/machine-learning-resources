@@ -2134,6 +2134,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Mathematicians propose new way of using neural networks to work with noisy, high-dimensional data](https://phys.org/news/2020-02-mathematicians-neural-networks-noisy-high-dimensional.html)
+
   * [The Evolution and Core Concepts of Deep Learning & Neural Networks](https://www.analyticsvidhya.com/blog/2016/08/evolution-core-concepts-deep-learning-neural-networks/)
 
   * [Parallel and Distributed Deep Learning: A Survey](https://towardsdatascience.com/parallel-and-distributed-deep-learning-a-survey-97137ff94e4c)
