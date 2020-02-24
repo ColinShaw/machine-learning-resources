@@ -84,6 +84,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Extended Isolation Forest](https://arxiv.org/pdf/1811.02141.pdf)
+
   * [Fast Differentiable Sorting and Ranking](https://arxiv.org/pdf/2002.08871.pdf)
 
   * [Bayesian Deep Learning and a Probabilistic Perspective of Generalization](https://arxiv.org/pdf/2002.08791.pdf)
