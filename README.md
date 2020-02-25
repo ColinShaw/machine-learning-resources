@@ -84,6 +84,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [BlenderProc](https://arxiv.org/pdf/1911.01911.pdf)
+
   * [RGPNET: A REAL-TIME GENERAL PURPOSE SEMANTIC SEGMENTATION](https://arxiv.org/pdf/1912.01394.pdf)
 
   * [Extended Isolation Forest](https://arxiv.org/pdf/1811.02141.pdf)
