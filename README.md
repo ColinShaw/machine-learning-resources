@@ -84,6 +84,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [RGPNET: A REAL-TIME GENERAL PURPOSE SEMANTIC SEGMENTATION](https://arxiv.org/pdf/1912.01394.pdf)
+
   * [Extended Isolation Forest](https://arxiv.org/pdf/1811.02141.pdf)
 
   * [Fast Differentiable Sorting and Ranking](https://arxiv.org/pdf/2002.08871.pdf)
