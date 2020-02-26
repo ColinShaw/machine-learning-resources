@@ -84,6 +84,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model](https://arxiv.org/pdf/1911.08265.pdf)
+
   * [BlenderProc](https://arxiv.org/pdf/1911.01911.pdf)
 
   * [RGPNET: A REAL-TIME GENERAL PURPOSE SEMANTIC SEGMENTATION](https://arxiv.org/pdf/1912.01394.pdf)
