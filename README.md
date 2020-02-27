@@ -84,6 +84,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Wavesplit: End-to-End Speech Separation by Speaker Clustering](https://arxiv.org/pdf/2002.08933.pdf)
+
   * [Roto-Translation Equivariant Convolutional Networks: Application to Histopathology Image Analysis](https://arxiv.org/pdf/2002.08725.pdf)
 
   * [Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model](https://arxiv.org/pdf/1911.08265.pdf)
