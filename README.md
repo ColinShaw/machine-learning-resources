@@ -84,6 +84,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [SalsaNext: Fast Semantic Segmentation of LiDAR Point Clouds for Autonomous Driving](https://arxiv.org/pdf/2003.03653.pdf)
+
   * [HeatNet: Bridging the Day-Night Domain Gap in Semantic Segmentation with Thermal Images](https://arxiv.org/pdf/2003.04645.pdf)
 
   * [MonoPair: Monocular 3D Object Detection Using Pairwise Spatial Relationships](https://arxiv.org/pdf/2003.00504.pdf)
