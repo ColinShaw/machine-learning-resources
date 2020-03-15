@@ -84,6 +84,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [HeatNet: Bridging the Day-Night Domain Gap in Semantic Segmentation with Thermal Images](https://arxiv.org/pdf/2003.04645.pdf)
+
   * [MonoPair: Monocular 3D Object Detection Using Pairwise Spatial Relationships](https://arxiv.org/pdf/2003.00504.pdf)
 
   * [Wavesplit: End-to-End Speech Separation by Speaker Clustering](https://arxiv.org/pdf/2002.08933.pdf)
