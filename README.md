@@ -84,6 +84,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [TensorFlow Quantum: A Software Framework for Quantum Machine Learning](https://arxiv.org/pdf/2003.02989.pdf)
+
   * [LAGRANGIAN NEURAL NETWORKS](https://arxiv.org/pdf/2003.04630.pdf)
 
   * [SalsaNext: Fast Semantic Segmentation of LiDAR Point Clouds for Autonomous Driving](https://arxiv.org/pdf/2003.03653.pdf)
