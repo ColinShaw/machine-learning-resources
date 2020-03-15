@@ -84,6 +84,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [LAGRANGIAN NEURAL NETWORKS](https://arxiv.org/pdf/2003.04630.pdf)
+
   * [SalsaNext: Fast Semantic Segmentation of LiDAR Point Clouds for Autonomous Driving](https://arxiv.org/pdf/2003.03653.pdf)
 
   * [HeatNet: Bridging the Day-Night Domain Gap in Semantic Segmentation with Thermal Images](https://arxiv.org/pdf/2003.04645.pdf)
