@@ -84,6 +84,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Learning Predictive Representations for Deformable Objects Using Contrastive Estimation](https://arxiv.org/pdf/2003.05436.pdf)
+
   * [AutoML-Zero: Evolving Machine Learning Algorithms From Scratch](https://arxiv.org/pdf/2003.03384.pdf)
 
   * [TensorFlow Quantum: A Software Framework for Quantum Machine Learning](https://arxiv.org/pdf/2003.02989.pdf)
