@@ -84,6 +84,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Dynamic ReLU](https://arxiv.org/pdf/2003.10027.pdf)
+
   * [SEED RL: SCALABLE AND EFFICIENT DEEP-RL WITH ACCELERATED CENTRAL INFERENCE](https://arxiv.org/pdf/1910.06591.pdf)
 
   * [Redesigning SLAM for Arbitrary Multi-Camera Systems](http://rpg.ifi.uzh.ch/docs/ICRA20_Kuo.pdf)
