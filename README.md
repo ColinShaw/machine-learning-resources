@@ -2168,6 +2168,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Keypoint Detection using Mask R-CNN](https://github.com/microsoft/computervision-recipes/blob/master/scenarios/detection/03_keypoint_rcnn.ipynb)
+
   * [Graph Representation Learning](https://github.com/dsgiitr/graph_nets)
 
   * [Mathematicians propose new way of using neural networks to work with noisy, high-dimensional data](https://phys.org/news/2020-02-mathematicians-neural-networks-noisy-high-dimensional.html)
