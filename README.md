@@ -84,6 +84,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [SOLOv2: Dynamic, Faster and Stronger](https://arxiv.org/pdf/2003.10152.pdf)
+
   * [LEARNING TO REACH GOALS WITHOUT REINFORCEMENT LEARNING](https://arxiv.org/pdf/1912.06088.pdf)
 
   * [Learning Predictive Representations for Deformable Objects Using Contrastive Estimation](https://arxiv.org/pdf/2003.05436.pdf)
