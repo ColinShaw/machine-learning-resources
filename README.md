@@ -84,6 +84,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Redesigning SLAM for Arbitrary Multi-Camera Systems](http://rpg.ifi.uzh.ch/docs/ICRA20_Kuo.pdf)
+
   * [SOLOv2: Dynamic, Faster and Stronger](https://arxiv.org/pdf/2003.10152.pdf)
 
   * [LEARNING TO REACH GOALS WITHOUT REINFORCEMENT LEARNING](https://arxiv.org/pdf/1912.06088.pdf)
