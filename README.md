@@ -84,6 +84,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Deep White-Balance Editing](https://arxiv.org/pdf/2004.01354.pdf)
+
   * [Dynamic ReLU](https://arxiv.org/pdf/2003.10027.pdf)
 
   * [SEED RL: SCALABLE AND EFFICIENT DEEP-RL WITH ACCELERATED CENTRAL INFERENCE](https://arxiv.org/pdf/1910.06591.pdf)
