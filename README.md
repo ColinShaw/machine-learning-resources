@@ -59,6 +59,8 @@ good articles and some other resources.
   * [__Mathematics For Machine Learning__](https://mml-book.github.io/book/mml-book.pdf)
   
   * [__A Gentle Introduction to Deep Learning for Graphs__](https://arxiv.org/pdf/1912.12693.pdf)
+  
+  * [__Dive into Deep Learning__](http://d2l.ai)
    
    
 
