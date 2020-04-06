@@ -84,6 +84,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Graph Neural Networks Meet Neural-Symbolic Computing: A Survey and Perspective](https://arxiv.org/pdf/2003.00330.pdf)
+
   * [Deep White-Balance Editing](https://arxiv.org/pdf/2004.01354.pdf)
 
   * [Dynamic ReLU](https://arxiv.org/pdf/2003.10027.pdf)
