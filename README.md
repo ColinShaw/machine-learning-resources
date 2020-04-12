@@ -2174,6 +2174,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [A PyTorch implementation of NeRF](https://github.com/yenchenlin/nerf-pytorch)
+
   * [Keypoint Detection using Mask R-CNN](https://github.com/microsoft/computervision-recipes/blob/master/scenarios/detection/03_keypoint_rcnn.ipynb)
 
   * [Graph Representation Learning](https://github.com/dsgiitr/graph_nets)
