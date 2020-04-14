@@ -2178,6 +2178,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [HigherHRNet: Scale-Aware Representation Learning for Bottom-Up Human Pose Estimation](https://github.com/HRNet/HigherHRNet-Human-Pose-Estimation)
+
   * [3D Photography using Context-aware Layered Depth Inpainting](https://github.com/vt-vl-lab/3d-photo-inpainting)
 
   * [A PyTorch implementation of NeRF](https://github.com/yenchenlin/nerf-pytorch)
