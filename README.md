@@ -2176,6 +2176,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [3D Photography using Context-aware Layered Depth Inpainting](https://github.com/vt-vl-lab/3d-photo-inpainting)
+
   * [A PyTorch implementation of NeRF](https://github.com/yenchenlin/nerf-pytorch)
 
   * [Keypoint Detection using Mask R-CNN](https://github.com/microsoft/computervision-recipes/blob/master/scenarios/detection/03_keypoint_rcnn.ipynb)
