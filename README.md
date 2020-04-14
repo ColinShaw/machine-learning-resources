@@ -86,6 +86,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Deep High-Resolution Representation Learning for Human Pose Estimation](https://arxiv.org/pdf/1902.09212v1.pdf)
+
   * [3D IoU-Net: IoU Guided 3D Object Detector for Point Clouds](https://arxiv.org/pdf/2004.04962.pdf)
 
   * [Graph Neural Networks Meet Neural-Symbolic Computing: A Survey and Perspective](https://arxiv.org/pdf/2003.00330.pdf)
