@@ -86,6 +86,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [3D IoU-Net: IoU Guided 3D Object Detector for Point Clouds](https://arxiv.org/pdf/2004.04962.pdf)
+
   * [Graph Neural Networks Meet Neural-Symbolic Computing: A Survey and Perspective](https://arxiv.org/pdf/2003.00330.pdf)
 
   * [Deep White-Balance Editing](https://arxiv.org/pdf/2004.01354.pdf)
