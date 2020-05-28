@@ -86,6 +86,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [ROAD SEGMENTATION ON LOW RESOLUTION LIDAR POINT CLOUDS FOR AUTONOMOUS VEHICLES](https://arxiv.org/pdf/2005.13102.pdf)
+
   * [Multimodal and multiview distillation for real-time player detection on a football field](https://arxiv.org/pdf/2004.07544.pdf)
 
   * [Deep High-Resolution Representation Learning for Human Pose Estimation](https://arxiv.org/pdf/1902.09212v1.pdf)
