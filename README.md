@@ -86,6 +86,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [GrokNet: Unified Computer Vision Model Trunk and Embeddings For Commerce](https://scontent-dfw5-1.xx.fbcdn.net/v/t39.8562-6/99353320_565175057533429_3886205100842024960_n.pdf)
+
   * [ROAD SEGMENTATION ON LOW RESOLUTION LIDAR POINT CLOUDS FOR AUTONOMOUS VEHICLES](https://arxiv.org/pdf/2005.13102.pdf)
 
   * [Multimodal and multiview distillation for real-time player detection on a football field](https://arxiv.org/pdf/2004.07544.pdf)
