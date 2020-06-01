@@ -86,6 +86,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Designing Data Augmentation for Simulating Interventions](https://arxiv.org/pdf/2005.01856.pdf)
+
   * [RMPE: Regional Multi-Person Pose Estimation](https://arxiv.org/pdf/1612.00137.pdf)
 
   * [Bilateral Attention Network for RGB-D Salient Object Detection](https://arxiv.org/pdf/2004.14582.pdf)
