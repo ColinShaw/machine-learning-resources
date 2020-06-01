@@ -86,6 +86,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [RMPE: Regional Multi-Person Pose Estimation](https://arxiv.org/pdf/1612.00137.pdf)
+
   * [Bilateral Attention Network for RGB-D Salient Object Detection](https://arxiv.org/pdf/2004.14582.pdf)
 
   * [GrokNet: Unified Computer Vision Model Trunk and Embeddings For Commerce](https://scontent-dfw5-1.xx.fbcdn.net/v/t39.8562-6/99353320_565175057533429_3886205100842024960_n.pdf)
