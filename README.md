@@ -86,6 +86,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Simulation-based Lidar Super-resolution for Ground Vehicles](https://arxiv.org/pdf/2004.05242.pdf)
+
   * [Designing Data Augmentation for Simulating Interventions](https://arxiv.org/pdf/2005.01856.pdf)
 
   * [RMPE: Regional Multi-Person Pose Estimation](https://arxiv.org/pdf/1612.00137.pdf)
