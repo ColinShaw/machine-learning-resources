@@ -86,6 +86,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Object Goal Navigation using Goal-Oriented Semantic Exploration](https://arxiv.org/pdf/2007.00643.pdf)
+
   * [High-Fidelity Generative Image Compression](https://arxiv.org/pdf/2006.09965.pdf)
 
   * [Simulation-based Lidar Super-resolution for Ground Vehicles](https://arxiv.org/pdf/2004.05242.pdf)
