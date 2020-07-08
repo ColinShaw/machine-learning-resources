@@ -2194,6 +2194,8 @@ good articles and some other resources.
 
 ## Online Learning Resources
 
+  * [Forecasting the weather with neural ODEs](https://sebastiancallh.github.io/post/neural-ode-weather-forecast/)
+
   * [High-Fidelity Generative Image Compression](https://hific.github.io)
 
   * [HigherHRNet: Scale-Aware Representation Learning for Bottom-Up Human Pose Estimation](https://github.com/HRNet/HigherHRNet-Human-Pose-Estimation)
