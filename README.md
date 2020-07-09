@@ -86,6 +86,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [SegFix: Model-Agnostic Boundary Refinement for Segmentation](https://arxiv.org/pdf/2007.04269.pdf)
+
   * [The Go Transformer: Natural Language Modeling for Game Play](https://arxiv.org/pdf/2007.03500.pdf)
 
   * [Object Goal Navigation using Goal-Oriented Semantic Exploration](https://arxiv.org/pdf/2007.00643.pdf)
