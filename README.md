@@ -86,6 +86,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [Quality Diversity Through Surprise](https://arxiv.org/pdf/1807.02397.pdf)
+
   * [Randomized Automatic Differentiation](https://arxiv.org/pdf/2007.10412.pdf)
 
   * [The Differentiable Cross-Entropy Method](https://arxiv.org/pdf/1909.12830.pdf)
