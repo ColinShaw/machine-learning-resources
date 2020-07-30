@@ -86,6 +86,8 @@ good articles and some other resources.
 
 ## Interesting and Relevant Articles
 
+  * [U2-ONet: A Two-level Nested Octave U-structure with Multiscale Attention Mechanism for Moving Instances Segmentation](https://arxiv.org/pdf/2007.13092.pdf)
+
   * [From proprioception to long-horizon planning in novel environments: A hierarchical RL model](https://arxiv.org/pdf/2006.06620.pdf)
 
   * [Quality Diversity Through Surprise](https://arxiv.org/pdf/1807.02397.pdf)
